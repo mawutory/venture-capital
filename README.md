@@ -62,7 +62,3 @@ python3 predict_startup.py 3 50000
 ```
 
 This command will predict the success or failure of a startup that is 3 years old and has received $50,000 in total funding.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
