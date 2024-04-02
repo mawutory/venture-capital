@@ -1,0 +1,1952 @@
+id,entity_type,name,normalized_name,category_code,status,founded_at,closed_at,investment_rounds,invested_companies,funding_rounds,funding_total_usd,milestones,relationships
+c:10012,Company,moviestring.com,moviestring,games_video,closed,2008-08-22,2010-01-01,0,0,0,0.0,0,1
+c:1006,Company,Youlicit,youlicit,web,closed,2006-09-01,2010-05-22,0,0,1,0.0,0,5
+c:10092,Company,FairSoftware,fairsoftware,web,closed,2007-01-01,2012-07-24,0,0,1,100000.0,1,1
+c:101,Company,SellABand,sellaband,games_video,closed,2006-08-01,2010-02-23,0,0,1,5000000.0,5,3
+c:10104,Company,Galaxy,galaxy,software,closed,2008-06-01,2010-07-01,0,0,0,0.0,1,2
+c:10116,Company,HammerKit,hammerkit,web,closed,2006-11-30,2013-09-01,0,0,1,1613875.0,0,3
+c:10153,Company,"ITOG, Inc.",itog,network_hosting,closed,2006-09-19,2010-04-16,0,0,1,205000.0,0,1
+c:10154,Company,PicMe,picme,software,closed,2008-01-01,2009-08-14,0,0,0,0.0,0,1
+c:10175,Company,My Best Interest,my best interest,software,closed,2006-11-05,2009-04-30,0,0,1,375000.0,0,3
+c:101859,Company,FaceTags,facetags,photo_video,closed,2011-05-15,2013-02-01,0,0,1,15000.0,0,1
+c:10194,Company,BragThis.com,bragthis,games_video,closed,2008-06-23,2012-05-12,0,0,1,0.0,0,1
+c:1021,Company,Mixaloo,mixaloo,games_video,closed,2007-02-01,2013-01-20,0,0,1,0.0,2,2
+c:1022,Company,Zipidee,zipidee,ecommerce,closed,2007-02-01,2011-02-10,0,0,1,0.0,3,1
+c:102413,Company,gopogo,gopogo,social,closed,2009-11-17,2012-01-01,0,0,1,3000000.0,0,2
+c:102898,Company,Tasted Menu,tasted menu,hospitality,closed,2009-01-01,2012-12-31,0,0,1,0.0,1,3
+c:102922,Company,easyOwn.it,easyown it,ecommerce,closed,2011-04-10,2013-05-01,0,0,1,138000.0,2,7
+c:102933,Company,mobintent,mobintent,advertising,closed,2010-08-01,2012-03-07,0,0,1,0.0,0,0
+c:10308,Company,Klatcher,klatcher,web,closed,2008-07-10,2012-04-08,0,0,1,150000.0,1,1
+c:103204,Company,PlayerDuel,playerduel,mobile,closed,2011-01-01,2013-05-01,0,0,2,21189.0,1,2
+c:10378,Company,artandseek,artandseek,other,closed,2007-06-27,2012-01-01,0,0,1,50000.0,0,2
+c:10398,Company,Picateers,picateers,web,closed,2005-01-01,2011-11-01,0,0,2,12100000.0,1,10
+c:10407,Company,Linkua,linkua,games_video,closed,2007-02-07,2013-08-21,0,0,1,0.0,0,0
+c:104481,Company,iyiyes,iyiyes,search,closed,2011-07-20,2013-12-01,0,0,0,0.0,0,0
+c:104788,Company,Shoes4you,shoes4you,ecommerce,closed,2011-06-01,2013-04-19,0,0,1,0.0,1,5
+c:104846,Company,Peers,peers,web,closed,2011-09-01,2011-01-01,0,0,0,0.0,0,0
+c:1049,Company,Confabb,confabb,web,closed,2006-06-01,2013-03-24,0,0,1,200000.0,1,3
+c:105004,Company,iSuggest,isuggest,mobile,closed,2008-11-01,2012-01-01,0,0,0,0.0,0,0
+c:105005,Company,Rundown,rundown,web,closed,2011-01-01,2012-06-01,0,0,1,0.0,0,4
+c:10519,Company,Divvy Systems,divvy systems,web,closed,2007-04-02,2010-01-01,0,0,0,0.0,2,2
+c:10547,Company,SimpleLeap Software,simpleleap software,software,closed,2008-01-01,2012-01-01,0,0,0,0.0,0,3
+c:10610,Company,Geodelic Systems,geodelic systems,mobile,closed,2008-01-01,2011-01-01,0,0,3,10500000.0,3,8
+c:106349,Company,Wabeebwa,wabeebwa,web,closed,2011-08-17,2013-04-01,0,0,1,5000.0,1,3
+c:10637,Company,iFavr,ifavr,other,closed,2008-01-01,2010-01-01,0,0,0,0.0,0,1
+c:10640,Company,Valid,valid,web,closed,2008-01-01,2009-02-01,0,0,0,0.0,0,3
+c:10643,Company,Fusion Garage,fusion garage,hardware,closed,2008-01-01,2012-01-01,0,0,1,6500000.0,1,1
+c:10684,Company,Gruvie,gruvie,network_hosting,closed,2007-01-01,2012-09-08,0,0,1,0.0,0,0
+c:1074,Company,Slush Pile Reader,slush pile reader,web,closed,2009-10-15,2011-01-01,0,0,0,0.0,0,1
+c:10751,Company,Pixelpipe,pixelpipe,mobile,closed,2008-01-01,2013-08-02,0,0,2,2300000.0,3,4
+c:10772,Company,Status,status,web,closed,2008-08-26,2009-07-01,0,0,0,0.0,1,0
+c:10807,Company,cmypitch,cmypitch,network_hosting,closed,2008-06-20,2010-01-01,0,0,0,0.0,0,2
+c:10857,Company,Getfugu,getfugu,software,closed,2007-01-01,2012-06-27,0,0,1,800000.0,2,3
+c:10873,Company,The Society,the society,web,closed,2007-01-01,2013-04-12,0,0,2,1500000.0,0,3
+c:10913,Company,ConSentry Networks,consentry networks,network_hosting,closed,2003-06-01,2011-09-02,0,0,3,46400000.0,1,11
+c:10923,Company,For Art's Sake Media,for arts sake media,web,closed,2007-10-01,2010-11-19,0,0,1,100000.0,0,2
+c:10930,Company,Telera,telera,software,closed,1998-08-01,2012-05-31,0,0,4,0.0,1,13
+c:10956,Company,Metranome,metranome,mobile,closed,2007-01-01,2012-03-01,0,0,1,2000000.0,0,0
+c:10969,Company,Semantra,semantra,software,closed,2003-01-01,2010-04-25,0,0,3,9100000.0,0,0
+c:11033,Company,Qpyn,qpyn,mobile,closed,2003-01-01,2013-06-14,0,0,1,891177.0,0,6
+c:11065,Company,DirectMoney,directmoney,public_relations,closed,2006-12-20,2010-08-15,0,0,1,98000.0,0,2
+c:11073,Company,Ziva Software,ziva software,mobile,closed,2005-01-01,2011-12-17,0,0,1,1700000.0,0,1
+c:112,Company,Zlio,zlio,ecommerce,closed,2005-11-01,2011-09-20,0,0,1,4000000.0,4,1
+c:1120,Company,Buzzwire,buzzwire,mobile,closed,2007-07-01,2013-01-01,0,0,2,12000000.0,1,5
+c:112052,Company,Klosetshop,klosetshop,ecommerce,closed,2011-05-15,2013-06-01,0,0,1,30000.0,0,0
+c:1127,Company,YowTRIP,yowtrip,web,closed,2007-09-01,2011-01-01,0,0,0,0.0,4,0
+c:11291,Company,Linkbee,linkbee,web,closed,2008-05-01,2011-01-31,0,0,0,0.0,0,2
+c:11332,Company,Club Scene Network,club scene network,games_video,closed,2004-02-10,2010-01-12,0,0,1,225000.0,0,5
+c:11397,Company,B-Side Entertainment,b side entertainment,games_video,closed,2005-04-07,2010-03-01,0,0,2,7350000.0,3,8
+c:1148,Company,Predictify,predictify,advertising,closed,2007-03-01,2009-08-01,0,0,1,4300000.0,3,4
+c:11498,Company,WeAre.Us,weare us,advertising,closed,2007-12-01,2012-04-23,0,0,1,50000.0,2,7
+c:1151,Company,United Dogs and Cats,united dogs and cats,web,closed,2007-01-01,2010-06-10,0,0,2,941288.0,3,4
+c:116,Company,Spotplex,spotplex,web,closed,2007-02-01,2008-05-09,0,0,1,450000.0,0,2
+c:11613,Company,EcoBuddiesâ¢ Interactive,ecobuddiesâ¢ interactive,other,closed,2007-10-01,2012-09-03,0,0,1,0.0,2,3
+c:11623,Company,Videofropper,videofropper,games_video,closed,2007-09-19,2010-08-08,0,0,1,0.0,0,1
+c:11628,Company,BuzzBuy,buzzbuy,ecommerce,closed,2008-08-10,2009-05-01,0,0,0,0.0,1,3
+c:116428,Company,wesync.tv,wesync tv,mobile,closed,2011-08-23,2011-11-01,0,0,1,100000.0,0,0
+c:11648,Company,Povo,povo,advertising,closed,2007-06-01,2011-11-04,0,0,1,0.0,0,2
+c:1172,Company,InstantAction,instantaction,games_video,closed,1999-01-01,2010-11-12,0,0,1,50000000.0,3,7
+c:1174,Company,Floobs,floobs,web,closed,2007-02-01,2010-01-21,0,0,0,0.0,1,3
+c:11777,Company,FanPrice,fanprice,games_video,closed,2007-05-01,2011-12-01,0,0,0,0.0,0,4
+c:117865,Company,The Luxury Club,the luxury club,fashion,closed,2010-01-01,2013-06-01,0,0,1,0.0,0,0
+c:11806,Company,SDH Group,sdh group,other,closed,2003-01-02,2011-06-01,0,0,1,915000.0,1,6
+c:11817,Company,MyShape,myshape,ecommerce,closed,2003-09-01,2013-04-01,0,0,4,28000000.0,2,3
+c:11818,Company,FlameUp,flameup,network_hosting,closed,2008-09-29,2013-01-01,0,0,0,0.0,0,1
+c:118418,Company,Bundle It,bundle it,web,closed,2011-03-02,2012-01-01,0,0,2,450000.0,1,1
+c:118573,Company,interspireSubmit,interspiresubmit,advertising,closed,2010-04-01,2012-06-01,0,0,1,500000.0,0,0
+c:11881,Company,One Season,one season,games_video,closed,2007-06-01,2010-07-22,0,0,2,3750000.0,1,2
+c:1189,Company,Eurekster,eurekster,web,closed,2004-01-01,2008-05-22,0,0,2,6850000.0,2,5
+c:119291,Company,Buscatucancha.com,buscatucancha,sports,closed,2010-11-26,2013-05-01,0,0,1,25000.0,1,3
+c:11937,Company,Koala Databank,koala databank,network_hosting,closed,2006-01-01,2011-01-29,0,0,1,20000.0,0,2
+c:11996,Company,Gossip Girls,gossip girls,other,closed,2003-01-01,2008-01-01,0,0,0,0.0,0,0
+c:120,Company,TripUp,tripup,web,closed,2006-01-01,2008-03-01,0,0,0,0.0,3,2
+c:1205,Company,Songbird,songbird,mobile,closed,2006-02-01,2013-06-28,0,0,3,11015719.0,4,27
+c:12073,Company,Playcharts.com,playcharts,games_video,closed,2008-10-01,2012-01-01,0,0,0,0.0,0,0
+c:12094,Company,Tailgate Technologies,tailgate technologies,advertising,closed,2007-07-01,2012-01-01,0,0,1,0.0,0,2
+c:12099,Company,SolFocus,solfocus,cleantech,closed,2005-11-01,2013-01-01,0,0,8,211403000.0,2,6
+c:1212,Company,GridNetworks,gridnetworks,network_hosting,closed,2004-01-01,2012-08-17,0,0,4,30000000.0,2,7
+c:12170,Company,InterStilist Professionnel,interstilist professionnel,web,closed,2008-06-17,2012-01-01,0,0,0,0.0,0,0
+c:12177,Company,TripShake,tripshake,web,closed,2008-06-23,2012-09-04,0,0,1,0.0,0,4
+c:12179,Company,Vontoo,vontoo,public_relations,closed,2005-01-01,2012-10-31,0,0,2,2192000.0,3,10
+c:12188,Company,Mybandstock,mybandstock,games_video,closed,2009-01-15,2013-07-01,0,0,1,0.0,1,4
+c:122,Company,Fleck,fleck,web,closed,2006-11-01,2008-10-16,0,0,1,287033.0,7,2
+c:12203,Company,Infima Technologies,infima technologies,network_hosting,closed,2006-04-24,2009-01-01,0,0,2,630000.0,0,4
+c:12224,Company,DubMeNow,dubmenow,mobile,closed,2008-01-01,2013-06-01,0,0,4,7516703.0,3,5
+c:12249,Company,Microsupply,microsupply,hardware,closed,2001-07-01,2010-01-01,0,0,0,0.0,0,0
+c:1226,Company,fav.or.it,fav or it,web,closed,2007-08-01,2011-05-10,0,0,1,712000.0,3,2
+c:12269,Company,Freebo,freebo,web,closed,2008-06-12,2009-01-01,0,0,0,0.0,0,0
+c:12277,Company,Engineering Ideas,engineering ideas,consulting,closed,2008-05-14,2012-01-21,0,0,1,60000.0,0,4
+c:12329,Company,Digital Dandelion,digital dandelion,web,closed,2008-10-01,2012-09-19,0,0,1,25000.0,5,4
+c:12341,Company,Socialfly,socialfly,enterprise,closed,2008-08-01,2009-04-01,0,0,0,0.0,3,2
+c:12347,Company,GoHoster,gohoster,web,closed,2007-02-14,2010-01-01,0,0,0,0.0,0,1
+c:123614,Company,Kuponjo,kuponjo,advertising,closed,2010-04-06,2012-10-01,0,0,2,167600.0,1,1
+c:12378,Company,Karo Internet,karo internet,games_video,closed,2007-04-01,2012-01-01,0,0,3,1204795.0,2,1
+c:12444,Company,For Your Imagination,for your imagination,games_video,closed,2007-01-15,2010-02-03,0,0,1,1300000.0,1,7
+c:125,Company,Zooomr,zooomr,web,closed,2006-03-01,2006-01-01,0,0,1,50000.0,0,2
+c:12512,Company,Sonichall,sonichall,games_video,closed,2008-05-01,2009-11-01,0,0,0,0.0,0,1
+c:1253,Company,Faves,faves,web,closed,2004-12-01,2011-12-31,0,0,1,1500000.0,0,4
+c:12610,Company,Pumant,pumant,software,closed,2005-08-11,2012-01-04,0,0,1,1200000.0,0,0
+c:12620,Company,Tyfish,tyfish,mobile,closed,2007-11-08,2012-08-18,0,0,0,0.0,0,2
+c:12630,Company,Goodmail Systems,goodmail systems,security,closed,2003-01-01,2012-01-01,0,0,4,45000000.0,2,16
+c:12636,Company,Mogees,mogees,mobile,closed,2008-01-01,2009-07-01,0,0,0,0.0,1,0
+c:12711,Company,maufait,maufait,mobile,closed,2007-08-01,2011-02-24,0,0,1,25000.0,0,2
+c:12747,Company,QikCom,qikcom,enterprise,closed,2008-01-01,2009-02-23,0,0,0,0.0,2,1
+c:12783,Company,Tidalwave Trader,tidalwave trader,web,closed,2008-01-01,2011-03-29,0,0,1,200000.0,2,3
+c:12785,Company,Virtual Telephone & Telegraph,virtual telephone telegraph,enterprise,closed,2006-04-01,2012-09-10,0,0,1,3500000.0,0,3
+c:127903,Company,Orgger,orgger,web,closed,2011-04-01,2013-06-01,0,0,1,150000.0,0,1
+c:12830,Company,TasteSpace,tastespace,web,closed,2007-01-01,2010-01-01,0,0,1,300000.0,0,0
+c:12831,Company,Dolphin Geeks,dolphin geeks,network_hosting,closed,2005-07-16,2012-04-03,0,0,1,0.0,0,0
+c:1284,Company,Minekey,minekey,web,closed,2005-01-01,2012-08-18,0,0,2,3600000.0,3,10
+c:12873,Company,Star Fever Agency,star fever agency,games_video,closed,2009-02-28,2011-11-14,0,0,2,550000.0,0,0
+c:13006,Company,Newmerix,newmerix,software,closed,2002-01-01,2008-10-29,0,0,1,7000000.0,1,3
+c:13049,Company,Qoof,qoof,ecommerce,closed,2006-02-01,2013-04-02,0,0,1,1700000.0,2,3
+c:1305,Company,Needium,needium,enterprise,closed,2010-01-01,2012-07-16,0,0,1,1000000.0,2,5
+c:13083,Company,Mindity,mindity,web,closed,2005-12-01,2008-11-28,0,0,0,0.0,0,1
+c:13085,Company,BlogRush,blogrush,advertising,closed,2007-11-01,2008-11-03,0,0,0,0.0,0,0
+c:131124,Company,thankyouaga.in,thankyouaga in,web,closed,2011-08-01,2012-08-01,0,0,0,0.0,2,3
+c:13128,Company,LiveBuzz,livebuzz,mobile,closed,2008-04-01,2010-02-17,0,0,1,50000.0,0,1
+c:13149,Company,Salespush.com,salespush,enterprise,closed,2008-04-01,2012-06-30,0,0,2,290000.0,0,4
+c:131583,Company,CV Ingenuity,cv ingenuity,medical,closed,2008-01-01,2013-07-01,0,0,3,30926154.0,0,2
+c:13162,Company,mangofizz jobs,mangofizz jobs,web,closed,2007-01-01,2010-06-01,0,0,1,300000.0,0,2
+c:13215,Company,Zadby,zadby,games_video,closed,2002-01-01,2011-05-21,0,0,1,0.0,0,2
+c:13241,Company,iKobo,ikobo,web,closed,2001-01-01,2008-11-07,0,0,0,0.0,2,3
+c:13274,Company,kidthing,kidthing,ecommerce,closed,2005-12-01,2012-04-18,0,0,1,3000000.0,0,1
+c:13277,Company,GetBack,getback,web,closed,2007-09-01,2010-11-22,0,0,1,1700000.0,1,1
+c:13290,Company,HourVille,hourville,games_video,closed,2008-01-01,2011-10-05,0,0,1,0.0,1,4
+c:13358,Company,Q-magic,q magic,public_relations,closed,2007-02-01,2011-11-29,0,0,1,650000.0,0,3
+c:13410,Company,GlobalCrypto,globalcrypto,software,closed,2006-06-01,2012-07-06,0,0,2,1000000.0,0,0
+c:134280,Company,VIAP,viap,software,closed,2010-08-01,2012-02-01,0,0,2,850000.0,1,3
+c:13504,Company,Planet Metrics,planet metrics,cleantech,closed,2007-01-01,2011-02-07,0,0,1,2300000.0,2,2
+c:13512,Company,Illumix Software,illumix software,software,closed,2008-04-01,2012-07-02,0,0,1,3000000.0,0,2
+c:13544,Company,Easy Bill Online,easy bill online,public_relations,closed,2003-01-09,2012-11-24,0,0,1,100000.0,0,4
+c:13567,Company,pickrset,pickrset,games_video,closed,2007-06-01,2012-04-19,0,0,1,100000.0,0,0
+c:136461,Company,Avantra Biosciences,avantra biosciences,biotech,closed,2010-01-01,2012-05-01,0,0,1,8000000.0,0,2
+c:136632,Company,Red Moose,red moose,games_video,closed,2011-01-01,2012-01-01,0,0,0,0.0,1,2
+c:13714,Company,Qapacity,qapacity,other,closed,2008-06-01,2012-04-12,0,0,0,0.0,0,2
+c:137274,Company,Azelon Pharmaceuticals,azelon pharmaceuticals,biotech,closed,2000-01-01,2013-05-01,0,0,2,6922000.0,0,2
+c:13733,Company,PublicEarth,publicearth,travel,closed,2008-01-01,2011-02-15,0,0,2,4000000.0,2,7
+c:137664,Company,77 Pieces,77 pieces,web,closed,2010-05-25,2013-07-01,0,0,1,650000.0,1,3
+c:13801,Company,Tiberium,tiberium,software,closed,2004-04-20,2010-01-19,0,0,1,98064.0,0,1
+c:13813,Company,Behind the Burner,behind the burner,web,closed,2008-01-01,2012-10-04,0,0,1,500000.0,1,4
+c:13841,Company,Ecommo,ecommo,ecommerce,closed,2008-06-05,2011-07-11,0,0,1,58511.0,0,3
+c:138526,Company,The Football Social Club,the football social club,sports,closed,2009-07-01,2013-07-01,0,0,2,860760.0,1,4
+c:138814,Company,IDverge,idverge,security,closed,2010-11-01,2013-06-01,0,0,1,125000.0,1,5
+c:1389,Company,NebuAd,nebuad,advertising,closed,2006-01-01,2009-05-20,0,0,2,30150000.0,3,2
+c:139,Company,Swivel,swivel,search,closed,2005-12-01,2010-07-01,0,0,2,2000000.0,4,8
+c:139198,Company,Superhug,superhug,ecommerce,closed,2010-06-01,2012-01-01,0,0,0,0.0,1,0
+c:13921,Company,Amadesa,amadesa,software,closed,2005-05-15,2013-07-01,0,0,2,12800000.0,1,15
+c:13923,Company,TwentyFour6,twentyfour6,advertising,closed,2008-01-01,2009-03-01,0,0,1,65000.0,0,2
+c:139370,Company,Sharingforce,sharingforce,advertising,closed,2011-01-01,2013-06-01,0,0,1,101463.0,1,4
+c:139453,Company,Yibailin,yibailin,software,closed,2011-06-18,2013-05-01,0,0,1,60000.0,1,3
+c:139729,Company,MobileReactor,mobilereactor,software,closed,2010-01-01,2013-07-01,0,0,2,1175000.0,1,2
+c:13982,Company,AndSpot,andspot,mobile,closed,2008-11-04,2012-03-26,0,0,0,0.0,2,3
+c:139874,Company,Fipeo,fipeo,messaging,closed,2011-05-20,2013-05-01,0,0,1,0.0,1,3
+c:139960,Company,localvibe,localvibe,web,closed,2011-10-15,2012-01-01,0,0,0,0.0,1,2
+c:14022,Company,FirstDIBZ,firstdibz,public_relations,closed,2001-01-01,2010-01-01,0,0,0,0.0,0,2
+c:14028,Company,AutoVirt,autovirt,software,closed,2007-01-01,2012-02-01,0,0,7,24300000.0,2,5
+c:1403,Company,Zoji,zoji,web,closed,2004-10-01,2006-01-01,0,0,1,1500000.0,0,3
+c:140369,Company,GottaGeddit,gottageddit,ecommerce,closed,2013-02-14,2013-04-10,0,0,0,0.0,1,1
+c:14038,Company,Darkstrand,darkstrand,software,closed,2005-01-01,2012-03-04,0,0,1,12000000.0,0,1
+c:14063,Company,Raffstar,raffstar,web,closed,2008-08-01,2013-03-17,0,0,1,0.0,0,4
+c:140734,Company,Bluebox Now!,bluebox now,games_video,closed,2011-08-08,2011-01-01,0,0,1,0.0,1,2
+c:14084,Company,Wizzgo,wizzgo,games_video,closed,2006-07-01,2009-01-01,0,0,2,2500000.0,1,2
+c:141141,Company,ClearGist,cleargist,software,closed,2011-11-10,2012-05-01,0,0,1,20660.0,1,2
+c:141357,Company,Cherry,cherry,automotive,closed,2011-01-01,2012-12-23,0,0,2,5250000.0,2,6
+c:1416,Company,Apprema,apprema,ecommerce,closed,2007-08-23,2013-01-01,0,0,1,800000.0,1,2
+c:14171,Company,Dexmo,dexmo,network_hosting,closed,2006-09-01,2008-11-30,0,0,1,105000.0,0,2
+c:141752,Company,Etuvian,etuvian,mobile,closed,2011-01-01,2013-01-01,0,0,0,0.0,0,1
+c:141792,Company,Medivantix Technologies,medivantix technologies,health,closed,2011-03-01,2012-09-01,0,0,1,100000.0,0,3
+c:141854,Company,Nail Your Mortgage,nail your mortgage,finance,closed,2009-10-01,2012-01-01,0,0,1,3100000.0,1,3
+c:141859,Company,Roozz.com,roozz,software,closed,2010-10-01,2013-05-01,0,0,2,519311.0,2,3
+c:141884,Company,TastyNow.com,tastynow,hospitality,closed,2009-01-06,2011-02-01,0,0,1,25000.0,2,1
+c:141938,Company,9facts,9facts,social,closed,2011-05-01,2013-05-01,0,0,1,70000.0,1,3
+c:142085,Company,Viaziz Scam,viaziz scam,ecommerce,closed,2011-11-08,2012-06-01,0,0,1,2500.0,0,0
+c:14219,Company,1DayMakeover,1daymakeover,ecommerce,closed,2008-06-30,2010-08-19,0,0,1,50000.0,0,0
+c:142596,Company,Ogorod,ogorod,social,closed,2009-03-08,2012-01-01,0,0,2,1400000.0,0,0
+c:1426,Company,Skribit,skribit,web,closed,2007-11-11,2012-04-24,0,0,1,0.0,3,3
+c:14289,Company,Meijob,meijob,search,closed,2006-10-11,2011-05-14,0,0,1,1500000.0,1,2
+c:142955,Company,TV Interactive Systems,tv interactive systems,software,closed,2009-03-01,2012-02-19,0,0,1,0.0,1,1
+c:143192,Company,Analytical Path,analytical path,other,closed,2011-04-01,2013-08-31,0,0,0,0.0,1,2
+c:143214,Company,Klapstar,klapstar,public_relations,closed,2011-11-11,2012-05-01,0,0,0,0.0,1,3
+c:14327,Company,BetUknow,betuknow,public_relations,closed,2007-07-15,2011-01-01,0,0,1,750000.0,1,2
+c:143370,Company,Conexus-IT,conexus it,software,closed,2011-01-01,2013-04-01,0,0,1,500000.0,1,1
+c:14345,Company,Peek & Co,peek,mobile,closed,2007-11-01,2013-02-22,0,0,2,626096.0,3,6
+c:143616,Company,HN Discounts Corporation,hn discounts,ecommerce,closed,2011-10-01,2012-08-01,0,0,1,25000.0,1,2
+c:14375,Company,Bloggerce,bloggerce,software,closed,2006-01-01,2011-10-04,0,0,1,20000.0,0,2
+c:143839,Company,Daily Gangster,daily gangster,ecommerce,closed,2011-12-05,2012-01-01,0,0,0,0.0,1,2
+c:144205,Company,Mindlikes,mindlikes,ecommerce,closed,2011-02-10,2013-06-01,0,0,2,22500.0,1,2
+c:144229,Company,irrive,irrive,web,closed,2011-05-01,2012-12-01,0,0,0,0.0,1,10
+c:1443,Company,The Comotion Group,the comotion group,web,closed,2007-01-01,2008-01-01,0,0,0,0.0,0,3
+c:144300,Company,FeZo,fezo,enterprise,closed,2011-06-27,2013-05-01,0,0,1,60000.0,1,3
+c:1445,Company,xkoto,xkoto,software,closed,2005-01-01,2011-10-01,0,0,3,11035000.0,1,3
+c:14460,Company,Imagiin.,imagiin,advertising,closed,2006-02-10,2012-09-04,0,0,1,0.0,0,2
+c:144611,Company,Press,press,software,closed,2011-06-01,2013-06-01,0,0,1,70000.0,2,3
+c:144616,Company,Webupo,webupo,web,closed,2011-01-01,2013-06-01,0,0,1,1552.0,0,1
+c:144631,Company,VeteranCentral.com,veterancentral,social,closed,2011-12-15,2013-07-01,0,0,1,150000.0,0,1
+c:144687,Company,DateMyFamily.com,datemyfamily,social,closed,2011-11-11,2013-01-01,0,0,1,100000.0,2,4
+c:144720,Company,Pricebets,pricebets,sports,closed,2011-01-01,2013-01-01,0,0,1,175916.0,1,1
+c:144825,Company,CakeStyle,cakestyle,web,closed,2011-08-01,2013-08-01,0,0,1,1000000.0,2,2
+c:14483,Company,Hit Systems,hit systems,enterprise,closed,2008-09-01,2013-01-10,0,0,1,125000.0,0,2
+c:14502,Company,Power.com,power,web,closed,2006-11-01,2011-04-21,0,0,1,6000000.0,2,6
+c:145308,Company,KidsCash,kidscash,ecommerce,closed,2011-04-02,2013-01-01,0,0,1,0.0,1,4
+c:145783,Company,Wiredoo.com,wiredoo,search,closed,2012-12-01,2012-01-01,0,0,0,0.0,2,1
+c:145862,Company,Amazing Voucher Codes,amazing voucher codes,search,closed,2011-11-01,2012-01-01,0,0,0,0.0,0,0
+c:1459,Company,YouOS,youos,web,closed,2005-12-01,2008-07-30,0,0,1,0.0,1,4
+c:145903,Company,DataVote,datavote,enterprise,closed,2010-01-01,2012-01-01,0,0,1,100000.0,1,4
+c:146158,Company,Syndexa Pharmaceuticals,syndexa pharmaceuticals,biotech,closed,2005-01-01,2013-07-01,0,0,2,23500000.0,0,0
+c:146596,Company,AdexLink,adexlink,advertising,closed,2010-08-16,2012-08-01,0,0,1,2000000.0,0,0
+c:146600,Company,Silver Lining Limited,silver lining limited,software,closed,2005-01-01,2013-07-01,0,0,1,300000.0,1,1
+c:146643,Company,Tell It In 10,tell it in 10,photo_video,closed,2011-10-01,2012-03-01,0,0,1,25000.0,1,1
+c:14666,Company,REMOTV,remotv,mobile,closed,2007-02-10,2011-09-03,0,0,3,2700000.0,0,5
+c:146793,Company,Exuru!,exuru,web,closed,2011-07-01,2012-06-01,0,0,1,150000.0,1,4
+c:146942,Company,George Mobile,george mobile,messaging,closed,2010-09-03,2013-07-01,0,0,1,300000.0,1,3
+c:1470,Company,Adhysteria,adhysteria,web,closed,2007-09-01,2012-06-01,0,0,1,10000.0,0,1
+c:1471,Company,SeeToo,seetoo,enterprise,closed,2007-01-01,2012-04-23,0,0,1,1000000.0,1,2
+c:147111,Company,PressConnect,pressconnect,news,closed,2012-01-01,2013-06-01,0,0,1,500000.0,1,0
+c:147193,Company,Surf,surf,web,closed,2012-01-09,2012-03-05,0,0,0,0.0,1,2
+c:147236,Company,Paybubble,paybubble,mobile,closed,2012-01-01,2013-06-01,0,0,1,30000.0,1,3
+c:147285,Company,igadget.asia,igadget asia,news,closed,2012-01-01,2012-01-01,0,0,1,10000.0,0,0
+c:147529,Company,City Chatter,city chatter,mobile,closed,2011-10-10,2013-06-01,0,0,0,0.0,2,2
+c:14774,Company,Tellwiki,tellwiki,web,closed,2008-02-01,2008-07-26,0,0,1,0.0,0,3
+c:147866,Company,The Whoot,the whoot,web,closed,2012-01-01,2013-06-01,0,0,1,0.0,1,4
+c:147870,Company,Chances Media Entertainment,chances media entertainment,games_video,closed,2011-01-01,2012-01-01,0,0,0,0.0,0,0
+c:14791,Company,Zykis,zykis,public_relations,closed,2006-10-27,2013-04-29,0,0,1,800000.0,0,1
+c:148026,Company,Spotster,spotster,web,closed,2012-06-01,2012-06-01,0,0,1,250000.0,1,1
+c:148037,Company,Floggia,floggia,web,closed,2012-01-03,2013-01-01,0,0,0,0.0,1,1
+c:148284,Company,Classiphix,classiphix,ecommerce,closed,2009-09-19,2013-05-01,0,0,1,15000.0,1,1
+c:148439,Company,OKDJ.fm,okdj fm,games_video,closed,2011-02-01,2013-01-01,0,0,1,549970.0,1,3
+c:148566,Company,"MoveableCode, Inc.",moveablecode,mobile,closed,2010-01-01,2012-01-14,0,0,2,350000.0,1,3
+c:148639,Company,teextee,teextee,messaging,closed,2010-07-28,2013-07-01,0,0,1,14402.0,0,0
+c:148719,Company,Great Mobile Meetings,great mobile meetings,software,closed,2011-06-01,2013-06-01,0,0,1,100300.0,1,3
+c:149099,Company,Engagio,engagio,web,closed,2012-01-01,2013-06-01,0,0,1,540000.0,1,0
+c:149150,Company,DiskonHunter.com,diskonhunter,web,closed,2011-11-01,2012-01-01,0,0,1,100000.0,1,1
+c:149220,Company,Summd,summd,web,closed,2011-12-26,2013-01-01,0,0,0,0.0,1,2
+c:149279,Company,ClrTouch,clrtouch,advertising,closed,2010-07-01,2012-05-01,0,0,1,20000.0,1,1
+c:149302,Company,RealtyPerks,realtyperks,web,closed,2011-01-15,2012-01-01,0,0,0,0.0,1,4
+c:149911,Company,ComCrowd,comcrowd,software,closed,2011-04-08,2013-05-01,0,0,2,350000.0,0,0
+c:14993,Company,Exit41,exit41,software,closed,1999-01-01,2013-05-01,0,0,4,24200000.0,2,11
+c:15023,Company,Broadchoice,broadchoice,software,closed,2007-11-01,2013-06-18,0,0,1,2700000.0,0,5
+c:150332,Company,CheckInPage,checkinpage,mobile,closed,2011-09-01,2013-05-01,0,0,1,100000.0,0,0
+c:150373,Company,YouMinds,youminds,software,closed,2010-11-01,2013-05-11,0,0,0,0.0,0,0
+c:15041,Company,Livekick,livekick,web,closed,2009-01-01,2011-01-28,0,0,1,0.0,2,4
+c:150486,Company,Responsible City,responsible city,network_hosting,closed,2011-12-01,2012-01-01,0,0,1,0.0,0,0
+c:1505,Company,betNOW,betnow,web,closed,2005-01-01,2011-05-27,0,0,1,5000000.0,1,0
+c:150577,Company,StyleZen,stylezen,fashion,closed,2011-09-01,2013-04-01,0,0,1,20000.0,1,2
+c:150627,Company,Honeybear Healthcare LLC,honeybear healthcare,ecommerce,closed,2012-02-27,2013-01-01,0,0,0,0.0,1,1
+c:150644,Company,myglam,myglam,ecommerce,closed,2011-11-01,2013-06-01,0,0,1,2750000.0,1,5
+c:15073,Company,Twones,twones,games_video,closed,2008-07-01,2010-07-09,0,0,1,500000.0,2,6
+c:150778,Company,MatchFuel,matchfuel,software,closed,2011-09-01,2012-03-01,0,0,0,0.0,1,1
+c:150864,Company,Query Hunter,query hunter,enterprise,closed,2011-12-01,2013-01-01,0,0,1,0.0,1,1
+c:150976,Company,Good Works Now,good works now,ecommerce,closed,2011-01-01,2013-01-01,0,0,1,25000.0,1,2
+c:151,Company,TripHub,triphub,web,closed,2005-06-01,2008-08-25,0,0,0,0.0,2,6
+c:15129,Company,Zentact,zentact,network_hosting,closed,2008-09-01,2012-01-01,0,0,1,250000.0,1,3
+c:15130,Company,Knetwit Inc.,knetwit,web,closed,2007-06-26,2009-11-01,0,0,2,4600000.0,1,3
+c:151431,Company,Detangl,detangl,web,closed,2001-06-15,2012-01-01,0,0,0,0.0,0,0
+c:151469,Company,Aponia Laboratories,aponia laboratories,biotech,closed,2010-01-01,2013-05-01,0,0,3,4513712.0,0,0
+c:15148,Company,Novafora,novafora,software,closed,2004-01-01,2009-07-26,0,0,1,12000000.0,0,0
+c:151536,Company,Kliqed,kliqed,social,closed,2011-02-18,2012-01-01,0,0,1,0.0,1,3
+c:151728,Company,Tuner Coin,tuner coin,other,closed,2010-11-23,2013-10-18,0,0,0,0.0,1,3
+c:1518,Company,Utterz,utterz,mobile,closed,2007-09-17,2010-02-02,0,0,1,4000000.0,1,3
+c:152057,Company,Waddapp.com,waddapp,photo_video,closed,2012-01-01,2012-07-01,0,0,1,452865.0,0,0
+c:152219,Company,Seed Thief,seed thief,consulting,closed,2012-03-15,2012-07-05,0,0,0,0.0,1,1
+c:152253,Company,Designd,designd,ecommerce,closed,2012-03-01,2013-01-01,0,0,0,0.0,1,2
+c:152258,Company,99Presents,99presents,ecommerce,closed,2012-03-20,2013-03-01,0,0,1,20000.0,2,3
+c:15229,Company,artaculous,artaculous,games_video,closed,2007-08-01,2011-12-01,0,0,1,10000.0,1,3
+c:152364,Company,Time Bomb Deals,time bomb deals,advertising,closed,2011-04-01,2012-08-01,0,0,1,425000.0,1,4
+c:15251,Company,CitySpeek,cityspeek,web,closed,2008-08-01,2010-01-01,0,0,0,0.0,3,1
+c:152560,Company,Wantful,wantful,ecommerce,closed,2011-01-01,2013-09-06,0,0,1,5500000.0,2,6
+c:152681,Company,Pick a Student,pick a student,consulting,closed,2011-06-30,2011-06-01,0,0,1,40000.0,0,0
+c:153104,Company,Rentelligence,rentelligence,other,closed,2011-09-26,2013-06-01,0,0,1,62500.0,1,3
+c:153132,Company,weave,weave,web,closed,2012-01-01,2013-05-01,0,0,0,0.0,1,1
+c:153328,Company,Knoodle,knoodle,software,closed,2009-01-01,2013-05-07,0,0,0,0.0,0,0
+c:153403,Company,Gaston Labs,gaston labs,photo_video,closed,2012-03-21,2013-02-01,0,0,1,100000.0,2,3
+c:153461,Company,All Trend Tech,all trend tech,cleantech,closed,2012-03-29,2013-02-01,0,0,0,0.0,1,2
+c:153498,Company,"Sweatdrops, LLC",sweatdrops,health,closed,2011-09-01,2012-01-01,0,0,1,300000.0,1,1
+c:153532,Company,Dick or Bro,dick or bro,games_video,closed,2012-01-01,2013-05-01,0,0,1,150000.0,1,3
+c:153557,Company,TripFlick Travel Guide,tripflick travel guide,travel,closed,2011-07-01,2013-07-01,0,0,1,100000.0,1,0
+c:153590,Company,Pintics,pintics,web,closed,2012-01-10,2012-10-31,0,0,1,10000.0,2,1
+c:153739,Company,Flying Pig Digital,flying pig digital,games_video,closed,2010-01-01,2013-07-01,0,0,1,25000.0,0,0
+c:154124,Company,Zeerca,zeerca,ecommerce,closed,2011-04-12,2012-01-01,0,0,0,0.0,1,1
+c:15442,Company,HelpHive,helphive,web,closed,2008-01-01,2011-08-30,0,0,1,250000.0,3,5
+c:154441,Company,SixIntel,sixintel,software,closed,2011-07-04,2013-06-01,0,0,1,250000.0,1,5
+c:15445,Company,twitTangle,twittangle,web,closed,2008-12-09,2011-12-24,0,0,0,0.0,1,1
+c:15458,Company,eBillme,ebillme,ecommerce,closed,2004-10-01,2012-06-15,0,0,2,23000000.0,0,2
+c:15469,Company,Calisto100,calisto100,web,closed,2009-01-01,2010-01-01,0,0,0,0.0,0,2
+c:154793,Company,SalonBookr,salonbookr,fashion,closed,2011-11-01,2012-10-01,0,0,1,20000.0,1,2
+c:154850,Company,One Step Solutions,one step solutions,mobile,closed,2011-06-01,2013-04-01,0,0,1,30000.0,1,3
+c:15509,Company,Rudder,rudder,web,closed,2006-10-01,2010-11-05,0,0,1,2000000.0,1,3
+c:155257,Company,Admazely,admazely,advertising,closed,2011-10-01,2013-05-01,0,0,1,600000.0,1,4
+c:15558,Company,i2we,i2we,web,closed,2007-01-01,2013-06-11,0,0,1,750000.0,0,1
+c:155621,Company,Friendsignia,friendsignia,web,closed,2012-01-29,2013-06-01,0,0,1,15000.0,1,2
+c:15567,Company,Deline.JY Inc.,deline jy,web,closed,2008-10-01,2011-01-01,0,0,1,100000.0,0,7
+c:155821,Company,Nalace Corporation,nalace,ecommerce,closed,2012-01-01,2013-05-01,0,0,1,19000.0,1,1
+c:155893,Company,World of Avatar,world of avatar,mobile,closed,2010-04-01,2012-10-31,3,3,0,0.0,1,5
+c:155901,Company,Rewinery,rewinery,ecommerce,closed,2012-01-01,2013-11-21,0,0,0,0.0,2,1
+c:15599,Company,mBeat Media,mbeat media,mobile,closed,2008-01-01,2012-01-24,0,0,1,1500000.0,0,3
+c:156467,Company,Fifth Reserve,fifth reserve,ecommerce,closed,2012-04-01,2012-01-01,0,0,0,0.0,0,0
+c:156699,Company,PhotoFix UK,photofix uk,photo_video,closed,2011-01-01,2013-07-01,0,0,1,16090.0,1,1
+c:156721,Company,OdinOtvet,odinotvet,web,closed,2011-05-15,2013-03-01,0,0,1,500000.0,1,4
+c:15687,Company,SeeSaw Networks,seesaw networks,advertising,closed,2005-01-01,2012-01-01,0,0,5,21138876.0,0,4
+c:15692,Company,IMedExchange,imedexchange,web,closed,2007-01-01,2012-01-12,0,0,2,2624000.0,1,3
+c:15704,Company,Twitpay,twitpay,ecommerce,closed,2010-01-01,2012-06-01,0,0,2,500000.0,0,5
+c:15709,Company,Robotgalaxy,robotgalaxy,games_video,closed,2006-01-01,2012-12-09,0,0,2,12000000.0,0,1
+c:157234,Company,Soshowise,soshowise,web,closed,2011-06-08,2013-06-01,0,0,1,50000.0,1,12
+c:157442,Company,Lean Lobby,lean lobby,public_relations,closed,2011-12-01,2013-01-01,0,0,0,0.0,0,0
+c:1576,Company,iMedix Inc.,imedix,search,closed,2007-01-01,2012-02-13,0,0,1,2000000.0,4,4
+c:158294,Company,Newfield Design,newfield design,manufacturing,closed,2008-01-01,2013-06-01,0,0,1,662000.0,0,0
+c:158399,Company,Aspindle,aspindle,web,closed,2011-04-01,2012-01-01,0,0,0,0.0,1,1
+c:158482,Company,Gather.md,gather md,web,closed,2012-01-01,2012-06-01,0,0,1,20000.0,0,2
+c:15859,Company,twtcard,twtcard,web,closed,2008-12-01,2009-11-22,0,0,0,0.0,0,0
+c:15870,Company,Avega Systems,avega systems,hardware,closed,2005-01-01,2012-01-01,0,0,2,9500000.0,0,2
+c:15887,Company,Hammerhead Systems,hammerhead systems,hardware,closed,2002-01-01,2009-03-23,0,0,2,48000000.0,0,2
+c:15888,Company,Neopolitan Networks,neopolitan networks,web,closed,2002-01-01,2008-07-25,0,0,1,3170000.0,1,1
+c:158910,Company,GreenLight,greenlight,social,closed,2011-07-20,2013-03-01,0,0,1,40331.0,2,4
+c:1592,Company,Bahu,bahu,web,closed,2007-07-01,2009-01-01,0,0,1,1476100.0,2,4
+c:15944,Company,Twitter Tribune,twitter tribune,web,closed,2008-12-10,2009-10-01,0,0,0,0.0,0,0
+c:159456,Company,Exhibia,exhibia,ecommerce,closed,2011-04-01,2013-06-01,0,0,1,1000000.0,1,1
+c:159529,Company,Soteira,soteira,medical,closed,2004-01-01,2013-06-01,0,0,4,2691807.0,0,2
+c:159624,Company,Copperfasten,copperfasten,security,closed,2000-01-01,2013-05-01,0,0,1,627300.0,0,0
+c:15975,Company,Tunepresto,tunepresto,games_video,closed,2008-01-01,2012-10-20,0,0,1,263400.0,2,4
+c:159838,Company,FaceCheese,facecheese,web,closed,2012-05-18,2013-06-01,0,0,0,0.0,1,1
+c:160045,Company,PollVaultr,pollvaultr,software,closed,2012-01-01,2013-06-01,0,0,1,60000.0,0,0
+c:16012,Company,InboxQ,inboxq,search,closed,2009-11-01,2013-06-01,0,0,2,0.0,1,2
+c:160123,Company,PostRocket,postrocket,analytics,closed,2012-02-01,2013-08-15,0,0,2,610000.0,0,1
+c:160277,Company,Favour.it,favour it,web,closed,2012-04-01,2013-02-28,0,0,0,0.0,2,3
+c:160338,Company,FX Aligned,fx aligned,finance,closed,2011-01-01,2013-06-01,0,0,1,1250000.0,0,0
+c:16066,Company,VoloMedia,volomedia,advertising,closed,2005-01-01,2011-02-03,0,0,2,12000000.0,3,4
+c:16069,Company,Fuego Nation,fuego nation,web,closed,2007-01-01,2011-08-10,0,0,1,1500000.0,0,2
+c:161102,Company,People's Software Company,peoples software company,web,closed,2008-05-01,2008-01-01,0,0,1,0.0,1,2
+c:16111,Company,Applied Identity,applied identity,advertising,closed,2002-01-01,2012-01-01,0,0,3,33000000.0,1,2
+c:161293,Company,Unyqe,unyqe,software,closed,2011-11-10,2013-01-01,0,0,1,35000.0,0,1
+c:16134,Company,Kickfire,kickfire,software,closed,2006-01-01,2010-06-17,0,0,1,20000000.0,2,4
+c:161447,Company,WorkWith.me,workwith me,other,closed,2012-06-01,2013-04-01,0,0,1,250000.0,1,4
+c:161448,Company,LuxTicket.sg,luxticket sg,ecommerce,closed,2012-01-01,2012-11-01,0,0,1,0.0,0,2
+c:161578,Company,Picomize,picomize,photo_video,closed,2011-10-01,2012-10-01,0,0,1,12000.0,1,4
+c:16179,Company,AdYouNet,adyounet,advertising,closed,2006-01-01,2012-09-14,0,0,2,1400000.0,0,0
+c:162219,Company,Contur,contur,messaging,closed,2011-09-01,2012-11-01,0,0,1,20000.0,1,2
+c:162625,Company,AlphaStripe,alphastripe,social,closed,2012-05-02,2013-05-01,0,0,1,0.0,0,0
+c:16264,Company,Aquest Systems,aquest systems,hardware,closed,2004-01-01,2010-11-10,0,0,1,20000000.0,0,0
+c:1627,Company,WeShow,weshow,games_video,closed,2007-06-01,2008-12-02,0,0,1,5000000.0,1,2
+c:16277,Company,ChipVision Design,chipvision design,semiconductor,closed,2002-01-01,2011-07-08,0,0,2,10900000.0,0,0
+c:162884,Company,United Travel Technologies,united travel technologies,public_relations,closed,2010-09-01,2013-07-01,0,0,5,6000000.0,0,4
+c:16344,Company,PeopleRipple,peopleripple,network_hosting,closed,2007-03-01,2010-05-01,0,0,1,0.0,0,4
+c:16358,Company,Vibeex,vibeex,games_video,closed,2008-06-01,2009-03-01,0,0,0,0.0,2,1
+c:1637,Company,RipCode,ripcode,software,closed,2006-08-06,2012-07-01,0,0,4,33000000.0,3,10
+c:163802,Company,Anchovi Labs,anchovi labs,photo_video,closed,2011-11-01,2013-07-01,0,0,1,15000.0,1,5
+c:16406,Company,"RiverGlass, Inc.",riverglass,software,closed,2003-01-01,2011-10-12,0,0,2,6400000.0,1,4
+c:1643,Company,AdMedian LLC,admedian,web,closed,2003-10-01,2008-08-01,0,0,0,0.0,0,3
+c:164421,Company,Sv?t hv?zd,sv?t hv?zd,web,closed,2012-03-17,2013-01-01,0,0,0,0.0,1,1
+c:164507,Company,Taking Point,taking point,public_relations,closed,2009-09-29,2012-08-01,0,0,2,2020593.0,1,2
+c:16488,Company,Digital Performance,digital performance,advertising,closed,2002-01-01,2012-10-01,0,0,3,4476171.0,0,3
+c:164922,Company,Turf Geography Club,turf geography club,mobile,closed,2011-01-01,2013-02-01,0,0,2,890000.0,0,2
+c:16526,Company,Crowd Rent,crowd rent,web,closed,2009-01-15,2013-01-16,0,0,0,0.0,0,0
+c:165665,Company,Elephant.is,elephant is,education,closed,2012-01-01,2013-03-01,0,0,1,100000.0,1,3
+c:16569,Company,Storytlr,storytlr,network_hosting,closed,2008-01-01,2009-10-10,0,0,0,0.0,1,2
+c:16607,Company,Rapport,rapport,hardware,closed,2001-01-01,2012-02-07,0,0,2,25500000.0,0,0
+c:16615,Company,Trusty's,trustys,search,closed,2008-01-01,2010-07-01,0,0,0,0.0,1,1
+c:166185,Company,CPAASP,cpaasp,network_hosting,closed,1997-01-01,2011-01-01,0,0,0,0.0,0,0
+c:166463,Company,SeatSwapr,seatswapr,travel,closed,2012-04-27,2013-07-01,0,0,1,10000.0,1,1
+c:166548,Company,Maozhao,maozhao,web,closed,2011-10-01,2013-06-01,0,0,1,500000.0,1,1
+c:16655,Company,Become Media Inc.,become media,web,closed,2008-08-30,2010-01-01,0,0,1,100000.0,0,1
+c:166644,Company,Yakify,yakify,web,closed,2012-01-01,2013-02-01,0,0,1,100000.0,0,3
+c:16672,Company,Digiprof,digiprof,games_video,closed,2008-08-12,2010-01-01,0,0,0,0.0,0,0
+c:166763,Company,27 Perry,27 perry,ecommerce,closed,2012-07-25,2013-01-01,0,0,1,118000.0,1,2
+c:167,Company,Sway,sway,advertising,closed,2004-12-03,2012-12-02,0,0,1,2000000.0,2,6
+c:167053,Company,Dose of Style,dose of style,other,closed,2012-06-25,2013-06-15,0,0,0,0.0,0,0
+c:16709,Company,Focus,focus,enterprise,closed,2005-08-01,2012-09-15,0,0,1,12170000.0,2,7
+c:167165,Company,Decor Buffs,decor buffs,other,closed,2012-06-24,2013-06-15,0,0,0,0.0,0,0
+c:167276,Company,datatracker,datatracker,analytics,closed,2012-01-07,2013-05-01,0,0,1,16000.0,0,3
+c:167318,Company,Poosh All,poosh all,mobile,closed,2012-05-01,2012-01-01,0,0,0,0.0,1,0
+c:16736,Company,Zeugma Systems,zeugma systems,hardware,closed,2004-01-01,2011-07-18,0,0,2,31500000.0,1,4
+c:16747,Company,Veeda,veeda,web,closed,2007-10-01,2010-04-21,0,0,1,0.0,0,1
+c:16753,Company,Stiki Digital,stiki digital,web,closed,2007-03-01,2009-06-30,0,0,3,325000.0,1,4
+c:16757,Company,Extreme Enterprises,extreme enterprises,enterprise,closed,2007-11-28,2011-01-01,0,0,8,1455000.0,3,10
+c:16761,Company,scanR,scanr,mobile,closed,2005-01-01,2011-07-17,0,0,2,14200000.0,1,5
+c:16770,Company,QSecure,qsecure,security,closed,2003-01-01,2012-09-22,0,0,5,49000000.0,1,8
+c:167795,Company,spotdock,spotdock,web,closed,2011-11-15,2013-06-01,0,0,1,600000.0,0,4
+c:168035,Company,Groovideo,groovideo,web,closed,2011-01-01,2013-05-01,0,0,1,0.0,1,1
+c:168523,Company,Talenz,talenz,web,closed,2008-01-01,2011-09-28,0,0,1,50000.0,0,2
+c:168549,Company,ItsPlatonic,itsplatonic,social,closed,2012-03-01,2013-09-29,0,0,2,211002.0,1,2
+c:168574,Company,HundredApples,hundredapples,education,closed,2011-01-01,2013-06-01,0,0,1,50000.0,0,2
+c:168809,Company,pitch.,pitch,other,closed,2012-01-01,2013-05-01,0,0,0,0.0,1,0
+c:168872,Company,Tastemaker Labs,tastemaker labs,mobile,closed,2012-06-06,2013-04-01,0,0,1,500000.0,0,0
+c:169005,Company,Fanbouts,fanbouts,sports,closed,2012-07-10,2013-06-01,0,0,1,0.0,1,3
+c:1692,Company,SimulScribe,simulscribe,web,closed,2003-03-18,2013-04-30,0,0,3,5700000.0,2,6
+c:169405,Company,Camcada,camcada,games_video,closed,2012-08-05,2013-02-15,0,0,0,0.0,1,1
+c:169472,Company,Outline App,outline app,enterprise,closed,2012-02-13,2013-01-01,0,0,1,20118.0,1,2
+c:169483,Company,SocialDial,socialdial,messaging,closed,2012-01-01,2013-06-01,0,0,1,1000000.0,0,0
+c:169662,Company,Roundcourt,roundcourt,web,closed,2012-02-01,2012-01-01,0,0,0,0.0,1,1
+c:169682,Company,SteadyFare,steadyfare,travel,closed,2012-06-01,2012-10-01,0,0,1,25000.0,1,3
+c:16973,Company,IonLogix Systems,ionlogix systems,software,closed,2007-12-11,2011-02-02,0,0,1,30000.0,0,1
+c:17000,Company,KlickSports,klicksports,mobile,closed,2006-01-01,2012-01-01,0,0,1,1200000.0,1,5
+c:170060,Company,Opicos,opicos,social,closed,2012-03-01,2013-06-01,0,0,1,1000000.0,1,3
+c:17030,Company,SendMeHome.com,sendmehome,games_video,closed,2008-07-01,2012-06-04,0,0,1,50000.0,1,2
+c:170346,Company,Travolver,travolver,travel,closed,2011-06-01,2013-04-01,0,0,1,2000000.0,2,10
+c:17073,Company,4Blox,4blox,software,closed,2006-08-01,2012-06-16,0,0,1,0.0,1,2
+c:170889,Company,Friendly Wager App,friendly wager app,sports,closed,2011-07-27,2013-06-01,0,0,1,0.0,1,1
+c:1712,Company,PlayCafe,playcafe,games_video,closed,2006-04-01,2009-01-30,0,0,1,0.0,0,6
+c:171263,Company,AStarApps,astarapps,other,closed,2012-06-01,2013-03-01,0,0,0,0.0,1,2
+c:171305,Company,GleeMaster,gleemaster,fashion,closed,2010-04-01,2013-06-01,0,0,1,2300000.0,1,5
+c:171331,Company,trustedsafe,trustedsafe,security,closed,2011-06-16,2012-01-01,0,0,1,714250.0,1,2
+c:171355,Company,IndiaEver.com,indiaever,music,closed,2012-08-01,2013-06-01,0,0,1,20000.0,0,0
+c:17136,Company,Kore Virtual Machines,kore virtual machines,software,closed,2008-01-01,2012-01-01,0,0,1,2189440.0,0,2
+c:171449,Company,Mixers,mixers,social,closed,2011-06-21,2012-09-01,0,0,1,100000.0,1,4
+c:171782,Company,Sonda41,sonda41,analytics,closed,2012-06-08,2012-08-01,0,0,2,0.0,0,0
+c:171848,Company,Sport Telegram,sport telegram,mobile,closed,2012-07-15,2013-01-01,0,0,1,25000.0,1,1
+c:172250,Company,"Coterie, Inc.",coterie,social,closed,2012-04-01,2013-09-14,0,0,1,1500000.0,1,5
+c:172438,Company,Incredibli,incredibli,other,closed,2012-07-07,2013-05-01,0,0,0,0.0,1,2
+c:17252,Company,D2C Games,d2c games,games_video,closed,2006-01-01,2008-02-26,0,0,2,7500000.0,1,1
+c:172887,Company,DealDown,dealdown,web,closed,2012-05-07,2012-11-01,0,0,0,0.0,1,2
+c:173118,Company,Relationship Analytics,relationship analytics,analytics,closed,2012-08-01,2013-08-01,0,0,2,125000.0,1,2
+c:17317,Company,ZinkoTek,zinkotek,web,closed,2007-04-01,2010-04-16,0,0,1,2000000.0,0,0
+c:173720,Company,HashTip,hashtip,web,closed,2012-03-12,2013-06-01,0,0,1,200000.0,2,4
+c:173915,Company,WISETIVI,wisetivi,hardware,closed,2011-04-10,2013-05-01,0,0,2,620000.0,0,0
+c:17397,Company,HeySpace,heyspace,web,closed,2005-01-01,2009-10-04,0,0,1,20000000.0,0,0
+c:17429,Company,Speedshape,speedshape,advertising,closed,2003-01-01,2013-08-01,0,0,1,5000000.0,1,2
+c:174378,Company,IcyApps,icyapps,mobile,closed,2012-01-01,2013-01-01,0,0,0,0.0,0,0
+c:17446,Company,LiveRSVP,liversvp,enterprise,closed,2008-02-01,2010-03-16,0,0,1,0.0,0,6
+c:174618,Company,El Teatro,el teatro,games_video,closed,2010-12-01,2012-06-01,0,0,1,40000.0,1,4
+c:17481,Company,Power Analog Microelectronics,power analog microelectronics,hardware,closed,2004-01-01,2012-09-18,0,0,2,12000000.0,0,2
+c:174927,Company,Scrattch,scrattch,web,closed,2012-10-01,2013-12-09,0,0,0,0.0,1,4
+c:17501,Company,Shocking Technologies,shocking technologies,hardware,closed,2006-01-01,2013-04-01,0,0,6,55900000.0,1,2
+c:175080,Company,Easiest Credit Card To Get Approved For,easiest credit card to get approved for,web,closed,2012-05-11,2013-05-01,0,0,1,25000.0,0,0
+c:17512,Company,Appscio,appscio,software,closed,2006-01-01,2011-01-01,0,0,2,7000000.0,0,4
+c:1753,Company,bluepulse,bluepulse,network_hosting,closed,1990-04-10,2010-01-01,0,0,1,6000000.0,2,7
+c:175305,Company,Lamppost,lamppost,mobile,closed,2012-05-01,2013-03-01,0,0,1,11309.0,1,2
+c:175491,Company,Backup Circle,backup circle,software,closed,2012-09-16,2013-05-01,0,0,1,40000.0,1,3
+c:17575,Company,Nanoradio,nanoradio,semiconductor,closed,2004-03-01,2013-06-01,0,0,5,79960000.0,0,2
+c:17610,Company,Aurora Feint,aurora feint,games_video,closed,2008-01-01,2012-11-01,0,0,2,7660000.0,3,3
+c:17612,Company,Jumper Networks,jumper networks,software,closed,2008-01-05,2012-12-23,0,0,1,0.0,0,2
+c:17623,Company,Ohai,ohai,games_video,closed,2008-01-01,2011-09-02,0,0,1,6000000.0,2,7
+c:176311,Company,Jotky,jotky,social,closed,2010-10-10,2013-01-01,0,0,1,500000.0,1,9
+c:17635,Company,Dial a Dealer,dial a dealer,other,closed,2006-01-01,2009-04-06,0,0,1,140000.0,0,2
+c:1766,Company,ARPU,arpu,advertising,closed,2005-05-01,2010-05-04,0,0,3,15564591.0,0,1
+c:17722,Company,Gemisimo,gemisimo,public_relations,closed,2008-01-01,2012-09-26,0,0,1,0.0,0,0
+c:17733,Company,RADLIVE,radlive,hardware,closed,2005-01-01,2012-04-26,0,0,1,7650000.0,0,0
+c:177403,Company,Flatora,flatora,ecommerce,closed,2011-12-23,2013-05-28,0,0,1,800000.0,1,5
+c:177438,Company,Intellisense,intellisense,enterprise,closed,2009-01-01,2010-11-12,0,0,1,100000.0,0,0
+c:177629,Company,Energie Etiche,energie etiche,software,closed,2010-01-01,2013-05-01,0,0,4,126321.0,0,0
+c:17775,Company,OpVista,opvista,software,closed,2000-01-01,2009-08-01,0,0,2,43000000.0,1,2
+c:178099,Company,Glass,glass,ecommerce,closed,2012-03-01,2013-07-01,0,0,1,0.0,2,1
+c:17825,Company,UWantSavings,uwantsavings,ecommerce,closed,2008-07-01,2010-01-01,0,0,0,0.0,0,3
+c:1785,Company,Journeys,journeys,web,closed,2007-05-01,2012-01-01,0,0,1,600000.0,1,3
+c:17856,Company,HealthLok,healthlok,web,closed,2008-10-01,2008-01-01,0,0,2,0.0,1,2
+c:17857,Company,Hidden City Games,hidden city games,other,closed,2004-01-01,2011-09-28,0,0,1,15000000.0,1,3
+c:178769,Company,Visualnest,visualnest,enterprise,closed,2012-06-01,2013-02-01,0,0,1,235350.0,0,1
+c:178920,Company,Duel,duel,games_video,closed,2012-04-01,2013-05-01,0,0,1,25000.0,1,3
+c:17908,Company,Bemba,bemba,web,closed,2007-01-01,2009-01-28,0,0,1,0.0,1,0
+c:17931,Company,Jobulous,jobulous,web,closed,2008-07-10,2010-01-01,0,0,1,200000.0,0,0
+c:17966,Company,Collexpo,collexpo,ecommerce,closed,2008-02-01,2012-03-13,0,0,1,225000.0,0,1
+c:17974,Company,Conformity,conformity,enterprise,closed,2007-07-01,2009-01-01,0,0,1,3000000.0,2,14
+c:18027,Company,CypherMax,cyphermax,hardware,closed,2000-01-01,2012-09-10,0,0,3,148000000.0,0,1
+c:18055,Company,VisualPin,visualpin,web,closed,2008-01-04,2009-01-01,0,0,0,0.0,2,0
+c:180652,Company,Picklify,picklify,ecommerce,closed,2012-03-01,2013-07-01,0,0,1,13000.0,2,8
+c:1808,Company,yoonew,yoonew,web,closed,2004-01-01,2010-02-01,0,0,2,4000000.0,3,3
+c:18080,Company,Etology,etology,web,closed,2005-06-01,2011-12-25,0,0,1,4000000.0,0,0
+c:18085,Company,Gecko Audio,gecko audio,software,closed,2006-01-01,2012-12-15,0,0,1,3000000.0,0,0
+c:1815,Company,Enforta,enforta,mobile,closed,2003-10-01,2013-08-05,0,0,3,40000000.0,3,2
+c:182099,Company,logolineup,logolineup,ecommerce,closed,2011-03-04,2013-06-01,0,0,1,325000.0,0,1
+c:182180,Company,VtagO,vtago,software,closed,2012-01-01,2013-05-01,0,0,1,25000.0,0,2
+c:18228,Company,AsesorÃ­as Digitales (Digital Advisors),asesorã­as digitales digital advisors,web,closed,2007-05-01,2010-05-16,0,0,1,6000.0,0,1
+c:18234,Company,Executive Intermediary,executive intermediary,other,closed,2007-07-07,2011-02-02,0,0,1,1000.0,0,0
+c:18294,Company,Bandbox,bandbox,games_video,closed,2007-03-01,2012-01-01,0,0,0,0.0,1,2
+c:183328,Company,Doormen.,doormen,mobile,closed,2011-01-01,2012-01-01,0,0,1,7500.0,1,4
+c:18351,Company,Spotigo,spotigo,software,closed,2005-01-01,2009-09-19,0,0,1,638000.0,0,0
+c:183716,Company,UnBuyThat,unbuythat,ecommerce,closed,2011-11-01,2013-07-01,0,0,2,111000.0,1,9
+c:1844,Company,Mumboe,mumboe,software,closed,2005-08-01,2012-12-02,0,0,1,4500000.0,5,5
+c:18453,Company,Filmmortal,filmmortal,advertising,closed,2008-08-10,2013-06-01,0,0,3,155000.0,1,1
+c:185452,Company,Traffic Labs,traffic labs,mobile,closed,2012-11-04,2013-07-01,0,0,1,50000.0,1,2
+c:18547,Company,Pollsb,pollsb,network_hosting,closed,2007-07-01,2012-07-12,0,0,2,2000000.0,1,3
+c:18609,Company,Digital Marketing Solutions,digital marketing solutions,advertising,closed,2002-01-01,2012-06-05,0,0,2,0.0,0,6
+c:18636,Company,OneRoomRate.com,oneroomrate,web,closed,2007-11-01,2012-01-05,0,0,2,4000000.0,0,1
+c:18701,Company,Veebox,veebox,web,closed,2008-10-01,2011-02-02,0,0,1,100000.0,0,4
+c:18737,Company,LaunchMind,launchmind,web,closed,2009-02-15,2012-10-01,0,0,0,0.0,0,0
+c:18740,Company,PopJam,popjam,web,closed,2008-07-01,2010-01-07,0,0,1,0.0,2,3
+c:187584,Company,Mersimo,mersimo,web,closed,2012-08-01,2013-07-01,0,0,1,0.0,1,3
+c:18770,Company,HellHouse Media,hellhouse media,other,closed,2004-11-20,2010-05-31,0,0,1,250000.0,1,13
+c:18799,Company,Gridpop,gridpop,web,closed,2008-03-01,2009-01-01,0,0,0,0.0,0,1
+c:18865,Company,PLUQ,pluq,web,closed,2007-07-01,2010-04-13,0,0,1,450000.0,0,1
+c:18897,Company,Punch Entertainment,punch entertainment,software,closed,2005-05-10,2012-04-16,0,0,1,1200000.0,1,4
+c:1890,Company,Bizak,bizak,web,closed,2007-11-01,2012-01-01,0,0,1,0.0,0,1
+c:1895,Company,Current Media,current media,network_hosting,closed,2005-01-01,2013-08-20,0,0,1,15000000.0,2,12
+c:1899,Company,MOLI,moli,network_hosting,closed,2008-01-01,2010-05-24,0,0,2,55600000.0,2,9
+c:190769,Company,Linkedwith,linkedwith,mobile,closed,1999-03-01,2011-02-02,0,0,1,2000000.0,1,1
+c:19077,Company,servtag,servtag,mobile,closed,2007-09-22,2012-01-01,0,0,1,0.0,1,6
+c:19101,Company,Pocket Communications Northeast,pocket communications northeast,mobile,closed,2006-01-01,2012-01-01,0,0,2,125000000.0,2,0
+c:19122,Company,HealthyTweet,healthytweet,web,closed,2009-02-10,2009-01-01,0,0,1,500000.0,0,0
+c:191243,Company,MortgageBloom,mortgagebloom,web,closed,2012-11-15,2013-04-07,0,0,0,0.0,1,2
+c:19153,Company,Hotalot,hotalot,other,closed,2008-11-21,2012-01-02,0,0,1,252040.0,0,5
+c:19275,Company,Fliggo,fliggo,games_video,closed,2012-06-11,2009-09-17,0,0,1,0.0,1,2
+c:19303,Company,ABC Live,abc live,other,closed,2007-12-05,2013-03-29,0,0,1,25000.0,1,3
+c:193378,Company,GEEKmaister.com,geekmaister,mobile,closed,2013-03-01,2013-01-01,0,0,1,100000.0,0,2
+c:1935,Company,TV Shack,tv shack,games_video,closed,2007-12-01,2011-01-01,0,0,0,0.0,3,0
+c:193574,Company,Course Authority,course authority,education,closed,2013-01-12,2013-12-01,0,0,0,0.0,0,1
+c:19462,Company,Legal River,legal river,legal,closed,2009-01-01,2012-10-31,0,0,2,0.0,2,3
+c:19486,Company,M3X Media,m3x media,games_video,closed,2005-01-01,2012-06-15,0,0,1,10500000.0,0,1
+c:19506,Company,Gnomz Software,gnomz software,software,closed,2005-05-01,2009-08-31,0,0,0,0.0,0,1
+c:195311,Company,walkby,walkby,ecommerce,closed,2012-08-01,2013-01-01,0,0,2,650000.0,2,6
+c:195342,Company,ICONOGRAFICO,iconografico,design,closed,2012-09-01,2013-10-01,0,0,1,50000.0,1,1
+c:19538,Company,Kashless,kashless,ecommerce,closed,2008-09-01,2010-12-25,0,0,2,9000000.0,2,1
+c:195510,Company,MySocial Export,mysocial export,web,closed,2013-02-01,2013-05-01,0,0,0,0.0,1,1
+c:195524,Company,Plix,plix,games_video,closed,2011-01-01,2013-04-01,0,0,1,400000.0,0,1
+c:19554,Company,Champions365,champions365,games_video,closed,2008-08-01,2010-01-01,0,0,0,0.0,0,3
+c:1957,Company,Sharetivity,sharetivity,web,closed,2007-07-07,2012-11-11,0,0,1,2000000.0,1,1
+c:19625,Company,KidSwirl,kidswirl,web,closed,2009-02-19,2011-01-01,0,0,0,0.0,2,1
+c:19628,Company,Ondeego,ondeego,mobile,closed,2007-11-01,2011-02-01,0,0,1,0.0,0,1
+c:196387,Company,Trucaris,trucaris,other,closed,2011-04-05,2013-07-31,0,0,0,0.0,1,4
+c:19777,Company,Fabchannel,fabchannel,games_video,closed,2000-01-01,2009-03-07,0,0,0,0.0,1,0
+c:19798,Company,Foldees,foldees,web,closed,2007-08-31,2011-01-01,0,0,1,40000.0,0,2
+c:19852,Company,documistic,documistic,software,closed,2007-05-30,2009-05-30,0,0,1,100000.0,0,0
+c:19869,Company,Pacinian,pacinian,hardware,closed,2007-04-01,2012-01-01,0,0,1,350000.0,0,3
+c:19878,Company,Dmailer,dmailer,software,closed,2001-01-01,2010-10-01,0,0,1,3610000.0,0,0
+c:199,Company,coComment,cocomment,web,closed,2006-02-01,2012-03-31,0,0,1,5600000.0,3,3
+c:199002,Company,Coupons Near Me,coupons near me,web,closed,2013-02-04,2013-07-01,0,0,1,10000.0,0,0
+c:19935,Company,Ubequity,ubequity,web,closed,2003-05-27,2010-01-30,0,0,1,0.0,0,3
+c:19966,Company,Badongo.com,badongo,network_hosting,closed,2005-01-01,2013-04-15,0,0,1,0.0,0,3
+c:200256,Company,SweetSlap,sweetslap,ecommerce,closed,2012-08-01,2013-07-01,0,0,1,50000.0,1,2
+c:20033,Company,PayParade Pictures,payparade pictures,games_video,closed,2007-10-17,2012-01-27,0,0,2,200000.0,2,3
+c:20052,Company,Futuretec,futuretec,cleantech,closed,2005-01-01,2010-06-14,0,0,1,8065398.0,0,4
+c:20054,Company,North by South,north by south,software,closed,2007-01-01,2010-08-14,0,0,1,0.0,1,1
+c:20073,Company,SimilarSites.net,similarsites,search,closed,2007-07-27,2012-01-01,0,0,0,0.0,0,0
+c:2009,Company,MetaNotes,metanotes,web,closed,2007-08-15,2010-05-16,0,0,1,0.0,0,4
+c:201233,Company,PiAuto,piauto,automotive,closed,2011-02-01,2012-04-01,0,0,1,250000.0,1,1
+c:20144,Company,iconDial,icondial,public_relations,closed,2008-07-01,2011-09-04,0,0,1,50000.0,0,1
+c:20183,Company,Qwiji,qwiji,web,closed,2008-07-01,2009-12-15,0,0,0,0.0,0,2
+c:202,Company,Hotelicopter,hotelicopter,web,closed,2006-06-01,2012-08-01,0,0,2,5000000.0,6,4
+c:20250,Company,Tongxue,tongxue,web,closed,2013-03-02,2013-03-02,0,0,1,6000000.0,0,0
+c:20251,Company,Nonoba,nonoba,games_video,closed,2008-01-01,2013-01-01,0,0,1,0.0,2,1
+c:20318,Company,Skysheet,skysheet,software,closed,2009-01-01,2008-12-01,0,0,1,0.0,1,0
+c:20320,Company,Nambii,nambii,web,closed,2009-01-01,2009-04-17,0,0,1,0.0,1,2
+c:20353,Company,Boring,boring,other,closed,2007-01-01,2010-11-01,0,0,0,0.0,1,3
+c:20364,Company,Rovrr,rovrr,web,closed,2007-07-01,2011-07-01,0,0,0,0.0,1,3
+c:20397,Company,Shopnics,shopnics,hardware,closed,2008-10-01,2010-05-17,0,0,0,0.0,0,2
+c:20411,Company,InstaPayment,instapayment,ecommerce,closed,2005-05-04,2013-05-29,0,0,1,0.0,1,1
+c:20533,Company,Trendient,trendient,web,closed,2008-01-01,2011-12-19,0,0,1,0.0,0,0
+c:20613,Company,TrewCap,trewcap,games_video,closed,2006-11-30,2010-10-02,0,0,1,18000.0,0,3
+c:2066,Company,ClayValet,clayvalet,web,closed,2007-01-09,2008-10-14,0,0,0,0.0,0,5
+c:206616,Company,Biophytis,biophytis,biotech,closed,2006-01-01,2013-07-01,0,0,1,2600000.0,0,0
+c:20771,Company,Ravant,ravant,ecommerce,closed,2008-04-16,2009-06-17,0,0,0,0.0,0,2
+c:20782,Company,PickPark,pickpark,software,closed,2008-08-02,2009-08-22,0,0,1,15574.0,0,3
+c:20803,Company,Cruxy,cruxy,advertising,closed,2004-01-01,2009-04-01,0,0,0,0.0,0,0
+c:2082,Company,FanBoom,fanboom,web,closed,2007-09-01,2008-12-25,0,0,1,10000.0,0,2
+c:20832,Company,LookStat,lookstat,ecommerce,closed,2008-01-01,2012-05-29,0,0,1,500000.0,2,3
+c:208332,Company,CleanApp,cleanapp,mobile,closed,2013-02-05,2013-06-01,0,0,1,5300.0,1,4
+c:20955,Company,HowYouEco,howyoueco,web,closed,2007-11-01,2010-05-25,0,0,1,0.0,0,1
+c:21,Company,Wis.dm,wis dm,network_hosting,closed,2006-06-01,2012-01-01,0,0,1,5000000.0,0,4
+c:21059,Company,KnewCo,knewco,search,closed,2006-01-01,2013-06-01,0,0,2,3140000.0,1,2
+c:211067,Company,Exchange Group,exchange group,education,closed,2003-01-01,2013-08-10,0,0,1,0.0,0,0
+c:21120,Company,GoNogging,gonogging,ecommerce,closed,2007-01-01,2012-06-22,0,0,1,150000.0,1,2
+c:21157,Company,CityAmigo,cityamigo,web,closed,2007-06-26,2010-08-01,0,0,0,0.0,0,2
+c:21164,Company,VidPay,vidpay,advertising,closed,2008-01-01,2011-04-23,0,0,1,150000.0,1,2
+c:2121,Company,UGAME,ugame,web,closed,2007-04-20,2010-12-27,0,0,1,0.0,0,5
+c:21253,Company,Divided,divided,other,closed,2006-08-28,2011-08-16,0,0,1,100000.0,0,1
+c:21263,Company,TV Pixie,tv pixie,web,closed,2009-04-20,2012-06-03,0,0,1,69585.0,1,1
+c:21275,Company,Broadersheet,broadersheet,web,closed,2009-01-01,2010-02-13,0,0,1,0.0,0,2
+c:21319,Company,Aerovance,aerovance,biotech,closed,2004-01-01,2011-11-17,0,0,4,118500000.0,1,3
+c:2135,Company,China-8,china 8,web,closed,2006-10-08,2009-06-19,0,0,1,100000.0,2,1
+c:21351,Company,Bomeiti,bomeiti,advertising,closed,2007-09-01,2009-06-01,0,0,0,0.0,1,3
+c:21359,Company,Jobzle,jobzle,other,closed,2010-06-01,2013-01-01,0,0,2,30000.0,2,3
+c:21362,Company,zembly,zembly,software,closed,2008-06-06,2009-11-10,0,0,0,0.0,1,4
+c:214,Company,Ujogo,ujogo,web,closed,2007-07-01,2012-01-11,0,0,1,0.0,3,4
+c:21470,Company,Magic Rock Entertainment,magic rock entertainment,games_video,closed,2006-04-01,2010-11-24,0,0,1,100000.0,1,4
+c:21492,Company,Airship Ventures,airship ventures,other,closed,2007-01-01,2012-11-14,0,0,2,10500000.0,1,3
+c:21531,Company,Keenpath,keenpath,consulting,closed,2008-01-01,2011-12-31,0,0,0,0.0,1,1
+c:2154,Company,hubbuzz.com,hubbuzz,web,closed,2007-03-01,2010-12-15,0,0,1,750000.0,0,1
+c:21588,Company,Zinkk,zinkk,software,closed,2008-05-02,2010-12-01,0,0,0,0.0,0,5
+c:21607,Company,Service Beacon,service beacon,web,closed,2008-01-01,2009-04-30,0,0,0,0.0,0,0
+c:21634,Company,niid.to,niid to,web,closed,2008-08-01,2010-08-24,0,0,1,0.0,0,2
+c:2169,Company,LUNARR,lunarr,web,closed,2006-01-01,2009-05-10,0,0,0,0.0,1,3
+c:21759,Company,BookTour,booktour,search,closed,2009-01-01,2011-11-25,0,0,1,350000.0,0,1
+c:2178,Company,What They Like,what they like,web,closed,2007-08-29,2011-10-21,0,0,1,990000.0,0,2
+c:21915,Company,Videoflow,videoflow,games_video,closed,2009-01-08,2011-01-01,0,0,1,134250.0,0,0
+c:21942,Company,iSyndica,isyndica,enterprise,closed,2009-01-08,2010-11-01,0,0,2,500000.0,0,4
+c:21945,Company,myGreek,mygreek,web,closed,2008-07-08,2011-09-07,0,0,1,0.0,0,3
+c:219705,Company,Abound Trading inc,abound trading,ecommerce,closed,2013-04-26,2013-07-01,0,0,0,0.0,0,0
+c:22047,Company,Dream Village,dream village,other,closed,2008-11-01,2011-03-05,0,0,1,10000.0,0,3
+c:22113,Company,Factery,factery,web,closed,2009-04-01,2013-01-17,0,0,1,1200000.0,1,2
+c:22222,Company,FledgeWing,fledgewing,web,closed,2007-09-15,2013-05-01,0,0,0,0.0,0,2
+c:222272,Company,VII NETWORK,vii network,software,closed,2007-01-01,2013-07-01,0,0,2,1555124.0,0,1
+c:222326,Company,UannaBe,uannabe,web,closed,2009-02-01,2013-07-01,0,0,1,0.0,0,0
+c:22318,Company,View2Gether,view2gether,web,closed,2009-01-01,2012-08-21,0,0,2,0.0,0,1
+c:223501,Company,Fetch MD,fetch md,health,closed,2013-05-15,2013-07-01,0,0,1,25000.0,1,4
+c:22354,Company,kinkon,kinkon,web,closed,2008-09-04,2012-10-15,0,0,1,995625.0,2,8
+c:22425,Company,Tempolib,tempolib,mobile,closed,2009-03-01,2009-02-26,0,0,1,235800.0,0,2
+c:2243,Company,Qifang,qifang,web,closed,2007-08-01,2011-12-10,0,0,1,200000.0,2,1
+c:22449,Company,LETSGROOP,letsgroop,web,closed,2008-12-21,2012-10-13,0,0,1,100000.0,0,2
+c:2245,Company,Advaliant,advaliant,advertising,closed,2013-04-16,2009-05-04,0,0,1,100000.0,2,6
+c:22452,Company,Healogica,healogica,web,closed,2007-10-30,2010-05-01,0,0,2,890000.0,1,3
+c:2255,Company,openPeople,openpeople,web,closed,2006-07-01,2009-04-15,0,0,1,242880.0,0,1
+c:22557,Company,Bidoo,bidoo,web,closed,2004-04-20,2010-04-01,0,0,0,0.0,0,1
+c:22613,Company,ePrivateHire,eprivatehire,mobile,closed,2006-02-02,2009-05-26,0,0,1,258215.0,0,3
+c:22660,Company,Zumbua,zumbua,web,closed,2009-05-01,2010-07-12,0,0,0,0.0,0,1
+c:2272,Company,Smalltown,smalltown,web,closed,2005-01-15,2010-01-04,0,0,1,4000000.0,4,7
+c:22729,Company,SPOC Medical,spoc medical,other,closed,2006-06-01,2012-05-20,0,0,2,800000.0,0,8
+c:227845,Company,Rock City Apps,rock city apps,social,closed,2011-01-01,2013-01-01,0,0,2,975000.0,0,4
+c:227982,Company,Idaho PC Services,idaho pc services,consulting,closed,2013-04-30,2013-09-01,0,0,0,0.0,1,2
+c:2284,Company,8aweek,8aweek,web,closed,2008-01-01,2009-09-18,0,0,1,0.0,1,2
+c:228702,Company,MARIPOSA BIOTECHNOLOGY,mariposa biotechnology,biotech,closed,2007-01-01,2013-06-01,0,0,1,2427823.0,0,0
+c:2289,Company,Secondbrain,secondbrain,search,closed,2007-01-01,2011-09-01,0,0,1,1500000.0,1,4
+c:228926,Company,Biziby Online Marketplace,biziby online marketplace,ecommerce,closed,2013-06-20,2013-01-01,0,0,0,0.0,1,0
+c:22898,Company,Matisse Networks,matisse networks,network_hosting,closed,2002-01-01,2009-02-15,0,0,1,7500000.0,1,3
+c:22903,Company,UPSIDO.com,upsido,software,closed,2007-07-02,2011-02-01,0,0,1,320000.0,0,4
+c:22938,Company,DealitLive.com,dealitlive,web,closed,2008-11-19,2011-11-29,0,0,1,300000.0,0,3
+c:22981,Company,Nakaya Microdevices,nakaya microdevices,semiconductor,closed,1970-01-01,2010-03-30,0,0,1,14360000.0,0,0
+c:2306,Company,QponDirect,qpondirect,web,closed,2006-12-01,2011-08-04,0,0,1,300000.0,0,7
+c:230902,Company,Blippy Social Commerce,blippy social commerce,mobile,closed,2007-02-11,2011-05-19,0,0,2,12931223.0,2,7
+c:230918,Company,Shnergle,shnergle,web,closed,2012-10-22,2013-10-21,0,0,1,0.0,2,2
+c:231069,Company,KeyWee,keywee,analytics,closed,2013-01-01,2013-01-01,0,0,1,0.0,0,0
+c:23122,Company,CinemaKi,cinemaki,games_video,closed,2008-07-01,2013-05-31,0,0,1,0.0,0,2
+c:23192,Company,Canopy Financial,canopy financial,finance,closed,2004-01-01,2009-08-27,0,0,4,89500000.0,2,6
+c:23225,Company,Beautiful People Society,beautiful people society,web,closed,2009-01-01,2010-09-04,0,0,0,0.0,0,0
+c:23226,Company,FanFeedr,fanfeedr,web,closed,2008-12-15,2012-10-16,0,0,0,0.0,1,5
+c:23234,Company,Elanti Systems,elanti systems,software,closed,2007-01-01,2012-02-11,0,0,1,5500000.0,1,1
+c:23251,Company,Wi-Chi,wi chi,semiconductor,closed,2008-01-01,2011-12-10,0,0,1,7000000.0,0,3
+c:233006,Company,Aldexa Therapeutics,aldexa therapeutics,biotech,closed,2004-01-01,2013-04-01,0,0,1,4793666.0,1,3
+c:23324,Company,Virgin Play,virgin play,games_video,closed,1995-01-01,2012-01-01,0,0,1,3860000.0,0,0
+c:23335,Company,Social Collective,social collective,web,closed,2009-04-17,2012-03-06,0,0,1,20000.0,1,3
+c:234003,Company,Waterstone Pharmaceuticals,waterstone pharmaceuticals,biotech,closed,2008-01-01,2013-06-01,0,0,2,22392121.0,1,2
+c:23440,Company,ZodBod,zodbod,web,closed,2009-04-01,2011-10-01,0,0,1,41386.0,0,1
+c:2347,Company,octabox,octabox,web,closed,2007-01-01,2009-01-01,0,0,0,0.0,1,3
+c:235066,Company,TrovaGene,trovagene,biotech,closed,1999-01-01,2013-08-01,0,0,2,10358200.0,0,3
+c:235100,Company,Bioconnect Systems,bioconnect systems,biotech,closed,2006-01-01,2013-01-01,0,0,3,11024912.0,0,3
+c:235163,Company,Accolade Prep,accolade prep,education,closed,2004-05-01,2008-01-01,0,0,0,0.0,1,2
+c:235555,Company,Surfwax Media,surfwax media,advertising,closed,2010-01-01,2013-07-21,0,0,1,800000.0,0,1
+c:23558,Company,Therosteon,therosteon,biotech,closed,2008-01-01,2012-01-01,0,0,1,0.0,0,3
+c:23559,Company,DermaGen,dermagen,biotech,closed,2004-05-01,2011-09-07,0,0,1,0.0,0,2
+c:23677,Company,Staaff,staaff,ecommerce,closed,2007-01-01,2009-08-23,0,0,1,547000.0,0,0
+c:23685,Company,Dubspace,dubspace,web,closed,2009-05-11,2010-10-03,0,0,0,0.0,1,1
+c:23687,Company,Pigmata Media,pigmata media,software,closed,2007-10-08,2013-01-18,0,0,1,5000.0,0,2
+c:23692,Company,Ecast,ecast,games_video,closed,1999-01-01,2012-02-12,0,0,3,30300000.0,2,9
+c:23700,Company,Libox,libox,web,closed,2008-04-15,2012-10-25,0,0,2,2000000.0,3,3
+c:23719,Company,ClassifEye,classifeye,software,closed,2003-12-01,2011-09-03,0,0,2,1530000.0,0,0
+c:23720,Company,Vocab,vocab,software,closed,2002-01-01,2012-04-18,0,0,1,331466.0,0,0
+c:237707,Company,PayOrPass,payorpass,ecommerce,closed,2012-01-01,2013-01-01,0,0,1,660000.0,0,2
+c:23788,Company,ZettaCore,zettacore,semiconductor,closed,1999-01-01,2012-01-04,0,0,1,21000000.0,1,4
+c:23805,Company,Infoflow,infoflow,software,closed,2006-01-01,2008-08-27,0,0,2,457000.0,0,0
+c:238284,Company,DataEmail Group,dataemail group,software,closed,2009-03-22,2013-07-01,0,0,1,1200000.0,0,0
+c:238497,Company,MakuCell,makucell,biotech,closed,2010-01-01,2013-06-01,0,0,1,1668447.0,0,3
+c:23919,Company,Mobshop,mobshop,ecommerce,closed,2008-02-22,2012-08-17,0,0,1,126080.0,2,5
+c:23941,Company,Rewarding Return,rewarding return,ecommerce,closed,2007-07-01,2012-09-10,0,0,1,50000.0,0,0
+c:23989,Company,BeeTV,beetv,software,closed,2007-08-01,2011-01-01,0,0,2,9500000.0,3,5
+c:24002,Company,GameGround,gameground,games_video,closed,2007-10-14,2012-10-01,0,0,3,11400000.0,2,7
+c:240140,Company,Placeling,placeling,mobile,closed,2011-01-01,2013-05-01,0,0,1,0.0,1,2
+c:24039,Company,TweetWagon,tweetwagon,web,closed,2009-05-12,2010-03-03,0,0,0,0.0,0,2
+c:24040,Company,DynaPump,dynapump,cleantech,closed,1992-01-01,2011-11-12,0,0,1,6000000.0,0,0
+c:241068,Company,Revnetics,revnetics,mobile,closed,2009-01-01,2011-02-01,0,0,1,0.0,1,3
+c:241263,Company,i'mma,imma,ecommerce,closed,2013-08-10,2013-09-06,0,0,1,125000.0,1,1
+c:241285,Company,Vessix,vessix,software,closed,2011-01-01,2013-07-01,0,0,1,50000.0,1,2
+c:241339,Company,Ratify,ratify,software,closed,2010-01-01,2013-06-01,0,0,1,2000000.0,0,2
+c:241348,Company,Certain Communications,certain communications,mobile,closed,2009-01-01,2013-05-01,0,0,1,170000.0,0,2
+c:241579,Company,ContinuityX Solutions,continuityx solutions,software,closed,2011-01-01,2013-05-01,0,0,1,1125000.0,0,1
+c:24206,Company,Apieron,apieron,biotech,closed,2001-01-01,2011-01-01,0,0,4,43500000.0,1,6
+c:24234,Company,Jomito,jomito,ecommerce,closed,2008-07-06,2009-01-01,0,0,0,0.0,0,0
+c:24281,Company,Anaphore,anaphore,biotech,closed,2008-01-01,2012-03-05,0,0,3,24300000.0,0,9
+c:243021,Company,Machine Perception Technologies,machine perception technologies,software,closed,2008-01-01,2012-01-01,0,0,1,2000000.0,0,3
+c:24372,Company,Morgan Everett,morgan everett,cleantech,closed,2002-01-01,2010-12-30,0,0,1,930000.0,0,0
+c:2441,Company,Cold Blue Labs,cold blue labs,advertising,closed,2008-01-22,2009-01-20,0,0,0,0.0,0,1
+c:244929,Company,J&J Solutions,j j solutions,biotech,closed,2008-01-01,2013-01-01,0,0,1,3254737.0,0,2
+c:24509,Company,Four Colors,four colors,search,closed,2008-07-01,2010-01-01,0,0,0,0.0,1,2
+c:2452,Company,IShareWeShare,ishareweshare,web,closed,2008-01-01,2008-01-01,0,0,0,0.0,0,1
+c:24531,Company,inversearch,inversearch,search,closed,2008-06-23,2011-01-01,0,0,0,0.0,0,0
+c:24570,Company,Biofisica,biofisica,biotech,closed,2000-01-01,2012-04-26,0,0,2,7300000.0,0,5
+c:245878,Company,ibabybox,ibabybox,social,closed,2013-01-01,2013-06-01,0,0,1,25000.0,1,1
+c:24604,Company,Witel,witel,mobile,closed,2007-02-09,2009-06-16,0,0,1,4000000.0,0,1
+c:2462,Company,Pollsit,pollsit,web,closed,2007-12-19,2008-01-01,0,0,0,0.0,0,0
+c:24632,Company,InterMed Discovery,intermed discovery,cleantech,closed,2006-01-01,2012-10-02,0,0,1,9866928.0,0,3
+c:24647,Company,S*Bio,s bio,biotech,closed,2000-01-01,2012-03-01,0,0,3,143500000.0,0,0
+c:24671,Company,emokoo.com,emokoo,other,closed,2006-01-01,2010-04-01,0,0,0,0.0,0,1
+c:24681,Company,Limerick BioPharma,limerick biopharma,biotech,closed,2004-01-01,2013-06-01,0,0,6,49008830.0,1,4
+c:2475,Company,YouCastr,youcastr,games_video,closed,2007-06-04,2011-02-10,0,0,1,500000.0,3,5
+c:2478,Company,JackPot Rewards,jackpot rewards,web,closed,2008-01-01,2012-01-01,0,0,1,16700000.0,2,7
+c:247800,Company,Lavabit,lavabit,messaging,closed,2004-06-04,2013-08-08,0,0,0,0.0,2,1
+c:2481,Company,GenieTown,genietown,search,closed,2006-10-01,2008-01-01,0,0,1,2000000.0,1,3
+c:24868,Company,CostumeWorks,costumeworks,ecommerce,closed,2008-11-01,2012-10-31,0,0,1,175000.0,1,5
+c:2491,Company,World Reviewer,world reviewer,games_video,closed,2007-10-07,2012-01-03,0,0,1,0.0,0,3
+c:2497,Company,FameCast,famecast,games_video,closed,2007-01-01,2010-01-01,0,0,3,9700000.0,4,5
+c:24993,Company,Sprowtt Marketplace,sprowtt marketplace,legal,closed,2008-11-11,2010-05-14,0,0,0,0.0,2,7
+c:25229,Company,FuckedCompany,fuckedcompany,web,closed,2000-04-01,2007-01-01,0,0,0,0.0,0,1
+c:25259,Company,US Primate Rescue Inc.,us primate rescue,other,closed,2009-05-01,2010-03-14,0,0,1,50000.0,0,1
+c:25271,Company,Scopial,scopial,ecommerce,closed,2008-12-12,2012-01-01,0,0,0,0.0,0,0
+c:25294,Company,Eclector,eclector,ecommerce,closed,2008-02-04,2011-03-01,0,0,2,264415.0,2,2
+c:25338,Company,Siruna,siruna,software,closed,2007-12-05,2010-07-21,0,0,0,0.0,0,3
+c:25383,Company,Biolex Therapeutics,biolex therapeutics,biotech,closed,1997-01-01,2012-06-01,0,0,7,162264126.0,1,4
+c:2543,Company,JuicyCampus,juicycampus,web,closed,2007-08-01,2009-02-04,0,0,0,0.0,2,1
+c:25449,Company,PhotoThera,photothera,biotech,closed,1997-05-01,2012-10-24,0,0,2,80500000.0,0,4
+c:2545,Company,Swarmcast,swarmcast,games_video,closed,2001-01-01,2010-01-15,0,0,0,0.0,1,5
+c:25580,Company,Global Data Solutions,global data solutions,software,closed,2000-01-01,2012-01-04,0,0,2,75000000.0,0,0
+c:256488,Company,iPractice Group,ipractice group,biotech,closed,2009-01-01,2013-06-01,0,0,1,2290000.0,0,2
+c:25688,Company,Azingo,azingo,mobile,closed,2005-01-01,2009-08-11,0,0,2,80000000.0,1,4
+c:257394,Company,eTech Money,etech money,software,closed,2010-01-01,2013-05-01,0,0,1,90000.0,0,4
+c:25756,Company,Broadway Networks,broadway networks,public_relations,closed,2006-01-01,2011-01-01,0,0,1,954000.0,1,3
+c:2577,Company,Mo'Blast,moblast,mobile,closed,2007-01-01,2010-01-01,0,0,0,0.0,1,1
+c:25808,Company,TwtBks,twtbks,web,closed,2009-06-20,2012-03-03,0,0,1,25000.0,0,3
+c:25859,Company,LugIron Software,lugiron software,software,closed,2009-01-02,2010-09-01,0,0,1,0.0,1,3
+c:25872,Company,JinkoSolar Holding,jinkosolar holding,cleantech,closed,2006-01-01,2013-08-21,0,0,1,35000000.0,0,0
+c:25900,Company,ERTH Technologies,erth technologies,cleantech,closed,2002-01-01,2011-12-30,0,0,1,2000000.0,0,0
+c:25987,Company,LEYIO,leyio,mobile,closed,2008-01-01,2012-05-10,0,0,1,1892250.0,0,0
+c:25997,Company,Kurani Interactive,kurani interactive,software,closed,2000-01-01,2013-06-01,0,0,1,275000.0,1,5
+c:26,Company,Babelgum,babelgum,games_video,closed,2007-03-01,2013-01-09,0,0,1,13200000.0,0,5
+c:26019,Company,Metallkraft AS,metallkraft as,cleantech,closed,1999-01-01,2011-01-01,0,0,1,32540000.0,0,3
+c:2609,Company,Popularo,popularo,web,closed,2007-10-15,2009-01-01,0,0,1,0.0,0,0
+c:261123,Company,Flowtab,flowtab,hospitality,closed,2011-01-01,2013-09-01,0,0,0,0.0,0,1
+c:26214,Company,MindFuse,mindfuse,games_video,closed,2006-01-01,2010-01-01,0,0,1,1000000.0,0,0
+c:26368,Company,Bling Nation,bling nation,enterprise,closed,2007-01-01,2011-09-10,0,0,2,28000000.0,3,13
+c:26390,Company,Revetto,revetto,web,closed,2009-01-01,2009-05-18,0,0,1,20000.0,1,3
+c:26406,Company,SpeakSoft,speaksoft,public_relations,closed,2007-01-01,2012-01-01,0,0,1,988957.0,0,1
+c:26508,Company,Kerfuffle,kerfuffle,web,closed,2009-01-01,2009-11-01,0,0,0,0.0,0,1
+c:26527,Company,Tagito,tagito,web,closed,2008-05-01,2012-01-01,0,0,1,320000.0,0,3
+c:26612,Company,Nordic Windpower,nordic windpower,cleantech,closed,2007-01-01,2013-04-10,0,0,3,54000000.0,0,3
+c:26638,Company,Bonvoyagee,bonvoyagee,other,closed,2009-01-01,2010-03-01,0,0,0,0.0,0,3
+c:26813,Company,Nethra Imaging,nethra imaging,semiconductor,closed,2003-01-01,2012-06-04,0,0,1,14000000.0,0,1
+c:26863,Company,Advanced Marketing & Media Group,advanced marketing media group,software,closed,2007-02-01,2012-04-02,0,0,1,500000.0,0,2
+c:2704,Company,Fifteen Reasons,fifteen reasons,web,closed,2006-01-06,2013-06-20,0,0,1,0.0,0,0
+c:27072,Company,tribalX,tribalx,software,closed,2009-09-01,2010-02-01,0,0,1,36968.0,0,1
+c:27159,Company,Advanced Power Projects,advanced power projects,cleantech,closed,2009-01-01,2011-07-14,0,0,1,13000000.0,0,0
+c:27229,Company,OfficialVirtualDJ,officialvirtualdj,music,closed,2009-06-21,2009-01-01,0,0,1,34752500.0,0,1
+c:273379,Company,Goodies.co,goodies,hospitality,closed,2012-01-01,2013-11-01,0,0,0,0.0,1,0
+c:27360,Company,Sociast,sociast,web,closed,2008-12-01,2009-07-01,0,0,0,0.0,0,0
+c:27370,Company,Viryd Technologies,viryd technologies,cleantech,closed,2007-01-01,2013-07-01,0,0,2,7100000.0,0,0
+c:27439,Company,Plato Networks,plato networks,semiconductor,closed,1996-01-01,2010-05-28,0,0,2,27500000.0,0,0
+c:2746,Company,Aullo,aullo,web,closed,2006-09-23,2008-06-17,0,0,0,0.0,0,1
+c:27460,Company,SiXtron Advanced Materials,sixtron advanced materials,cleantech,closed,2004-01-01,2012-01-01,0,0,2,12410000.0,0,0
+c:27468,Company,Followformation,followformation,web,closed,2009-06-05,2011-01-01,0,0,0,0.0,0,2
+c:2747,Company,Folkstr,folkstr,web,closed,2007-10-10,2008-04-07,0,0,1,250000.0,0,3
+c:27489,Company,Samba Ventures,samba ventures,other,closed,2009-01-20,2011-01-01,0,0,1,0.0,1,2
+c:2750,Company,Biographicon,biographicon,web,closed,2008-02-01,2008-06-05,0,0,1,0.0,3,2
+c:27513,Company,Bizmore,bizmore,web,closed,2008-11-01,2011-06-29,0,0,1,0.0,2,4
+c:27587,Company,Twibingo,twibingo,games_video,closed,2009-06-01,2012-06-22,0,0,1,50000.0,0,1
+c:27635,Company,AugmentWare,augmentware,software,closed,2007-11-08,2012-01-01,0,0,2,90000.0,0,3
+c:27649,Company,WaterproofiPodCase.net,waterproofipodcase,ecommerce,closed,2009-06-01,2011-01-01,0,0,0,0.0,0,0
+c:27740,Company,Texert,texert,software,closed,2007-01-01,2008-07-14,0,0,1,3000000.0,0,1
+c:27741,Company,eMinor,eminor,software,closed,2006-10-01,2012-02-17,0,0,2,5000000.0,0,9
+c:27745,Company,Comat Technologies,comat technologies,other,closed,1996-01-01,2012-05-14,0,0,3,25000000.0,1,1
+c:278,Company,DeliveryEdge,deliveryedge,ecommerce,closed,2006-09-01,2009-04-01,0,0,1,1500000.0,1,6
+c:2784,Company,I-stats,i stats,web,closed,2004-10-01,2012-01-01,0,0,0,0.0,0,1
+c:27866,Company,Official Limited Virtual,official limited virtual,music,closed,2009-07-17,2010-05-11,0,0,1,170604000.0,0,2
+c:27879,Company,TouristWay,touristway,software,closed,2003-07-02,2012-02-27,0,0,1,160000.0,1,1
+c:27938,Company,Correlix,correlix,enterprise,closed,2006-01-01,2013-05-01,0,0,4,11400000.0,1,5
+c:28022,Company,Petizens.com,petizens,web,closed,2007-08-01,2011-05-04,0,0,1,250000.0,0,0
+c:28047,Company,Facebook Genie,facebook genie,software,closed,2008-06-10,2011-01-01,0,0,0,0.0,0,0
+c:28054,Company,smartfundit.com,smartfundit,software,closed,2006-01-01,2009-06-21,0,0,1,5170000.0,1,4
+c:280611,Company,Yub,yub,ecommerce,closed,2013-01-01,2005-01-01,0,0,1,12000000.0,0,7
+c:281,Company,PeerMe,peerme,games_video,closed,2004-01-01,2009-02-03,0,0,1,5000000.0,2,2
+c:28114,Company,VT Silicon,vt silicon,semiconductor,closed,2002-01-01,2010-09-20,0,0,2,8800000.0,0,2
+c:28162,Company,lifeIO,lifeio,web,closed,2006-08-29,2012-03-03,0,0,1,500000.0,0,4
+c:28307,Company,Rayspan,rayspan,mobile,closed,2006-04-01,2012-02-18,0,0,1,12500000.0,1,2
+c:28367,Company,People Operating Technology,people operating technology,games_video,closed,2009-04-01,2010-06-10,0,0,1,500000.0,0,2
+c:28398,Company,GlenRose Instruments,glenrose instruments,biotech,closed,2005-01-01,2012-03-15,0,0,1,14880000.0,0,0
+c:28403,Company,HighlightCam,highlightcam,mobile,closed,2009-07-27,2013-10-30,0,0,2,3000000.0,3,8
+c:28424,Company,Danotek Motion Technologies,danotek motion technologies,cleantech,closed,2001-01-01,2013-05-01,0,0,3,42700000.0,1,2
+c:2855,Company,"VOIS, Inc.",vois,web,closed,2006-11-01,2010-11-09,0,0,1,1000000.0,2,2
+c:28601,Company,TrueInsider,trueinsider,web,closed,2009-01-01,2012-01-05,0,0,1,0.0,0,4
+c:28764,Company,Kabel New Media AG,kabel new media ag,ecommerce,closed,1993-01-01,2001-01-01,0,0,0,0.0,1,2
+c:2877,Company,Brijit,brijit,web,closed,2006-01-01,2008-05-15,0,0,0,0.0,2,0
+c:28933,Company,cacaoTV,cacaotv,software,closed,2008-10-12,2011-01-28,0,0,1,886210.0,0,3
+c:2899,Company,Akoha,akoha,games_video,closed,2006-12-01,2011-08-14,0,0,1,1900000.0,3,4
+c:29086,Company,Social GameWorks,social gameworks,games_video,closed,2008-07-28,2011-01-01,0,0,1,120000.0,0,5
+c:2915,Company,Ezmo,ezmo,games_video,closed,2007-01-01,2008-03-03,0,0,0,0.0,1,4
+c:2919,Company,Boxaroo for eBay,boxaroo for ebay,web,closed,2007-01-01,2008-01-01,0,0,1,0.0,0,3
+c:2920,Company,BrightSide Software,brightside software,enterprise,closed,2007-06-01,2013-06-15,0,0,1,0.0,0,3
+c:29218,Company,Get In,get in,analytics,closed,2008-09-01,2010-01-27,0,0,2,0.0,1,5
+c:29235,Company,adaffix,adaffix,mobile,closed,2009-04-01,2010-05-07,0,0,1,0.0,1,4
+c:29424,Company,Olista,olista,software,closed,2004-01-01,2011-01-01,0,0,2,24000000.0,0,3
+c:29478,Company,SMR SITE,smr site,search,closed,2009-03-01,2009-01-01,0,0,1,60000.0,0,2
+c:2956,Company,CityIN,cityin,web,closed,2008-03-03,2012-01-01,0,0,1,0.0,0,1
+c:29591,Company,Jewforme,jewforme,web,closed,2009-01-01,2009-01-01,0,0,0,0.0,0,1
+c:29604,Company,Zoodak,zoodak,finance,closed,2008-04-01,2010-03-15,0,0,1,580000.0,0,5
+c:29605,Company,Three Screen Games,three screen games,games_video,closed,2009-01-01,2012-03-14,0,0,1,500000.0,0,3
+c:29677,Company,Naabo Solutions,naabo solutions,software,closed,2007-01-01,2012-01-01,0,0,1,0.0,0,0
+c:29683,Company,Scopial Fashion,scopial fashion,fashion,closed,2009-01-01,2012-01-19,0,0,1,0.0,0,0
+c:29684,Company,veriCAR,vericar,automotive,closed,2009-01-01,2012-01-01,0,0,1,0.0,0,0
+c:2987,Company,MightyQuiz,mightyquiz,web,closed,2008-01-01,2011-10-22,0,0,1,0.0,1,0
+c:2993,Company,ScribeStorm,scribestorm,games_video,closed,2007-01-08,2007-02-10,0,0,1,225000.0,0,2
+c:30013,Company,Bettymovil,bettymovil,games_video,closed,2010-01-01,2012-01-03,0,0,1,2000000.0,0,1
+c:30041,Company,Ubidyne,ubidyne,hardware,closed,2005-01-01,2013-05-12,0,0,2,58500000.0,2,8
+c:3010,Company,Everex,everex,hardware,closed,1983-01-01,2009-07-09,0,0,0,0.0,4,2
+c:30133,Company,Horse Creek Entertainment,horse creek entertainment,ecommerce,closed,1989-01-01,2011-02-05,0,0,1,697792.0,0,0
+c:30173,Company,UpMo,upmo,enterprise,closed,2011-01-01,2013-07-01,0,0,2,3700000.0,3,11
+c:30242,Company,Looxii,looxii,enterprise,closed,2009-05-20,2011-02-08,0,0,1,97500.0,1,0
+c:3027,Company,SearchMe,searchme,search,closed,2005-07-01,2009-10-21,0,0,5,43600000.0,3,7
+c:30288,Company,Silicon Hive,silicon hive,semiconductor,closed,2003-01-01,2012-02-04,0,0,2,17000000.0,0,0
+c:30290,Company,Resonant Vibes,resonant vibes,web,closed,2004-01-01,2012-04-27,0,0,1,350000.0,0,0
+c:30307,Company,Smith & Tinker,smith tinker,games_video,closed,2007-01-01,2012-11-08,0,0,1,29000000.0,1,1
+c:30320,Company,amprice,amprice,web,closed,2005-05-25,2010-07-17,0,0,1,467880.0,1,1
+c:3033,Company,Global Roaming,global roaming,mobile,closed,2006-08-01,2010-03-23,0,0,2,30500000.0,1,5
+c:30390,Company,Book Of Cooks,book of cooks,web,closed,2009-06-01,2012-09-01,0,0,0,0.0,1,4
+c:30475,Company,BlogGlue,blogglue,search,closed,2009-04-04,2013-03-01,0,0,1,1000000.0,1,6
+c:30562,Company,Solvate,solvate,web,closed,2007-01-01,2012-03-01,0,0,3,10300000.0,2,11
+c:30606,Company,GPal,gpal,ecommerce,closed,2009-11-03,2011-10-10,0,0,1,1000000.0,1,2
+c:30616,Company,Thoora,thoora,web,closed,2008-03-01,2012-01-01,0,0,1,4169942.0,4,7
+c:30667,Company,Impeva,impeva,software,closed,2004-01-01,2012-03-16,0,0,1,10000000.0,0,2
+c:30708,Company,Glide Health,glide health,mobile,closed,2008-01-01,2012-08-31,0,0,1,1000000.0,1,1
+c:30723,Company,ClientShow,clientshow,public_relations,closed,2008-05-09,2010-08-16,0,0,1,750000.0,1,2
+c:30770,Company,Virtual Web,virtual web,advertising,closed,2008-02-01,2013-06-02,0,0,1,1000000.0,0,4
+c:30816,Company,CloudSplit,cloudsplit,enterprise,closed,2009-07-01,2011-12-07,0,0,1,149180.0,1,2
+c:30872,Company,ThePortlander,theportlander,web,closed,2009-06-01,2011-08-01,0,0,0,0.0,2,2
+c:30943,Company,"Touchring Co., Ltd.",touchringltd,public_relations,closed,2007-05-05,2012-04-15,0,0,1,2000000.0,1,2
+c:30984,Company,Swarmforce,swarmforce,web,closed,2008-01-01,2010-04-25,0,0,1,350000.0,0,0
+c:30990,Company,orderTopia,ordertopia,ecommerce,closed,2009-07-01,2011-02-02,0,0,1,0.0,0,2
+c:31005,Company,Content Circles,content circles,software,closed,2007-08-08,2010-08-23,0,0,1,250000.0,2,4
+c:31014,Company,Mingleverse,mingleverse,public_relations,closed,2008-02-08,2013-05-01,0,0,2,1840000.0,0,3
+c:31015,Company,BPT,bpt,cleantech,closed,2000-01-01,2011-09-11,0,0,1,12000000.0,0,1
+c:31072,Company,SmApper Technologies,smapper technologies,network_hosting,closed,2005-01-01,2011-11-13,0,0,2,9664366.0,1,2
+c:31093,Company,Dain's Movie Reviews,dains movie reviews,games_video,closed,2009-07-01,2010-08-01,0,0,0,0.0,1,1
+c:31120,Company,Glacier Bay,glacier bay,cleantech,closed,1990-01-01,2011-01-01,0,0,2,28000000.0,1,2
+c:31130,Company,SunModular,sunmodular,cleantech,closed,2007-01-01,2009-01-01,0,0,1,2500000.0,0,0
+c:31141,Company,Queplix,queplix,enterprise,closed,2004-01-01,2012-10-05,0,0,1,1500000.0,2,2
+c:31149,Company,KwiClick,kwiclick,web,closed,2008-10-15,2013-05-15,0,0,1,0.0,0,2
+c:31159,Company,dealguys.net,dealguys,web,closed,2009-08-14,2013-05-30,0,0,1,0.0,0,1
+c:31165,Company,localbacon,localbacon,web,closed,2009-05-01,2012-11-01,0,0,1,875000.0,3,2
+c:31212,Company,Skill-Life,skill life,games_video,closed,2007-01-01,2012-01-26,0,0,1,25000.0,0,1
+c:31234,Company,WinDensity,windensity,cleantech,closed,2006-01-01,2009-02-07,0,0,1,13000000.0,0,0
+c:31237,Company,Orggit,orggit,network_hosting,closed,2009-08-01,2012-01-01,0,0,0,0.0,0,1
+c:3124,Company,Snaptalent,snaptalent,web,closed,2007-11-01,2009-04-24,0,0,1,0.0,2,5
+c:31277,Company,CityOdds,cityodds,other,closed,2005-07-01,2010-02-09,0,0,1,183352.0,0,2
+c:31292,Company,sones,sones,software,closed,2007-01-01,2012-01-01,0,0,1,0.0,1,3
+c:31294,Company,Bueda,bueda,advertising,closed,2009-01-04,2013-06-01,0,0,2,125000.0,2,3
+c:31355,Company,TweepML,tweepml,web,closed,2009-09-09,2012-01-01,0,0,0,0.0,2,2
+c:31372,Company,Koull,koull,web,closed,2009-01-01,2009-01-01,0,0,0,0.0,0,0
+c:3145,Company,Daikana,daikana,network_hosting,closed,2007-10-15,2010-01-01,0,0,0,0.0,3,1
+c:31452,Company,Natural Cleaners Colorado,natural cleaners colorado,other,closed,2005-01-01,2010-03-05,0,0,1,1900000.0,0,0
+c:31488,Company,Roxro Pharma,roxro pharma,biotech,closed,1999-01-01,2001-01-01,0,0,1,42700000.0,0,1
+c:31499,Company,TempMine,tempmine,web,closed,2009-01-01,2010-01-01,0,0,1,18000.0,0,0
+c:31500,Company,LangoLab,langolab,education,closed,2009-01-01,2011-01-01,0,0,1,18000.0,0,2
+c:31511,Company,AmpIdea,ampidea,web,closed,2008-07-04,2010-01-01,0,0,1,18000.0,1,2
+c:31514,Company,AccelGolf,accelgolf,mobile,closed,2008-08-01,2013-05-01,0,0,7,457282.0,2,4
+c:31522,Company,Zyraz Technology,zyraz technology,biotech,closed,1994-01-01,2010-07-26,0,0,3,15398911.0,2,4
+c:31546,Company,Satiety,satiety,medical,closed,2000-01-01,2011-09-10,0,0,3,62800000.0,1,1
+c:31549,Company,Paracor Medical,paracor medical,biotech,closed,1999-01-01,2012-06-17,0,0,1,44000000.0,1,5
+c:31565,Company,Zenring,zenring,mobile,closed,2008-03-19,2012-08-13,0,0,1,500000.0,0,3
+c:31582,Company,Remend,remend,software,closed,2002-01-01,2007-11-01,0,0,0,0.0,1,4
+c:3160,Company,Arclight Media Technology,arclight media technology,web,closed,2005-11-01,2008-09-19,0,0,1,0.0,0,3
+c:31600,Company,Futuris.tk,futuris tk,web,closed,2009-08-15,2009-10-02,0,0,1,10000.0,0,6
+c:31621,Company,iAte,iate,search,closed,2009-01-01,2012-08-14,0,0,1,0.0,0,0
+c:31641,Company,Poker Onlain,poker onlain,games_video,closed,2008-12-01,2010-07-01,0,0,0,0.0,0,0
+c:31667,Company,Voxound,voxound,software,closed,2008-10-01,2012-10-17,0,0,1,75000.0,0,5
+c:31764,Company,Oorja Protonics,oorja protonics,cleantech,closed,2004-01-01,2012-10-16,0,0,4,21470000.0,0,1
+c:3178,Company,Elastra,elastra,software,closed,2007-01-01,2011-01-28,0,0,2,14600000.0,3,8
+c:3185,Company,kwiry,kwiry,mobile,closed,2006-01-01,2009-04-23,0,0,1,1000000.0,4,5
+c:31877,Company,Sentry Wireless,sentry wireless,mobile,closed,2006-12-01,2011-05-24,0,0,1,1107075.0,0,0
+c:31909,Company,Dyyno,dyyno,games_video,closed,2007-08-01,2013-05-29,0,0,3,14078664.0,1,6
+c:31968,Company,Origen Therapeutics,origen therapeutics,biotech,closed,1997-01-01,2012-08-03,0,0,1,2000000.0,0,0
+c:31982,Company,mobileo,mobileo,mobile,closed,2008-03-01,2009-09-25,0,0,1,0.0,1,6
+c:3202,Company,Authenticlick,authenticlick,search,closed,2005-08-05,2009-01-01,0,0,1,5000000.0,1,8
+c:32107,Company,VidSchool,vidschool,web,closed,2009-09-15,2010-01-31,0,0,1,100000.0,0,3
+c:32143,Company,BubbleNoise,bubblenoise,web,closed,2008-11-01,2010-01-14,0,0,1,0.0,0,1
+c:32144,Company,Idooble,idooble,web,closed,2009-01-01,2012-01-01,0,0,2,400000.0,1,1
+c:3228,Company,Wundrbar,wundrbar,search,closed,2008-01-01,2009-04-15,0,0,1,0.0,1,2
+c:32332,Company,Shumbi,shumbi,software,closed,2009-08-08,2012-12-01,0,0,0,0.0,2,3
+c:32377,Company,Daixe,daixe,software,closed,2009-06-01,2012-06-02,0,0,1,20000.0,1,5
+c:3240,Company,writewith,writewith,web,closed,2007-02-21,2010-02-10,0,0,1,0.0,1,0
+c:3241,Company,Socialmoth,socialmoth,web,closed,2004-01-01,2012-07-02,0,0,1,0.0,1,0
+c:32428,Company,CardioMind,cardiomind,biotech,closed,2003-01-01,2010-05-28,0,0,1,22000000.0,0,1
+c:32470,Company,SimGym,simgym,software,closed,2009-06-05,2012-07-19,0,0,1,6500.0,0,5
+c:32535,Company,Erictric,erictric,other,closed,2009-04-01,2011-01-01,0,0,0,0.0,1,0
+c:3267,Company,Tapioca Mobile,tapioca mobile,mobile,closed,2008-01-01,2012-07-09,0,0,2,5000000.0,0,5
+c:32686,Company,YESTODATE.COM,yestodate com,other,closed,2009-06-03,2009-10-19,0,0,1,1000000.0,0,1
+c:32691,Company,ClassifiedsFree.org,classifiedsfree,web,closed,2009-10-27,2010-01-01,0,0,0,0.0,0,0
+c:32717,Company,Talasim,talasim,social,closed,2005-12-01,2010-02-05,0,0,1,73350.0,0,2
+c:32719,Company,teentoday.co.uk,teentoday,web,closed,1997-01-01,2011-01-01,0,0,0,0.0,0,0
+c:32759,Company,Single-Woman.TV,single woman tv,games_video,closed,2009-09-01,2012-01-01,0,0,0,0.0,0,5
+c:328,Company,Tangler,tangler,web,closed,2006-02-01,2012-10-06,0,0,1,1500000.0,3,4
+c:32802,Company,NXVISION,nxvision,photo_video,closed,2006-08-01,2011-01-04,0,0,3,2299586.0,0,0
+c:32836,Company,Biosyntech,biosyntech,biotech,closed,1994-01-01,2008-07-23,0,0,1,1400000.0,0,0
+c:32861,Company,Digitrad Communications,digitrad communications,mobile,closed,1999-12-01,2012-03-02,0,0,1,2500000.0,1,4
+c:3288,Company,WebVisible,webvisible,software,closed,2001-01-01,2011-10-01,0,0,3,37000000.0,4,33
+c:32891,Company,oSnapplications,osnapplications,software,closed,2009-08-01,2010-09-01,0,0,0,0.0,1,2
+c:32904,Company,Glam .fr France,glam fr france,web,closed,2002-01-01,2012-10-14,0,0,1,0.0,2,1
+c:32941,Company,UpCompany,upcompany,web,closed,2008-01-01,2012-07-17,0,0,1,5730000.0,1,1
+c:32977,Company,HX Diagnostics,hx diagnostics,biotech,closed,2006-01-01,2012-10-01,0,0,2,7800000.0,0,0
+c:33167,Company,CoutureSociety.com,couturesociety,ecommerce,closed,2010-10-01,2011-02-28,0,0,0,0.0,2,2
+c:33203,Company,HobbyTalk,hobbytalk,web,closed,2008-03-06,2012-12-05,0,0,2,301105.0,0,3
+c:33237,Company,EventHive,eventhive,software,closed,2009-01-01,2010-08-05,0,0,1,0.0,0,0
+c:33367,Company,Link Bump,link bump,web,closed,2009-10-07,2010-08-13,0,0,0,0.0,0,0
+c:33369,Company,Air Semiconductor,air semiconductor,semiconductor,closed,2006-05-15,2010-02-01,0,0,1,10000000.0,1,4
+c:334,Company,TalkPlus,talkplus,web,closed,2004-02-01,2008-05-07,0,0,1,5500000.0,0,6
+c:33519,Company,RFinity,rfinity,mobile,closed,2008-10-01,2013-06-01,0,0,1,4000000.0,4,5
+c:3353,Company,Moblica,moblica,mobile,closed,2011-07-01,2013-06-01,0,0,1,6000000.0,1,5
+c:33625,Company,Plurchase,plurchase,web,closed,2009-10-09,2011-09-04,0,0,1,0.0,1,0
+c:3367,Company,Zebtab,zebtab,games_video,closed,2005-08-01,2012-02-09,0,0,1,280000.0,2,1
+c:33693,Company,BuyersVote.com,buyersvote,web,closed,2009-04-01,2011-01-01,0,0,0,0.0,0,0
+c:33694,Company,FeedmailPro.com,feedmailpro,web,closed,2009-08-01,2011-01-01,0,0,0,0.0,0,0
+c:33771,Company,Attune Systems,attune systems,hardware,closed,1999-01-01,2009-02-12,0,0,2,18000000.0,1,6
+c:33912,Company,Transactiv,transactiv,advertising,closed,2009-07-01,2013-07-19,0,0,1,1200000.0,2,2
+c:34028,Company,LikeList,likelist,web,closed,2008-01-01,2012-12-06,0,0,1,5000000.0,1,5
+c:34066,Company,Preventes.fr,preventes fr,ecommerce,closed,2007-10-01,2010-04-19,0,0,1,100000.0,0,3
+c:34267,Company,Chronicity,chronicity,consulting,closed,2006-09-01,2012-04-01,0,0,4,19550000.0,0,0
+c:34269,Company,Tracked.com,tracked,web,closed,2008-04-01,2012-05-10,0,0,2,11500000.0,3,11
+c:34278,Company,sportsvolcano,sportsvolcano,web,closed,2009-10-16,2010-01-01,0,0,0,0.0,0,1
+c:34338,Company,Zipano,zipano,security,closed,2009-06-01,2012-05-27,0,0,1,25000.0,0,2
+c:34376,Company,Little World Gifts,little world gifts,mobile,closed,2009-05-01,2013-01-01,0,0,0,0.0,1,1
+c:344,Company,PermissionTV,permissiontv,games_video,closed,2005-01-01,2012-04-14,0,0,3,9000000.0,1,11
+c:34401,Company,Innovative Silicon,innovative silicon,other,closed,2002-01-01,2011-01-01,0,0,4,72000000.0,1,3
+c:34454,Company,ROR Media,ror media,mobile,closed,2008-01-01,2013-06-01,0,0,1,0.0,0,1
+c:345,Company,WebbAlert,webbalert,games_video,closed,2007-08-01,2009-01-25,0,0,0,0.0,1,2
+c:34501,Company,Social Brand Solutions,social brand solutions,search,closed,2009-06-01,2010-01-01,0,0,0,0.0,0,0
+c:34522,Company,Hotlist,hotlist,social,closed,2008-01-01,2013-05-01,0,0,4,1449998.0,3,8
+c:34541,Company,Bettween,bettween,web,closed,2011-07-10,2012-01-01,0,0,0,0.0,2,5
+c:3468,Company,CJReport,cjreport,web,closed,2007-08-15,2010-01-01,0,0,0,0.0,3,2
+c:34898,Company,Cubicl,cubicl,web,closed,2009-05-01,2011-09-01,0,0,2,130000.0,1,4
+c:3505,Company,Workstreamer,workstreamer,enterprise,closed,2009-10-01,2013-06-01,0,0,2,3500000.0,2,7
+c:35051,Company,Spunch,spunch,advertising,closed,2009-09-14,2010-08-01,0,0,0,0.0,1,4
+c:35148,Company,Devtap,devtap,search,closed,2008-01-01,2009-02-25,0,0,1,2600000.0,1,2
+c:35157,Company,Viacor,viacor,biotech,closed,1999-12-01,2011-11-11,0,0,3,19009671.0,1,10
+c:35178,Company,Progressive Book Club,progressive book club,social,closed,2008-01-01,2009-01-01,0,0,1,1600000.0,0,2
+c:35226,Company,Twick.it,twick it,search,closed,2009-11-01,2012-08-01,0,0,0,0.0,1,1
+c:35330,Company,Werkadoo,werkadoo,other,closed,2009-02-01,2010-10-30,0,0,1,200000.0,1,4
+c:35402,Company,RPO,rpo,hardware,closed,2005-01-01,2013-06-01,0,0,3,44000000.0,0,0
+c:35433,Company,Trinity Biosystems,trinity biosystems,biotech,closed,2002-01-01,2010-05-24,0,0,2,28500000.0,0,2
+c:35475,Company,Teranode,teranode,software,closed,2002-01-01,2013-08-17,0,0,2,10400000.0,0,6
+c:35502,Company,Navajo Systems,navajo systems,security,closed,2009-01-01,2012-01-11,0,0,1,0.0,1,1
+c:35592,Company,Cellerix,cellerix,biotech,closed,2004-01-01,2012-11-23,0,0,3,115577500.0,1,5
+c:3562,Company,Etelos,etelos,enterprise,closed,1999-05-01,2013-01-01,0,0,3,4087500.0,3,4
+c:35638,Company,Credit Coach,credit coach,software,closed,2008-09-01,2012-01-01,0,0,2,1000000.0,1,12
+c:35649,Company,Illume Software,illume software,software,closed,2009-01-01,2011-10-01,0,0,3,5770000.0,2,6
+c:35673,Company,Cyntellect,cyntellect,biotech,closed,1997-01-01,2012-06-01,0,0,2,24500000.0,1,1
+c:35691,Company,Alamak Espana Trade,alamak espana trade,other,closed,1967-05-05,2010-01-01,0,0,1,6000000.0,1,0
+c:3586,Company,HelloTxt,hellotxt,web,closed,2007-01-01,2012-08-01,0,0,0,0.0,0,7
+c:35901,Company,BidModo,bidmodo,web,closed,2009-07-27,2012-03-01,0,0,1,0.0,1,3
+c:35903,Company,JavaJobs,javajobs,software,closed,1997-01-01,2012-11-03,0,0,1,50000.0,1,1
+c:36056,Company,iJiny,ijiny,web,closed,2008-01-01,2012-01-01,0,0,0,0.0,1,2
+c:36157,Company,TVDeck,tvdeck,web,closed,2009-01-01,2012-10-05,0,0,1,250000.0,1,1
+c:36192,Company,Storspeed,storspeed,software,closed,2007-01-01,2010-03-04,0,0,1,13000000.0,1,6
+c:36232,Company,ReserveMyHome,reservemyhome,other,closed,2007-01-01,2012-01-01,0,0,1,0.0,1,3
+c:36276,Company,NewsBasis,newsbasis,public_relations,closed,2009-01-01,2012-12-16,0,0,1,545000.0,0,3
+c:36289,Company,WinBuyer,winbuyer,software,closed,2005-01-01,2012-09-09,0,0,1,6900000.0,4,6
+c:3633,Company,YourTeamOnline,yourteamonline,games_video,closed,2007-01-21,2011-08-08,0,0,1,43180.0,0,2
+c:36398,Company,WakeMate,wakemate,hardware,closed,2009-12-01,2012-06-27,0,0,3,0.0,1,4
+c:365,Company,Nirvanix,nirvanix,enterprise,closed,2007-07-01,2013-10-15,0,0,5,70000000.0,5,22
+c:36505,Company,MarginLeft,marginleft,web,closed,2007-09-01,2011-01-01,0,0,2,13300.0,1,5
+c:36579,Company,SemiSouth Laboratories,semisouth laboratories,semiconductor,closed,2000-07-01,2013-06-01,0,0,4,39000000.0,0,0
+c:36642,Company,Industriaplex,industriaplex,consulting,closed,1999-01-01,2010-03-13,0,0,1,0.0,0,3
+c:367,Company,Conecta 2,conecta 2,consulting,closed,2012-06-06,2012-01-01,0,0,1,15000.0,0,5
+c:36721,Company,Nano ePrint,nano eprint,hardware,closed,2006-01-01,2012-03-19,0,0,1,963000.0,0,0
+c:36742,Company,ThermalTherapeuticSystems,thermaltherapeuticsystems,medical,closed,2006-06-01,2013-03-13,0,0,2,3508462.0,0,3
+c:36819,Company,DosYogures,dosyogures,ecommerce,closed,2009-09-01,2011-11-25,0,0,1,0.0,2,2
+c:3682,Company,Pressflip,pressflip,web,closed,2007-06-05,2012-01-01,0,0,1,110000.0,1,3
+c:36831,Company,Digicompanion,digicompanion,software,closed,2006-01-01,2011-03-03,0,0,1,2290000.0,0,0
+c:36857,Company,Rival,rival,games_video,closed,2009-01-01,2011-01-01,0,0,0,0.0,0,1
+c:36867,Company,Pricebunch,pricebunch,advertising,closed,2009-01-01,2010-01-01,0,0,0,0.0,0,0
+c:36868,Company,Blade Games World,blade games world,games_video,closed,2004-02-01,2012-07-22,0,0,2,5926462.0,2,5
+c:36889,Company,Epic Production Technologies,epic production technologies,games_video,closed,2008-01-01,1998-11-11,0,0,1,1500000.0,0,2
+c:36892,Company,Apnex Medical,apnex medical,medical,closed,2006-01-01,2013-05-01,0,0,3,44000000.0,0,3
+c:36913,Company,Friends Around,friends around,mobile,closed,2009-07-28,2012-03-13,0,0,1,1000000.0,5,4
+c:36973,Company,RogerThat,rogerthat,web,closed,2009-10-22,2010-01-01,0,0,0,0.0,0,2
+c:36975,Company,Toolmeet,toolmeet,web,closed,2009-12-01,2012-04-12,0,0,1,0.0,1,1
+c:37,Company,Sparter,sparter,games_video,closed,2007-06-01,2008-05-15,0,0,0,0.0,0,5
+c:37129,Company,Ren Media,ren media,advertising,closed,2009-06-01,2013-01-01,0,0,0,0.0,0,1
+c:37146,Company,Counter Radio,counter radio,public_relations,closed,2009-05-01,2011-05-01,0,0,0,0.0,0,0
+c:37153,Company,CouchOne,couchone,software,closed,2009-01-01,2013-06-17,0,0,1,2000000.0,2,6
+c:3717,Company,itzbig,itzbig,search,closed,2006-06-01,2010-03-24,0,0,1,4000000.0,2,9
+c:37173,Company,Five Star Technologies,five star technologies,other,closed,1999-01-01,2012-02-02,0,0,3,13222860.0,0,4
+c:37176,Company,Alternative Green Technologies,alternative green technologies,cleantech,closed,1987-01-01,2010-02-27,0,0,1,10000.0,0,2
+c:37255,Company,AppWhirl,appwhirl,mobile,closed,2009-07-04,2010-07-03,0,0,0,0.0,2,3
+c:37341,Company,DataRose,datarose,software,closed,2006-01-01,2012-09-27,0,0,1,100000.0,0,0
+c:3736,Company,Wakozi,wakozi,web,closed,2008-03-21,2007-10-18,0,0,1,0.0,1,1
+c:37485,Company,Mangia,mangia,mobile,closed,2008-01-01,2011-12-11,0,0,1,0.0,1,0
+c:37562,Company,Acucar Guarani,acucar guarani,other,closed,1976-01-01,2013-01-01,0,0,1,45400000.0,0,0
+c:3758,Company,Minggl,minggl,network_hosting,closed,2005-01-01,2012-11-06,0,0,1,1000000.0,2,3
+c:37624,Company,LeanStream Media,leanstream media,software,closed,2009-01-01,2012-01-01,0,0,1,2340000.0,0,3
+c:37647,Company,NextIO,nextio,hardware,closed,2003-01-01,2013-07-01,0,0,4,49600000.0,1,10
+c:37695,Company,CreaLabs,crealabs,software,closed,2003-03-29,2010-07-01,0,0,0,0.0,1,2
+c:37713,Company,Wisair,wisair,semiconductor,closed,2001-01-01,2013-04-05,0,0,5,55833663.0,1,0
+c:37724,Company,Status Overload,status overload,software,closed,2009-03-01,2010-01-01,0,0,1,250000.0,1,1
+c:37752,Company,Zeo,zeo,analytics,closed,2003-12-01,2012-12-01,0,0,5,26138500.0,3,15
+c:37780,Company,LegiTime Technologies,legitime technologies,messaging,closed,2005-01-01,2010-09-15,0,0,2,4000000.0,0,2
+c:37822,Company,Elonics,elonics,semiconductor,closed,2003-01-01,2012-08-01,0,0,2,13500000.0,1,1
+c:37858,Company,Azuna,azuna,news,closed,2005-01-01,2012-01-01,0,0,1,300000.0,0,3
+c:37934,Company,Kardia Health Systems,kardia health systems,enterprise,closed,2006-01-01,2012-02-21,0,0,2,18400000.0,1,2
+c:37960,Company,Creative Logic Media,creative logic media,consulting,closed,2006-01-01,2009-05-09,1,1,1,50000.0,1,2
+c:37964,Company,Hubsphere,hubsphere,enterprise,closed,2007-06-01,2011-01-01,0,0,1,1434300.0,2,3
+c:38019,Company,Thwapr,thwapr,photo_video,closed,2007-01-01,2013-07-20,0,0,2,2000000.0,3,7
+c:38106,Company,10BestThings,10bestthings,web,closed,2009-04-01,2013-05-18,0,0,1,50000.0,0,3
+c:38107,Company,P302,p302,web,closed,2009-08-01,2010-10-01,0,0,0,0.0,1,2
+c:3813,Company,Naubo,naubo,web,closed,2007-06-22,2012-06-13,0,0,1,200000.0,0,1
+c:38273,Company,Digit Wireless,digit wireless,public_relations,closed,2000-01-01,2012-01-01,0,0,2,10000000.0,1,2
+c:38334,Company,Dreamscape Blue,dreamscape blue,medical,closed,2009-01-01,2011-01-01,0,0,1,350000.0,0,3
+c:38346,Company,RowNine,rownine,web,closed,2009-01-01,2012-01-01,0,0,0,0.0,2,3
+c:38380,Company,iNEWiT,inewit,hardware,closed,2005-01-01,2012-08-29,0,0,3,5765000.0,0,0
+c:38383,Company,Fundability,fundability,ecommerce,closed,2007-01-01,2012-01-01,0,0,1,3000000.0,0,0
+c:38399,Company,i-Nalysis,i nalysis,hardware,closed,2008-01-01,2009-08-31,0,0,1,0.0,0,0
+c:3840,Company,Kublax,kublax,web,closed,2007-08-01,2010-02-16,0,0,2,1340300.0,2,3
+c:38438,Company,Filao,filao,software,closed,2000-01-01,2012-01-01,0,0,3,10900000.0,0,0
+c:38460,Company,EvoApp,evoapp,analytics,closed,2009-01-01,2013-01-01,0,0,3,3352194.0,2,8
+c:38501,Company,myContactCard,mycontactcard,messaging,closed,2007-01-01,2004-04-27,0,0,1,60000.0,0,2
+c:38504,Company,iosil Energy,iosil energy,cleantech,closed,2007-01-01,2012-03-04,0,0,2,13875001.0,0,4
+c:38507,Company,HND Technologies,hnd technologies,web,closed,2011-02-07,2013-01-01,0,0,0,0.0,1,1
+c:3854,Company,Netcipia,netcipia,web,closed,2006-04-30,2013-01-15,0,0,1,200000.0,0,2
+c:38590,Company,iGroup Network,igroup network,web,closed,2006-01-01,2012-02-24,0,0,2,2240000.0,0,0
+c:386,Company,KnockaTV,knockatv,games_video,closed,2007-08-01,2008-02-28,0,0,2,4500000.0,2,2
+c:38655,Company,Make It Work,make it work,hardware,closed,1995-01-01,2012-06-01,0,0,1,1000000.0,1,3
+c:38780,Company,IIIMOBI,iiimobi,advertising,closed,2009-05-01,2010-03-30,0,0,1,300000.0,0,5
+c:38794,Company,Hello Chair,hello chair,mobile,closed,2006-01-01,2013-07-01,0,0,2,889999.0,2,5
+c:388,Company,Millsberry,millsberry,web,closed,2004-01-01,2011-01-01,0,0,0,0.0,4,1
+c:38869,Company,RewardSnap,rewardsnap,software,closed,2009-01-01,2010-12-30,0,0,1,2667.0,0,0
+c:38964,Company,Kaos Solutions,kaos solutions,software,closed,2007-01-01,2008-12-08,0,0,1,199000.0,0,0
+c:39,Company,Video Passports,video passports,web,closed,2007-08-01,2011-09-03,0,0,1,0.0,0,1
+c:39013,Company,Lunchwalla,lunchwalla,other,closed,2009-08-01,2012-01-01,0,0,0,0.0,2,3
+c:3902,Company,Jodange,jodange,web,closed,2007-01-01,2011-02-24,0,0,1,1200000.0,2,1
+c:39105,Company,iKoa,ikoa,semiconductor,closed,2006-01-01,2012-07-01,0,0,3,18700000.0,0,0
+c:39166,Company,McKinnon & Clarke,mckinnon clarke,consulting,closed,1976-01-01,2012-08-26,0,0,1,22000000.0,0,0
+c:39213,Company,iexerci.se,iexerci se,health,closed,2009-01-01,2012-02-15,0,0,2,379893.0,1,1
+c:39217,Company,Lagotek,lagotek,software,closed,2005-01-01,2013-06-02,0,0,1,5063236.0,0,2
+c:39241,Company,TwoF,twof,biotech,closed,2005-11-01,2013-07-01,0,0,1,2148399.0,0,0
+c:39249,Company,MediProPharma,medipropharma,biotech,closed,2006-01-01,2012-04-14,0,0,1,0.0,0,0
+c:39276,Company,Renegade Games,renegade games,games_video,closed,2009-02-02,2012-10-22,0,0,1,0.0,0,1
+c:3931,Company,PutPlace,putplace,web,closed,2006-01-01,2012-06-08,0,0,1,1566000.0,1,3
+c:39399,Company,Sweepery,sweepery,software,closed,2008-08-01,2011-06-29,0,0,2,500000.0,0,6
+c:3944,Company,utoopia,utoopia,ecommerce,closed,2007-03-01,2008-01-01,0,0,1,100000.0,1,0
+c:39507,Company,Zymetis,zymetis,biotech,closed,2006-01-01,2012-12-07,0,0,2,2257464.0,0,3
+c:39534,Company,Yebol,yebol,search,closed,2008-01-01,2012-01-26,0,0,1,600000.0,1,1
+c:39596,Company,Helix Therapeutics,helix therapeutics,biotech,closed,2006-01-01,2011-02-01,0,0,2,3100000.0,1,3
+c:39661,Company,Spectrawatt,spectrawatt,cleantech,closed,2008-01-01,2012-10-25,0,0,1,41400000.0,1,1
+c:39713,Company,Authix Tecnologies,authix tecnologies,security,closed,2008-07-01,2011-01-28,0,0,2,1595790.0,0,0
+c:3974,Company,LimeWire,limewire,software,closed,2000-06-01,2010-10-26,0,0,0,0.0,2,11
+c:39755,Company,MPOWER Mobile,mpower mobile,mobile,closed,2005-01-01,2012-06-08,0,0,1,5000000.0,1,1
+c:39765,Company,Peekeez,peekeez,network_hosting,closed,2008-04-01,2011-09-09,0,0,0,0.0,0,2
+c:39801,Company,Storm Exchange,storm exchange,enterprise,closed,2006-04-01,2009-03-12,0,0,2,10800000.0,1,2
+c:39835,Company,Mappyfriends,mappyfriends,web,closed,2009-07-03,2012-06-23,0,0,1,100000.0,0,0
+c:39859,Company,ClickingHouse,clickinghouse,other,closed,2009-11-12,2009-06-18,0,0,1,50000.0,0,0
+c:39861,Company,e994,e994,mobile,closed,2009-01-01,2012-06-18,0,0,2,94000.0,0,3
+c:40001,Company,Universal Ad,universal ad,advertising,closed,2003-01-01,2012-10-20,0,0,2,11000000.0,1,3
+c:40010,Company,ProFounder,profounder,finance,closed,2009-01-01,2012-02-17,2,2,2,460000.0,3,9
+c:40031,Company,SocialNotions,socialnotions,other,closed,2009-07-01,2011-07-01,0,0,0,0.0,1,5
+c:40035,Company,Mingleplay,mingleplay,games_video,closed,2010-01-27,2011-12-25,0,0,1,300000.0,1,2
+c:40051,Company,Financial Information Network & Operations Pvt,financial information network operations pvt,finance,closed,2006-01-01,2012-12-07,0,0,2,35000000.0,0,0
+c:40087,Company,Go Interview,go interview,enterprise,closed,2009-01-01,2010-01-01,0,0,0,0.0,0,0
+c:40147,Company,C2 Microsystems,c2 microsystems,hardware,closed,2004-01-01,2012-11-05,0,0,1,10000000.0,1,1
+c:40152,Company,EmSense,emsense,hardware,closed,2004-01-01,2011-11-01,0,0,2,13000000.0,2,6
+c:40197,Company,DNP Green Technology,dnp green technology,cleantech,closed,2008-01-01,2012-08-24,0,0,1,12000000.0,0,2
+c:4023,Company,Vivity Labs,vivity labs,games_video,closed,2007-12-29,2012-09-27,0,0,1,1000000.0,2,1
+c:40279,Company,Twigmore,twigmore,travel,closed,2009-10-15,2013-05-01,0,0,2,275000.0,3,2
+c:40281,Company,Gencia,gencia,biotech,closed,2002-01-01,2013-01-01,0,0,3,1980000.0,0,0
+c:40309,Company,Ocelus,ocelus,biotech,closed,2007-01-01,2010-12-29,0,0,1,812931.0,0,0
+c:40340,Company,IEC Technology Co,iec technology,public_relations,closed,1999-01-01,2009-01-01,0,0,1,4510000.0,0,0
+c:40381,Company,Monumental Games,monumental games,games_video,closed,2005-01-01,2012-02-12,0,0,1,3250000.0,0,0
+c:40407,Company,MunchAway,munchaway,ecommerce,closed,2007-01-01,2013-03-09,0,0,1,600000.0,0,0
+c:40426,Company,Phylogy,phylogy,network_hosting,closed,2003-01-01,2012-10-05,0,0,1,3000000.0,0,0
+c:40462,Company,Tanfield Direct Ltd.,tanfield direct,ecommerce,closed,2009-12-01,2011-01-28,0,0,1,6452069.0,0,0
+c:40523,Company,My eShoe,my eshoe,ecommerce,closed,2008-11-24,2011-01-01,0,0,1,50000.0,2,1
+c:40602,Company,Dealstreet,dealstreet,ecommerce,closed,2009-05-01,2012-01-01,0,0,1,0.0,1,1
+c:40628,Company,AgInfoLink,aginfolink,software,closed,1997-01-01,2013-03-01,0,0,2,10925000.0,0,0
+c:40665,Company,Media Chaperone,media chaperone,web,closed,2009-01-01,2013-06-01,0,0,2,1050000.0,1,2
+c:40751,Company,Quartics,quartics,hardware,closed,2003-01-01,2013-06-01,0,0,2,12000000.0,0,3
+c:40941,Company,LIM Collective,lim collective,mobile,closed,2009-11-01,2011-12-01,0,0,0,0.0,1,3
+c:40960,Company,HeadMix,headmix,software,closed,2007-01-01,2009-01-01,0,0,1,660000.0,0,0
+c:41062,Company,Centripetal Software,centripetal software,enterprise,closed,2009-08-01,2011-11-02,0,0,1,25000.0,0,1
+c:41093,Company,Cooptions Technologies,cooptions technologies,software,closed,1999-01-01,2011-12-09,0,0,1,10000000.0,0,0
+c:41105,Company,HealthcareKey.com,healthcarekey,public_relations,closed,2010-01-01,2010-09-05,0,0,0,0.0,2,0
+c:41138,Company,Cyren Call Communications,cyren call communications,consulting,closed,2006-01-01,2012-01-12,0,0,1,170000.0,1,2
+c:41141,Company,Arizona Security,arizona security,hardware,closed,2009-01-01,2011-02-26,0,0,1,100000.0,0,0
+c:41179,Company,Subtextual,subtextual,messaging,closed,2009-09-01,2012-09-18,0,0,1,500000.0,1,2
+c:41198,Company,Rocky Mountain Ventures,rocky mountain ventures,hardware,closed,2009-01-01,2010-01-01,0,0,1,60000.0,0,1
+c:41199,Company,InVisM,invism,games_video,closed,2006-01-01,2013-07-01,0,0,2,37500.0,0,0
+c:41207,Company,Arigami Semiconductor Systems Private,arigami semiconductor systems private,semiconductor,closed,2008-01-01,2012-01-01,0,0,1,0.0,0,0
+c:41227,Company,Architectural Daily,architectural daily,news,closed,2009-08-01,2011-02-10,0,0,1,0.0,0,0
+c:41270,Company,Storm Media Innovations Inc,storm media innovations,ecommerce,closed,2000-03-01,2010-02-09,0,0,1,100000.0,1,3
+c:4129,Company,Labmeeting,labmeeting,web,closed,2007-07-01,2011-01-01,0,0,1,500000.0,2,4
+c:41334,Company,MogoTix,mogotix,mobile,closed,2009-12-01,2013-06-01,0,0,1,115000.0,1,2
+c:41349,Company,Multi-AMP Engineering Sdn,multi amp engineering sdn,hardware,closed,1998-01-01,2009-02-28,0,0,1,0.0,0,0
+c:41356,Company,SurveyPirate,surveypirate,web,closed,2007-08-01,2012-02-01,0,0,0,0.0,1,3
+c:41409,Company,Taggstr,taggstr,messaging,closed,2009-07-01,2013-07-01,0,0,1,50000.0,1,1
+c:41425,Company,Shoutitout,shoutitout,web,closed,2009-08-28,2012-11-01,0,0,4,3900000.0,2,7
+c:41462,Company,RunAlong,runalong,web,closed,2008-12-17,2012-06-18,0,0,1,130295.0,0,1
+c:41522,Company,Pouncer,pouncer,ecommerce,closed,2009-05-14,2010-06-01,0,0,0,0.0,2,2
+c:41646,Company,liveMag.ro,livemag ro,ecommerce,closed,2009-03-25,2011-11-01,0,0,1,233100.0,1,5
+c:41649,Company,TutorialTab,tutorialtab,education,closed,2010-03-02,2010-01-01,0,0,1,12000.0,1,2
+c:41747,Company,Reef Point Systems,reef point systems,security,closed,1998-01-01,2008-06-25,0,0,3,52000000.0,1,1
+c:4177,Company,Zygo Communications,zygo communications,mobile,closed,2005-06-21,2010-06-20,0,0,1,0.0,1,6
+c:41892,Company,Netbyte Hosting,netbyte hosting,network_hosting,closed,2005-10-01,2010-11-11,0,0,1,2500000.0,2,0
+c:41908,Company,Tripsourcing,tripsourcing,web,closed,2009-04-23,2011-09-05,0,0,1,26065.0,1,1
+c:41968,Company,Verari Systems,verari systems,hardware,closed,1996-01-01,2010-01-01,0,0,1,20000000.0,0,1
+c:41995,Company,Avieon,avieon,semiconductor,closed,2005-03-15,2012-01-27,0,0,1,750000.0,1,1
+c:42002,Company,MagMe,magme,advertising,closed,2008-01-01,2013-03-02,0,0,1,1000000.0,1,8
+c:42062,Company,Andigilog,andigilog,semiconductor,closed,1996-01-01,2012-07-08,0,0,1,18000000.0,0,0
+c:42112,Company,Moonshoot,moonshoot,web,closed,2007-01-01,2012-02-01,0,0,2,6760000.0,2,6
+c:42122,Company,SepSensor,sepsensor,other,closed,2003-01-01,2013-06-01,0,0,4,3263734.0,1,3
+c:42154,Company,MicroEmissive Displays Group,microemissive displays group,semiconductor,closed,1999-01-01,2009-10-03,0,0,4,35280600.0,1,2
+c:42158,Company,In2Games,in2games,games_video,closed,2000-11-01,2011-01-01,0,0,1,15280000.0,0,0
+c:42163,Company,Certeon,certeon,software,closed,2003-01-01,2013-02-01,0,0,2,19000000.0,1,2
+c:42227,Company,WiLinx,wilinx,semiconductor,closed,2003-01-01,2012-01-04,0,0,1,15000000.0,0,0
+c:42269,Company,Celona Technologies,celona technologies,software,closed,2005-01-01,2013-01-01,0,0,3,19000000.0,2,0
+c:4227,Company,CVN Networks,cvn networks,consulting,closed,2007-10-30,2011-01-01,0,0,1,7000.0,0,1
+c:42378,Company,opinions.h,opinions h,advertising,closed,2009-11-01,2011-05-10,0,0,1,15000.0,0,1
+c:42441,Company,Berggi,berggi,mobile,closed,2004-01-01,2011-08-10,0,0,2,12000000.0,0,0
+c:42452,Company,LOOKK,lookk,fashion,closed,2010-01-01,2013-10-01,0,0,1,0.0,1,14
+c:42486,Company,Edgecore Networks,edgecore networks,network_hosting,closed,2009-01-01,2013-07-01,0,0,1,3600000.0,0,0
+c:42487,Company,FashionAde.com (Abundant Closet),fashionade abundant closet,ecommerce,closed,2008-01-01,2013-01-01,0,0,1,60000.0,1,2
+c:42496,Company,PeerPong,peerpong,web,closed,2006-01-01,2013-04-01,0,0,1,2800000.0,2,6
+c:42499,Company,Flixlab,flixlab,games_video,closed,2010-01-01,2013-06-01,0,0,5,3850000.0,2,11
+c:42518,Company,Regen,regen,cleantech,closed,2008-01-01,2011-09-01,0,0,1,1602500.0,0,2
+c:42519,Company,Internet Pawn,internet pawn,finance,closed,2009-01-01,2013-03-01,0,0,5,7228704.0,2,0
+c:42563,Company,Kaskado,kaskado,mobile,closed,2008-01-01,2012-08-30,0,0,1,0.0,0,0
+c:42610,Company,Qlusters,qlusters,other,closed,2001-01-01,2008-09-11,0,0,1,10360000.0,1,3
+c:42666,Company,BlossomandTwigs.com,blossomandtwigs,ecommerce,closed,2009-09-01,2011-04-25,0,0,1,500000.0,1,2
+c:42672,Company,Octavian,octavian,software,closed,2003-01-01,2011-02-01,0,0,2,15000000.0,1,2
+c:42695,Company,Adeyoh,adeyoh,web,closed,2009-10-01,2012-09-03,0,0,1,12000.0,0,1
+c:42708,Company,BusinessElite,businesselite,web,closed,2008-01-01,2011-03-03,0,0,1,200000.0,1,3
+c:42752,Company,Buyers Edge,buyers edge,web,closed,2009-06-01,2010-07-24,0,0,1,409562.0,1,2
+c:42819,Company,iBloom Technologies,ibloom technologies,web,closed,2009-05-01,2011-03-05,0,0,1,0.0,1,5
+c:42826,Company,Brozengo,brozengo,web,closed,2008-02-01,2009-07-31,0,0,2,1073497.0,2,2
+c:42842,Company,Zilker Labs,zilker labs,semiconductor,closed,2003-01-01,2011-02-07,0,0,3,27000000.0,0,0
+c:42909,Company,Urgent Group,urgent group,finance,closed,2007-01-01,2012-06-01,0,0,1,400000.0,0,1
+c:42990,Company,EvText,evtext,software,closed,2008-03-01,2010-01-01,0,0,0,0.0,1,1
+c:43,Company,Thoof,thoof,web,closed,2006-12-01,2013-08-04,0,0,1,1000000.0,4,2
+c:43037,Company,Protective Systems,protective systems,security,closed,2007-01-01,2013-06-01,0,0,1,788800.0,0,1
+c:43069,Company,StreetSpark,streetspark,social,closed,2009-12-15,2012-10-01,0,0,1,0.0,2,2
+c:43109,Company,Hygeia Personal Care Products,hygeia personal care products,web,closed,2004-07-01,2011-11-13,0,0,1,0.0,1,1
+c:43133,Company,U.S. Fiduciary,u s fiduciary,other,closed,2003-01-01,2009-04-17,0,0,1,9000000.0,0,4
+c:43162,Company,QuikCycle,quikcycle,software,closed,1998-01-01,2011-01-01,0,0,2,17800000.0,0,0
+c:43386,Company,MyNines,mynines,ecommerce,closed,2009-08-01,2011-08-05,0,0,1,500000.0,2,2
+c:43406,Company,Pinchd,pinchd,web,closed,2009-01-01,2012-01-01,0,0,1,0.0,1,4
+c:43408,Company,TBi Connect,tbi connect,software,closed,2000-01-01,2012-07-18,0,0,1,671226.0,0,0
+c:43415,Company,PlumWillow,plumwillow,web,closed,2010-01-01,2013-01-01,0,0,2,705000.0,2,4
+c:43416,Company,Stickybits,stickybits,web,closed,2009-01-01,2012-08-01,0,0,2,1900000.0,2,7
+c:43429,Company,Double R Group,double r group,ecommerce,closed,2009-06-06,2010-02-11,0,0,1,100000.0,0,0
+c:43458,Company,Levanta,levanta,software,closed,1998-01-01,2008-05-09,0,0,1,8000000.0,1,2
+c:43468,Company,InvestorHeadStart.com,investorheadstart,software,closed,2009-08-01,2010-01-01,0,0,0,0.0,0,0
+c:43480,Company,Mail.com Media Corporation,mail media,web,closed,2004-01-01,2011-01-01,0,0,1,35000000.0,2,4
+c:4349,Company,Twitlinks,twitlinks,web,closed,2008-04-01,2012-03-01,0,0,0,0.0,2,1
+c:43520,Company,MetaLabs,metalabs,games_video,closed,2008-08-01,2012-05-01,0,0,0,0.0,1,1
+c:43707,Company,UK-EastLondon-Asian. Inc,uk eastlondon asian,other,closed,2010-03-08,2011-12-01,0,0,1,100000000.0,1,2
+c:43724,Company,Axial Biotech,axial biotech,biotech,closed,2002-01-01,2013-03-25,0,0,2,19400000.0,0,2
+c:43741,Company,Nascentric,nascentric,software,closed,2003-01-01,2012-01-01,0,0,2,13400000.0,0,4
+c:43824,Company,Doubloon,doubloon,games_video,closed,2009-09-13,2011-11-01,0,0,1,0.0,1,3
+c:43873,Company,Kolorific,kolorific,semiconductor,closed,2003-01-01,2012-07-07,0,0,1,7000000.0,0,0
+c:43875,Company,Defywire,defywire,mobile,closed,2003-01-01,2008-05-01,0,0,2,10600000.0,1,2
+c:43877,Company,Jacent Technologies,jacent technologies,software,closed,2001-01-01,2007-01-01,0,0,2,13700000.0,1,2
+c:43915,Company,Bioenvision,bioenvision,biotech,closed,1996-01-01,2009-08-13,0,0,1,7410000.0,0,3
+c:43948,Company,Transparency Software,transparency software,software,closed,2004-01-01,2009-01-01,0,0,2,12050000.0,0,0
+c:4397,Company,PluggedIn,pluggedin,games_video,closed,2006-08-01,2009-03-04,0,0,1,2000000.0,2,6
+c:43988,Company,EnCoate,encoate,biotech,closed,2003-01-01,2012-02-26,0,0,1,5100000.0,0,0
+c:44004,Company,Euro-Outsource Ltd,euro outsource,consulting,closed,2010-01-04,2010-06-01,0,0,0,0.0,1,4
+c:44051,Company,Dinglepharb,dinglepharb,games_video,closed,2009-06-01,2009-01-01,0,0,1,400000.0,1,5
+c:44064,Company,Oasys Mobile,oasys mobile,software,closed,1984-01-01,2012-05-21,0,0,1,8000000.0,1,1
+c:44092,Company,Unigene Laboratories,unigene laboratories,biotech,closed,1980-01-01,2013-06-01,0,0,4,37750000.0,2,8
+c:44119,Company,Starburst Coin Machines,starburst coin machines,hardware,closed,1975-01-01,2012-08-29,0,0,1,5960000.0,0,1
+c:44144,Company,Pro Options Marketing,pro options marketing,consulting,closed,2009-03-09,2012-10-13,0,0,1,100000.0,1,1
+c:44164,Company,Notifo,notifo,mobile,closed,2010-03-18,2011-09-01,0,0,1,0.0,3,2
+c:44225,Company,WHObyYOU,whobyyou,web,closed,2008-07-31,2012-02-14,0,0,1,150000.0,1,3
+c:44246,Company,Abcellute,abcellute,biotech,closed,2001-01-01,2013-01-01,0,0,1,805909.0,0,0
+c:44305,Company,Food Quality Sensor International,food quality sensor international,hardware,closed,2004-01-01,2012-02-28,0,0,1,5600000.0,0,0
+c:44332,Company,Enure Networks,enure networks,software,closed,2003-01-01,2009-01-01,0,0,2,13000000.0,1,2
+c:444,Company,Sampa,sampa,web,closed,2005-03-01,2009-07-17,0,0,2,1310000.0,4,3
+c:4447,Company,BigString,bigstring,web,closed,2003-10-01,2012-09-01,0,0,2,518000.0,1,3
+c:44514,Company,Nelbee,nelbee,real_estate,closed,2011-04-05,2012-03-01,0,0,1,0.0,1,2
+c:44592,Company,Aceris 3D Inspection,aceris 3d inspection,hardware,closed,2000-01-01,2010-03-24,0,0,1,4880000.0,0,0
+c:44607,Company,Ad Summos,ad summos,advertising,closed,2010-01-01,2012-03-01,0,0,2,4549999.0,0,0
+c:44616,Company,Yamisee,yamisee,web,closed,2010-01-01,2013-07-01,0,0,2,700000.0,2,2
+c:44680,Company,Qitio,qitio,hardware,closed,2009-11-01,2011-02-01,0,0,1,500000.0,1,1
+c:44714,Company,Adaptive TCR,adaptive tcr,biotech,closed,2009-01-01,2013-07-01,0,0,2,10350000.0,0,2
+c:44777,Company,Footbalistic,footbalistic,sports,closed,2009-03-01,2012-06-01,0,0,1,500000.0,1,4
+c:4478,Company,MediaScrape,mediascrape,web,closed,2006-05-01,2009-11-30,0,0,3,5200000.0,1,1
+c:44794,Company,Charitas,charitas,mobile,closed,2009-06-01,2011-09-21,0,0,1,3000.0,0,0
+c:44852,Company,MailWriter,mailwriter,messaging,closed,2009-01-05,2012-06-01,0,0,1,0.0,0,0
+c:44861,Company,Smish,smish,software,closed,2009-04-01,2012-01-01,0,0,1,2000000.0,0,3
+c:44894,Company,iGlue,iglue,search,closed,2007-08-25,2013-01-01,0,0,3,1100000.0,2,2
+c:44955,Company,9car Technology LLC,9car technology,ecommerce,closed,2009-11-18,2011-08-30,0,0,2,80000.0,0,3
+c:4511,Company,Muxlim,muxlim,web,closed,2006-11-21,2012-01-01,0,0,1,0.0,1,3
+c:45111,Company,Entertainment Media Works,entertainment media works,software,closed,2004-07-01,2008-10-01,0,0,1,4000000.0,1,1
+c:45112,Company,Athena Design Systems,athena design systems,software,closed,2003-01-01,2012-01-01,0,0,1,4000000.0,0,0
+c:45114,Company,Skyway Software,skyway software,software,closed,2001-01-01,2012-10-01,0,0,1,4000000.0,0,0
+c:45115,Company,U4EA Wireless,u4ea wireless,mobile,closed,2000-01-01,2010-12-30,0,0,3,19300000.0,0,0
+c:45167,Company,2DailyDeals,2dailydeals,ecommerce,closed,2010-01-01,2010-11-01,0,0,0,0.0,1,1
+c:45339,Company,Azaire Networks,azaire networks,software,closed,2003-01-01,2011-12-29,0,0,1,21000000.0,0,2
+c:45379,Company,Paver Downes Associates,paver downes associates,messaging,closed,1997-01-01,2008-02-11,0,0,2,3008197.0,0,0
+c:4539,Company,StrawPoll,strawpoll,web,closed,2008-02-16,2010-09-17,0,0,0,0.0,0,3
+c:45396,Company,Amitive,amitive,software,closed,2010-01-01,2009-02-06,0,0,1,16000000.0,0,1
+c:454,Company,DanceJam,dancejam,games_video,closed,2007-04-01,2011-01-01,0,0,2,4500000.0,5,4
+c:45401,Company,ExTractApps,extractapps,software,closed,2009-06-01,2012-08-01,0,0,1,167500.0,0,3
+c:45413,Company,Trooval,trooval,analytics,closed,2008-09-01,2011-02-01,0,0,2,2387481.0,1,2
+c:45465,Company,Adcast,adcast,advertising,closed,2009-03-28,2012-08-22,0,0,1,3500.0,1,2
+c:45466,Company,BlogRadio,blogradio,mobile,closed,2009-01-01,2011-07-19,0,0,1,0.0,2,2
+c:45482,Company,Join The Company,join the company,web,closed,2010-01-01,2012-05-01,0,0,1,900000.0,0,1
+c:45600,Company,Fringe Corp,fringe,mobile,closed,2009-01-01,2013-06-01,0,0,1,410000.0,0,0
+c:45623,Company,QuIC Financial Technologies,quic financial technologies,software,closed,1998-01-01,2010-06-14,0,0,1,10000000.0,0,4
+c:45695,Company,Balaya,balaya,public_relations,closed,2007-01-01,2013-05-01,0,0,2,155000.0,0,0
+c:45706,Company,MyDatingTree,mydatingtree,social,closed,2007-01-01,2011-04-01,0,0,1,10000.0,0,3
+c:45709,Company,Avolent,avolent,software,closed,1995-01-01,2011-12-21,0,0,1,9000000.0,1,7
+c:45728,Company,Siving Egil Kvaleberg,siving egil kvaleberg,software,closed,1983-01-01,2013-07-01,0,0,2,7700000.0,1,0
+c:45737,Company,Xceliant,xceliant,software,closed,2009-01-01,2011-02-02,0,0,1,73055.0,1,1
+c:45741,Company,Snacksquare,snacksquare,advertising,closed,2010-01-15,2011-02-02,0,0,1,30000.0,2,8
+c:45792,Company,Intrusic,intrusic,software,closed,2001-01-01,2007-02-19,0,0,2,16000000.0,0,1
+c:458,Company,EventVue,eventvue,public_relations,closed,2007-05-01,2010-02-01,0,0,2,455000.0,0,5
+c:4581,Company,Catzler,catzler,other,closed,2010-09-14,2010-01-01,0,0,0,0.0,2,0
+c:45937,Company,ScanSocial,scansocial,social,closed,2010-04-15,2012-01-01,0,0,1,1000.0,1,1
+c:45962,Company,InLive Interactive,inlive interactive,software,closed,2005-01-01,2011-10-28,0,0,1,6440000.0,0,2
+c:45963,Company,Avokia,avokia,software,closed,2000-01-01,1997-01-01,0,0,1,6430000.0,0,1
+c:46042,Company,NextMedium,nextmedium,software,closed,2004-01-01,2011-12-24,0,0,2,9500000.0,1,7
+c:46048,Company,Taggable,taggable,web,closed,2010-04-01,2013-07-01,0,0,1,0.0,1,0
+c:4605,Company,PrepChamps,prepchamps,web,closed,2007-02-01,2012-01-01,0,0,1,1200000.0,1,3
+c:46059,Company,Nanofactory Instruments,nanofactory instruments,hardware,closed,1999-01-01,2013-04-30,0,0,1,2070000.0,1,1
+c:46070,Company,Pyxis Mobile,pyxis mobile,software,closed,1998-01-01,2012-08-01,0,0,3,24150000.0,2,3
+c:46073,Company,Xytis,xytis,biotech,closed,2006-01-01,2010-05-12,0,0,1,24500000.0,0,0
+c:46092,Company,Anonymous You,anonymous you,social,closed,2010-04-19,2013-01-01,0,0,1,200000.0,1,2
+c:46117,Company,Elton Digital,elton digital,advertising,closed,2010-01-14,2012-05-11,0,0,1,500000.0,1,2
+c:46155,Company,Cytheris,cytheris,biotech,closed,1999-01-01,2013-09-14,0,0,2,45700000.0,1,1
+c:46186,Company,Mendocino Software,mendocino software,software,closed,2003-01-01,2008-02-07,0,0,2,19700000.0,1,2
+c:46199,Company,wizboo,wizboo,advertising,closed,2008-01-01,2013-06-25,0,0,1,69585.0,0,2
+c:46206,Company,Zila Networks,zila networks,mobile,closed,2009-07-28,2013-06-25,0,0,1,1000000.0,1,6
+c:46259,Company,CebaTech,cebatech,software,closed,2004-01-01,2012-06-05,0,0,2,8500000.0,1,4
+c:46267,Company,TransPharma Medical,transpharma medical,biotech,closed,2000-01-01,2012-05-19,0,0,1,18000000.0,0,1
+c:46293,Company,CoderBuddy,coderbuddy,software,closed,2010-01-01,2013-07-01,0,0,1,0.0,1,1
+c:46337,Company,Concurrent Thinking,concurrent thinking,software,closed,2000-01-01,2013-07-01,0,0,2,4690000.0,1,3
+c:46367,Company,Cytomics Pharmaceuticals,cytomics pharmaceuticals,biotech,closed,2000-01-01,2011-01-31,0,0,1,11875000.0,0,0
+c:46373,Company,Hi-Stor Technologies,hi stor technologies,software,closed,1997-01-01,2005-01-01,0,0,2,3480000.0,0,0
+c:46490,Company,169 ST.,169 st,games_video,closed,2009-05-15,2010-04-26,0,0,1,50000.0,1,1
+c:46525,Company,StrippedFinance,strippedfinance,ecommerce,closed,2008-08-21,2012-12-31,0,0,0,0.0,1,0
+c:46552,Company,paymio,paymio,finance,closed,2009-07-01,2011-01-23,0,0,1,50000.0,1,5
+c:46628,Company,DUQI.COM,duqi com,web,closed,2010-01-01,2010-10-01,0,0,1,100000.0,0,0
+c:46650,Company,Momo Networks,momo networks,social,closed,2009-04-29,2012-01-17,0,0,1,480000.0,1,3
+c:46653,Company,Cloud.CM,cloud cm,web,closed,2009-03-31,2012-02-01,0,0,1,500000.0,0,2
+c:4667,Company,Viewzi,viewzi,search,closed,2006-12-01,2010-12-28,0,0,0,0.0,0,7
+c:46713,Company,Gullivearth,gullivearth,web,closed,2009-10-28,2013-06-01,0,0,1,158940.0,1,4
+c:46850,Company,IntroBridge,introbridge,mobile,closed,2009-09-01,2011-08-25,0,0,1,300000.0,0,2
+c:46863,Company,MyCabbage,mycabbage,mobile,closed,2010-03-01,2013-06-01,0,0,2,950000.0,2,1
+c:46889,Company,FireStar Software,firestar software,software,closed,2001-01-01,2010-04-29,0,0,1,980000.0,0,2
+c:46893,Company,HeadCase Humanufacturing,headcase humanufacturing,software,closed,2006-01-01,2012-01-01,0,0,1,900000.0,0,3
+c:46907,Company,Micromuscle,micromuscle,biotech,closed,2000-01-01,2008-11-21,0,0,1,0.0,0,0
+c:46947,Company,sProphet,sprophet,games_video,closed,2009-12-30,2012-01-01,0,0,0,0.0,3,0
+c:46958,Company,Storage Genetics,storage genetics,other,closed,2008-01-01,2011-02-01,0,0,1,1000000.0,0,1
+c:46990,Company,Formative Labs,formative labs,cleantech,closed,2010-01-01,2012-02-01,0,0,1,0.0,2,1
+c:470,Company,SlapVid,slapvid,games_video,closed,2007-01-01,2007-08-01,0,0,1,0.0,2,0
+c:4701,Company,Talicious,talicious,network_hosting,closed,2006-03-14,2012-04-18,0,0,1,10000.0,0,2
+c:47011,Company,Wild Pockets,wild pockets,games_video,closed,2006-01-01,2011-12-04,0,0,1,0.0,2,3
+c:47084,Company,Honeycomb Security Solutions,honeycomb security solutions,software,closed,2003-01-01,2009-02-12,0,0,1,911000.0,0,0
+c:47115,Company,Giiv,giiv,messaging,closed,2009-01-01,2012-08-01,0,0,2,3350000.0,1,1
+c:47136,Company,HotClickVideo,hotclickvideo,software,closed,2009-07-01,2012-05-10,0,0,1,525000.0,1,6
+c:47167,Company,Netragon,netragon,software,closed,1999-01-01,2010-05-03,0,0,1,381000.0,0,0
+c:47170,Company,N-Sided,n sided,software,closed,2003-01-01,2011-12-31,0,0,1,378000.0,0,0
+c:47187,Company,fflap,fflap,ecommerce,closed,2010-04-12,2012-07-01,0,0,2,194527.0,1,1
+c:47228,Company,Tandem Transit,tandem transit,public_relations,closed,2008-01-01,2011-02-01,0,0,1,300000.0,0,0
+c:47243,Company,listedplaces,listedplaces,travel,closed,2011-03-13,2011-11-01,0,0,1,20000.0,0,2
+c:47250,Company,SLR Technology Solutions,slr technology solutions,software,closed,2006-01-01,2009-02-10,0,0,1,150000.0,0,2
+c:47270,Company,Offermatic,offermatic,web,closed,2010-02-01,2013-06-01,0,0,2,4500000.0,2,6
+c:47320,Company,WayConnected,wayconnected,web,closed,2010-02-01,2012-04-23,0,0,1,0.0,0,2
+c:47325,Company,Gaiacom Wireless Networks,gaiacom wireless networks,mobile,closed,1999-12-07,2010-12-23,0,0,1,500000.0,1,1
+c:47341,Company,Tipping Bucket,tipping bucket,enterprise,closed,2009-04-08,2012-01-01,0,0,2,72000.0,1,4
+c:47344,Company,Headplay,headplay,games_video,closed,1998-01-01,2013-06-01,0,0,1,291293.0,1,3
+c:4740,Company,OPEN Sports Network,open sports network,sports,closed,2007-01-01,2011-11-23,0,0,1,4000000.0,3,2
+c:47440,Company,International Battery,international battery,cleantech,closed,2008-01-01,2013-03-01,0,0,1,35000000.0,0,0
+c:47587,Company,Infineta Systems,infineta systems,software,closed,2008-01-01,2012-01-01,0,0,2,30000000.0,2,4
+c:47606,Company,coMinds,cominds,other,closed,2010-05-05,2012-05-01,0,0,0,0.0,0,1
+c:47623,Company,3Touch,3touch,software,closed,2003-01-01,2012-01-01,0,0,1,272000.0,0,0
+c:47625,Company,Quosis,quosis,software,closed,2004-01-01,2006-07-17,0,0,1,260000.0,0,0
+c:47662,Company,SpinTheCam,spinthecam,games_video,closed,2010-02-12,2012-02-17,0,0,1,150000.0,1,1
+c:47689,Company,Atrica,atrica,public_relations,closed,2000-01-01,2007-12-13,0,0,1,22200000.0,1,10
+c:47768,Company,Atlas Guides,atlas guides,other,closed,2008-01-01,2012-01-01,0,0,1,400000.0,0,0
+c:47810,Company,Urtak,urtak,web,closed,2008-01-01,2013-09-20,0,0,2,512000.0,2,4
+c:47897,Company,Reeli (YesReeli),reeli yesreeli,enterprise,closed,2010-05-01,2011-01-01,0,0,0,0.0,1,3
+c:47940,Company,Flipzu,flipzu,games_video,closed,2010-06-01,2012-06-01,0,0,1,150000.0,2,2
+c:47950,Company,People to Remember,people to remember,ecommerce,closed,2010-04-01,2013-06-01,0,0,1,25000.0,1,2
+c:48019,Company,Gucash,gucash,ecommerce,closed,2010-01-03,2012-10-01,0,0,1,250000.0,1,2
+c:48033,Company,Aviga Systems,aviga systems,mobile,closed,2008-06-01,2010-12-12,0,0,1,750000.0,2,4
+c:48040,Company,Textingly,textingly,messaging,closed,2010-01-01,2012-06-01,0,0,1,650000.0,2,2
+c:48128,Company,Burning Sky Software,burning sky software,software,closed,2009-06-01,2011-12-19,0,0,1,1500000.0,1,3
+c:48131,Company,videScreen Networks,videscreen networks,web,closed,2010-02-28,2011-10-04,0,0,1,30000.0,2,2
+c:48190,Company,PushButton Labs,pushbutton labs,games_video,closed,2009-05-28,2012-02-24,0,0,1,0.0,2,5
+c:4829,Company,Center'd,centerd,web,closed,2006-01-01,2011-12-02,0,0,5,10400000.0,2,8
+c:48338,Company,SocialBuy,socialbuy,advertising,closed,2010-01-01,2012-01-01,0,0,1,500000.0,2,7
+c:48376,Company,NeuroTherapeutics Pharma,neurotherapeutics pharma,biotech,closed,2006-01-01,2013-06-01,0,0,2,55000000.0,1,5
+c:48533,Company,Gimao Networks,gimao networks,web,closed,2008-06-01,2011-01-01,0,0,1,300000.0,0,4
+c:4856,Company,InGameNow,ingamenow,web,closed,2008-03-01,2010-01-01,0,0,1,0.0,1,1
+c:48640,Company,Auvitek International,auvitek international,semiconductor,closed,2004-03-01,2011-02-20,0,0,1,9000000.0,0,32
+c:48698,Company,Yoomly,yoomly,web,closed,2010-01-01,2012-06-29,0,0,1,0.0,1,1
+c:48789,Company,Norket,norket,public_relations,closed,2009-12-06,2011-05-15,0,0,0,0.0,2,2
+c:49056,Company,UserMojo,usermojo,analytics,closed,2010-03-01,2010-10-18,0,0,1,18000.0,1,3
+c:49126,Company,Luristic,luristic,software,closed,2009-01-13,2011-06-29,0,0,1,500000.0,1,1
+c:49185,Company,DivineCrunch,divinecrunch,web,closed,2007-09-10,2011-01-03,0,0,0,0.0,0,0
+c:49236,Company,Loudcaster,loudcaster,web,closed,2009-08-01,2012-01-01,0,0,2,53000.0,1,1
+c:49341,Company,Cerona Networks,cerona networks,public_relations,closed,2002-01-01,2012-01-18,0,0,1,2600000.0,0,0
+c:49580,Company,Second Half Playbook,second half playbook,web,closed,2010-03-01,2011-03-01,0,0,2,1000000.0,1,1
+c:49611,Company,ZilloPay,zillopay,ecommerce,closed,2007-08-01,2010-12-30,0,0,1,25000.0,1,1
+c:49621,Company,Helicomm,helicomm,network_hosting,closed,2002-01-01,2013-03-15,0,0,1,1000000.0,0,0
+c:49733,Company,Where's Your Duck Been,wheres your duck been,social,closed,2010-06-11,2011-07-01,0,0,0,0.0,1,1
+c:49749,Company,FreeLunched,freelunched,advertising,closed,2010-01-15,2011-02-24,0,0,1,0.0,1,2
+c:49852,Company,TakeCare,takecare,other,closed,2010-01-01,2011-12-29,0,0,1,1000000.0,0,3
+c:49941,Company,Sparkcloud,sparkcloud,enterprise,closed,2010-01-01,2010-01-01,0,0,2,0.0,1,1
+c:49959,Company,Everything Club,everything club,ecommerce,closed,2011-07-01,2012-01-01,0,0,1,9000.0,1,1
+c:5002,Company,Zeer,zeer,public_relations,closed,2007-06-01,2009-09-18,0,0,1,1050000.0,1,0
+c:501,Company,G.ho.st,g ho st,web,closed,2006-01-01,2012-01-01,0,0,1,3000000.0,4,4
+c:50267,Company,Groupoff,groupoff,ecommerce,closed,2010-06-06,2013-06-01,0,0,1,0.0,0,0
+c:50318,Company,WhipCar,whipcar,ecommerce,closed,2009-01-01,2013-03-08,0,0,1,0.0,1,3
+c:5034,Company,RemindBlast,remindblast,web,closed,2008-04-10,2011-01-01,0,0,0,0.0,0,5
+c:50343,Company,Ideabing,ideabing,other,closed,2010-02-01,2013-01-01,0,0,0,0.0,2,1
+c:50388,Company,Grows Up,grows up,ecommerce,closed,2010-01-01,2012-10-31,0,0,1,0.0,1,1
+c:5043,Company,Skyrider,skyrider,software,closed,2003-01-01,2008-10-15,0,0,2,17000000.0,2,2
+c:50449,Company,Opzi,opzi,games_video,closed,2010-05-01,2013-07-01,0,0,2,1015000.0,2,5
+c:50488,Company,hotelsmap.com,hotelsmap,enterprise,closed,2010-06-20,2012-07-08,0,0,1,5000.0,0,1
+c:50505,Company,InsideAxisâ¢,insideaxisâ¢,software,closed,2009-08-31,2012-07-27,0,0,1,0.0,0,0
+c:50510,Company,Markelogy Net,markelogy net,consulting,closed,2010-05-14,2011-10-14,0,0,1,15000.0,0,1
+c:50553,Company,LOT NET,lot net,ecommerce,closed,2010-05-05,2011-01-01,0,0,0,0.0,1,8
+c:50604,Company,eeden,eeden,games_video,closed,2010-04-17,2013-06-01,0,0,1,200000.0,1,1
+c:50634,Company,MIR,mir,advertising,closed,2009-06-01,2011-06-01,0,0,0,0.0,1,3
+c:50673,Company,Lumatic,lumatic,transportation,closed,2009-07-01,2013-08-04,0,0,3,813000.0,2,5
+c:50685,Company,The 5th Base,the 5th base,web,closed,2005-02-01,2013-07-01,0,0,1,2500.0,0,1
+c:50704,Company,Roundhouse,roundhouse,other,closed,2010-06-21,2011-08-03,0,0,0,0.0,1,2
+c:5079,Company,Supercool School,supercool school,web,closed,2009-01-01,2012-08-13,0,0,1,100000.0,0,2
+c:50813,Company,Mojo Labs Co.,mojo labs,web,closed,2010-04-06,2012-07-01,0,0,2,34469.0,1,4
+c:50814,Company,Social Games Herald,social games herald,games_video,closed,2010-07-01,2012-07-01,0,0,1,5000.0,0,0
+c:50856,Company,Calendargod,calendargod,web,closed,2009-09-01,2013-04-29,0,0,1,250000.0,1,4
+c:509,Company,Zango,zango,games_video,closed,1999-01-01,2009-12-24,0,0,2,40000000.0,2,12
+c:50927,Company,Network Chemistry,network chemistry,software,closed,2002-01-01,2008-05-14,0,0,1,6000000.0,1,6
+c:5095,Company,Wirama,wirama,hardware,closed,2006-01-01,2008-10-04,0,0,1,1000000.0,0,0
+c:51000,Company,Bounce Mobile,bounce mobile,music,closed,2010-01-21,2012-06-30,0,0,1,0.0,0,1
+c:51023,Company,Abound Solar,abound solar,cleantech,closed,2007-01-01,2012-11-01,0,0,2,510000000.0,3,5
+c:51059,Company,Calleoo,calleoo,messaging,closed,2009-08-01,2011-03-16,0,0,1,60000.0,1,2
+c:51066,Company,NanoPowers,nanopowers,medical,closed,2004-01-01,2010-01-01,0,0,1,4500000.0,0,2
+c:51104,Company,Taggle Internet Ventures Private,taggle internet ventures private,games_video,closed,2010-01-01,2012-02-01,0,0,1,8750000.0,0,0
+c:51201,Company,LilLuxe,lilluxe,fashion,closed,2010-03-09,2011-04-01,0,0,1,1200000.0,1,4
+c:51295,Company,thingloop,thingloop,web,closed,2010-01-01,2011-08-31,0,0,0,0.0,0,0
+c:5131,Company,twidox,twidox,network_hosting,closed,2007-11-01,2013-06-25,0,0,1,0.0,1,4
+c:51411,Company,PinkelStar,pinkelstar,mobile,closed,2010-07-01,2013-06-01,0,0,1,500000.0,1,1
+c:51528,Company,Rockola Media Group,rockola media group,news,closed,2007-07-18,2012-09-01,0,0,1,2037750.0,1,0
+c:51552,Company,Elecar,elecar,cleantech,closed,2009-03-30,2011-01-01,0,0,1,10000.0,1,1
+c:516,Company,DotBlu,dotblu,web,closed,2007-01-01,2009-10-21,0,0,2,2250000.0,2,3
+c:51623,Company,Lama Lab,lama lab,enterprise,closed,2009-01-01,2013-06-01,0,0,2,1213066.0,0,0
+c:51643,Company,Pinkdingo,pinkdingo,web,closed,2009-10-01,2012-01-01,0,0,1,1400000.0,1,0
+c:5174,Company,Your Survival,your survival,web,closed,2006-10-01,2012-10-13,0,0,1,425000.0,0,2
+c:51745,Company,Wellcore,wellcore,hardware,closed,2007-01-01,2013-07-01,0,0,1,2000000.0,0,1
+c:51802,Company,The DoBand Campaign,the doband campaign,web,closed,2010-06-28,2013-06-01,0,0,2,63500.0,0,3
+c:51933,Company,Ad Knights,ad knights,advertising,closed,2010-03-01,2013-05-01,0,0,1,50000.0,0,3
+c:51948,Company,cookdinner,cookdinner,ecommerce,closed,2010-07-04,2012-07-01,0,0,1,0.0,1,4
+c:51969,Company,Hurricane Party,hurricane party,mobile,closed,2010-05-01,2012-07-01,0,0,1,20000.0,2,5
+c:52030,Company,SocialMixr,socialmixr,games_video,closed,2007-12-14,2008-01-01,0,0,0,0.0,0,49
+c:52119,Company,dianboom,dianboom,ecommerce,closed,2010-03-01,2012-01-01,0,0,1,390000.0,1,1
+c:52175,Company,WideAngle Metrics,wideangle metrics,software,closed,2009-10-01,2011-02-07,0,0,1,100000.0,0,4
+c:52176,Company,BizGreet,bizgreet,messaging,closed,2008-09-01,2011-05-15,0,0,1,345000.0,2,3
+c:52235,Company,TRSB Groupe,trsb groupe,consulting,closed,1997-01-01,2010-01-01,0,0,1,5330000.0,0,0
+c:52250,Company,GaBoom,gaboom,games_video,closed,2010-02-22,2012-01-01,0,0,1,87468.0,1,2
+c:52290,Company,Kid Care Years,kid care years,web,closed,2008-05-01,2010-09-30,0,0,1,0.0,0,1
+c:52356,Company,Transparent IT Solutions,transparent it solutions,software,closed,2010-01-19,2010-09-14,0,0,1,0.0,1,2
+c:5247,Company,BView,bview,network_hosting,closed,2008-03-01,2012-09-10,0,0,1,4014727.0,0,4
+c:52563,Company,The Beauty Tribe,the beauty tribe,web,closed,2010-05-01,2013-01-01,0,0,1,100000.0,0,0
+c:526,Company,BitPass,bitpass,web,closed,2002-12-01,2012-04-24,0,0,2,13300000.0,5,7
+c:52608,Company,ShopSmartSearch,shopsmartsearch,web,closed,2005-01-01,2006-01-01,0,0,0,0.0,1,3
+c:5264,Company,Dilithium Networks,dilithium networks,mobile,closed,2001-01-01,2012-10-01,0,0,7,98170000.0,3,12
+c:52663,Company,Doozly,doozly,software,closed,2010-07-01,2012-12-01,0,0,0,0.0,2,2
+c:52692,Company,Callio Technologies,callio technologies,software,closed,2001-01-01,2012-07-04,0,0,1,1250000.0,0,1
+c:52694,Company,Plethora Technology,plethora technology,software,closed,2000-01-01,2009-05-23,0,0,1,1000000.0,0,1
+c:52752,Company,Taskmit,taskmit,web,closed,2010-08-01,2011-02-01,0,0,1,18316.0,1,2
+c:5283,Company,Streamy,streamy,web,closed,2007-02-15,2010-03-02,0,0,0,0.0,0,2
+c:52875,Company,CmyCasa,cmycasa,software,closed,2008-04-01,2012-09-18,0,0,1,600000.0,1,1
+c:5298,Company,Accoona,accoona,search,closed,2004-02-01,2008-04-29,0,0,0,0.0,2,3
+c:53055,Company,Jaymail Email Marketing,jaymail email marketing,advertising,closed,2007-01-01,2012-01-01,0,0,0,0.0,0,0
+c:53304,Company,GeekStatus,geekstatus,web,closed,2010-08-01,2013-06-01,0,0,4,435953.0,0,0
+c:5333,Company,Weeno Media,weeno media,web,closed,2006-06-01,2008-06-01,0,0,0,0.0,0,1
+c:53330,Company,Ayeah Games,ayeah games,games_video,closed,2010-01-01,2011-05-01,0,0,2,530000.0,2,5
+c:53335,Company,Printed Piece,printed piece,web,closed,2010-07-20,2012-02-01,0,0,1,15000.0,1,2
+c:53459,Company,CMP Therapeutics,cmp therapeutics,biotech,closed,2004-01-01,2013-05-01,0,0,1,1960350.0,0,1
+c:53471,Company,TelASIC Communications,telasic communications,public_relations,closed,2001-01-01,2009-12-24,0,0,1,26000000.0,0,4
+c:53484,Company,NBO TV,nbo tv,news,closed,2010-07-30,2012-06-01,0,0,2,18000000.0,1,2
+c:53510,Company,ToVieFor,toviefor,ecommerce,closed,2009-10-15,2011-09-01,0,0,2,93000.0,3,3
+c:5353,Company,Fonemesh,fonemesh,mobile,closed,2008-04-01,2012-01-01,0,0,2,250000.0,2,0
+c:53581,Company,Whereoscope,whereoscope,hardware,closed,2010-09-01,2013-07-01,0,0,1,0.0,2,2
+c:53636,Company,Goozzy,goozzy,web,closed,2009-11-01,2013-01-01,0,0,2,650000.0,1,2
+c:53738,Company,Publisha,publisha,web,closed,2009-09-01,2011-08-12,0,0,1,405956.0,1,3
+c:53790,Company,Qubulus,qubulus,transportation,closed,2010-01-01,2013-05-31,0,0,1,0.0,1,3
+c:53814,Company,PacketHop,packethop,public_relations,closed,2002-01-01,2013-01-04,0,0,1,10000000.0,1,2
+c:53831,Company,Inaura,inaura,other,closed,2007-01-01,2012-07-19,0,0,1,8500000.0,0,3
+c:53946,Company,T-Networks,t networks,public_relations,closed,2000-01-01,2011-09-06,0,0,1,5750000.0,0,0
+c:54,Company,Wesabe,wesabe,web,closed,2005-12-01,2010-06-30,0,0,2,4700000.0,4,3
+c:54027,Company,NeGoBuY,negobuy,ecommerce,closed,2009-12-01,2012-01-01,0,0,1,250000.0,2,4
+c:54066,Company,Blue Vector Systems,blue vector systems,public_relations,closed,2002-01-01,2010-08-31,0,0,1,4000000.0,0,1
+c:54177,Company,Invicta Networks,invicta networks,public_relations,closed,1999-01-01,2010-03-28,0,0,1,200000.0,0,0
+c:54205,Company,WebinarBase,webinarbase,advertising,closed,2010-05-01,2012-01-01,0,0,0,0.0,0,0
+c:54321,Company,Hudson Valley Foodworks,hudson valley foodworks,other,closed,1998-01-01,2010-08-18,0,0,0,0.0,0,0
+c:5446,Company,Teen Media Productions,teen media productions,network_hosting,closed,2007-02-16,2010-12-29,0,0,0,0.0,0,5
+c:54488,Company,Smooth-Stone,smooth stone,cleantech,closed,2008-01-01,2011-07-01,0,0,1,48000000.0,3,1
+c:5457,Company,shopandsave,shopandsave,ecommerce,closed,2008-04-02,2013-04-02,0,0,1,0.0,1,4
+c:54649,Company,Deal51,deal51,web,closed,2010-07-01,2012-01-01,0,0,0,0.0,1,1
+c:5480,Company,mywaves,mywaves,mobile,closed,2005-12-01,2012-06-12,0,0,1,6000000.0,1,9
+c:54882,Company,CommuniTeach,communiteach,enterprise,closed,2009-01-01,2013-05-06,0,0,0,0.0,1,2
+c:54980,Company,SlingPlan,slingplan,software,closed,2007-01-01,2012-10-11,0,0,0,0.0,1,1
+c:55044,Company,ezzai - how to arabia,ezzai how to arabia,web,closed,2010-08-01,2011-08-01,0,0,1,45000000.0,0,1
+c:55059,Company,Stumpwise,stumpwise,enterprise,closed,2010-01-01,2013-06-20,0,0,1,0.0,0,2
+c:5511,Company,Amazing Worlds,amazing worlds,other,closed,2007-05-18,2012-10-01,0,0,0,0.0,1,1
+c:55116,Company,Encodor,encodor,security,closed,2008-01-01,2008-12-31,0,0,0,0.0,0,0
+c:55117,Company,Flirtor,flirtor,games_video,closed,2006-01-01,2007-12-31,0,0,0,0.0,0,0
+c:55118,Company,Relapro,relapro,web,closed,2007-01-01,2007-12-31,0,0,0,0.0,1,1
+c:55120,Company,Toppirs,toppirs,web,closed,2008-01-01,2008-12-31,0,0,0,0.0,1,1
+c:55218,Company,ShieldEffect,shieldeffect,security,closed,2005-01-01,2011-02-02,0,0,1,650000.0,1,1
+c:55269,Company,Vivoxid,vivoxid,biotech,closed,2001-01-01,2012-11-14,0,0,1,6230000.0,0,0
+c:5539,Company,stickapps,stickapps,web,closed,2007-09-01,2012-06-14,0,0,1,0.0,2,3
+c:55395,Company,Mempile,mempile,hardware,closed,2000-01-01,2013-05-02,0,0,1,10500000.0,1,0
+c:55436,Company,Fashism,fashism,fashion,closed,2009-01-01,2013-09-27,0,0,1,1000000.0,3,5
+c:55519,Company,Asteel,asteel,hardware,closed,1999-01-01,2009-06-11,0,0,1,22420000.0,0,0
+c:55592,Company,Wander (f. YongoPal),wander f yongopal,mobile,closed,2010-01-01,2013-07-01,0,0,5,185000.0,1,3
+c:5567,Company,Ztail,ztail,ecommerce,closed,2005-01-01,2012-08-29,0,0,2,1500000.0,2,4
+c:55677,Company,TC Ventures Manila,tc ventures manila,other,closed,2006-09-24,2012-08-06,0,0,0,0.0,1,1
+c:55694,Company,Diabetica,diabetica,biotech,closed,2004-09-01,2012-04-20,0,0,1,1210000.0,0,0
+c:55717,Company,TipCity,tipcity,mobile,closed,2009-06-01,2013-07-01,0,0,1,350000.0,1,3
+c:55829,Company,PANTA Systems,panta systems,software,closed,2002-01-01,2011-02-14,0,0,1,9500000.0,0,0
+c:55834,Company,SAFE ID Solutions,safe id solutions,security,closed,2003-01-01,2011-04-01,0,0,1,9100000.0,0,0
+c:55854,Company,Gaddaf.ly,gaddaf ly,web,closed,2010-09-01,2011-09-10,0,0,0,0.0,1,1
+c:55935,Company,NEBOTRADE,nebotrade,biotech,closed,1993-01-01,2011-03-11,0,0,1,300000.0,0,0
+c:5596,Company,MediaRush,mediarush,web,closed,2000-02-01,2004-10-01,0,0,0,0.0,0,1
+c:5605,Company,Creative Citizen,creative citizen,public_relations,closed,2007-04-01,2011-08-01,0,0,1,0.0,0,2
+c:56122,Company,Fablistic,fablistic,web,closed,2009-08-01,2013-05-30,0,0,1,0.0,2,1
+c:56137,Company,Engana Pty,engana,hardware,closed,2001-01-01,2006-12-05,0,0,1,6100000.0,0,0
+c:56143,Company,Whole Optics,whole optics,public_relations,closed,2000-01-01,2006-04-27,0,0,1,5000000.0,0,0
+c:56148,Company,Moverati,moverati,games_video,closed,2010-02-01,2012-04-12,0,0,1,2150000.0,0,0
+c:56194,Company,Warner Technology(HK),warner technology hk,hardware,closed,2002-04-26,2012-10-01,0,0,0,0.0,0,0
+c:56225,Company,Virtual Sands,virtual sands,mobile,closed,2009-01-01,2011-01-01,0,0,0,0.0,1,1
+c:56359,Company,Akella,akella,software,closed,1993-01-01,2013-05-01,0,0,2,18705000.0,0,0
+c:56478,Company,RippleFunction,ripplefunction,advertising,closed,2010-03-01,2013-06-01,0,0,1,20000.0,1,3
+c:56508,Company,IDYIA Innovations,idyia innovations,network_hosting,closed,1972-01-01,2009-05-05,0,0,1,267500.0,0,0
+c:56509,Company,Torex Retail Canada,torex retail canada,software,closed,1983-01-01,2005-01-01,0,0,1,60000.0,0,0
+c:56568,Company,Sionex,sionex,hardware,closed,2001-01-01,2010-08-06,0,0,1,12000000.0,1,2
+c:56580,Company,Generic Media,generic media,software,closed,2000-01-01,2011-01-28,0,0,1,2500000.0,0,0
+c:56581,Company,Globel Direct,globel direct,public_relations,closed,1969-01-01,2008-02-25,0,0,1,1490000.0,0,0
+c:56664,Company,Ofercity,ofercity,web,closed,2010-06-26,2013-06-01,0,0,1,30000.0,1,2
+c:56678,Company,Little Big Things,little big things,software,closed,2010-08-27,2012-07-01,0,0,1,10000.0,2,1
+c:56703,Company,viseto,viseto,ecommerce,closed,2010-09-15,2013-07-01,0,0,1,0.0,1,1
+c:56858,Company,UniversityLyfe,universitylyfe,network_hosting,closed,2008-01-01,2012-09-24,0,0,1,500000.0,1,1
+c:56896,Company,Clouping,clouping,other,closed,2010-02-01,2011-01-01,0,0,0,0.0,0,0
+c:5693,Company,EnterMedia,entermedia,advertising,closed,2005-01-01,2009-01-01,0,0,1,1000000.0,1,1
+c:5704,Company,RabbleDabble,rabbledabble,other,closed,2007-10-07,2008-01-01,0,0,0,0.0,0,0
+c:57145,Company,Gyst,gyst,search,closed,2010-06-01,2013-08-01,0,0,1,100000.0,2,2
+c:57252,Company,Gifi,gifi,games_video,closed,2010-01-01,2012-03-09,0,0,1,1200000.0,2,3
+c:5728,Company,Sxip Identity,sxip identity,web,closed,2003-10-01,2008-05-16,0,0,0,0.0,3,2
+c:57395,Company,Skedo,skedo,software,closed,2010-06-01,2012-06-01,0,0,1,200000.0,1,3
+c:57443,Company,IronCurtain Entertainment,ironcurtain entertainment,games_video,closed,2010-01-01,2011-11-01,0,0,2,81439.0,1,2
+c:575,Company,SpiralFrog,spiralfrog,games_video,closed,2004-01-01,2009-03-20,0,0,3,45000000.0,3,8
+c:5759,Company,Admixture,admixture,advertising,closed,2006-03-23,2009-07-01,0,0,0,0.0,0,3
+c:57655,Company,Mechanology,mechanology,cleantech,closed,1989-01-01,2012-05-01,0,0,1,8258160.0,0,0
+c:5771,Company,hearwhere,hearwhere,games_video,closed,2008-05-21,2010-12-01,0,0,0,0.0,1,1
+c:57738,Company,CinnaBid,cinnabid,web,closed,2010-09-03,2013-06-01,0,0,2,30000.0,1,6
+c:57779,Company,Intercomp Eletrônica,intercomp eletrônica,other,closed,1991-01-01,2011-01-01,0,0,0,0.0,0,0
+c:5785,Company,Phreadz,phreadz,web,closed,2008-01-02,2011-09-01,0,0,0,0.0,0,1
+c:57923,Company,Visiprise,visiprise,software,closed,1985-01-01,2009-05-03,0,0,1,32000000.0,0,2
+c:5796,Company,Zefanclub,zefanclub,web,closed,2008-01-01,2012-10-09,0,0,1,1000000.0,1,5
+c:5800,Company,Sidecar.me,sidecar me,network_hosting,closed,2010-05-01,2013-06-01,0,0,2,5100000.0,3,4
+c:58200,Company,Health Benefits Direct,health benefits direct,finance,closed,2004-01-01,2013-08-01,0,0,1,5400000.0,1,3
+c:58420,Company,Tutorspree,tutorspree,education,closed,2010-09-01,2013-09-08,0,0,2,1800000.0,2,3
+c:58497,Company,Ozonion,ozonion,advertising,closed,2008-11-01,2012-12-31,0,0,0,0.0,2,4
+c:58560,Company,Klir Technologies,klir technologies,network_hosting,closed,2000-01-01,2007-01-01,0,0,1,8700000.0,0,0
+c:5857,Company,Roovno Web Ventures,roovno web ventures,consulting,closed,2008-01-01,2011-01-01,0,0,0,0.0,0,3
+c:586,Company,Multiply,multiply,ecommerce,closed,2003-12-15,2013-05-31,0,0,4,26600000.0,3,5
+c:58696,Company,Dormzy,dormzy,ecommerce,closed,2010-05-01,2013-03-01,0,0,1,250000.0,1,2
+c:58699,Company,Hashable,hashable,mobile,closed,2010-01-01,2012-07-25,0,0,1,4000000.0,2,15
+c:58795,Company,ENT Surgical,ent surgical,biotech,closed,2009-01-01,2011-01-01,0,0,1,400000.0,0,0
+c:58831,Company,Hug Energy,hug energy,web,closed,2009-11-01,2010-12-31,0,0,1,0.0,1,3
+c:58835,Company,Optimus3,optimus3,ecommerce,closed,2010-01-01,2012-03-01,0,0,4,1475000.0,0,0
+c:5885,Company,Jowba,jowba,web,closed,2007-11-01,2008-07-01,0,0,0,0.0,2,0
+c:58893,Company,Club Santa Monica,club santa monica,ecommerce,closed,2010-06-01,2013-05-01,0,0,1,692850.0,1,0
+c:5894,Company,1bib,1bib,web,closed,2006-01-01,2011-04-04,0,0,1,0.0,0,0
+c:58947,Company,Apprats,apprats,news,closed,2009-01-01,2012-11-01,0,0,1,0.0,3,2
+c:58998,Company,MessageGate,messagegate,software,closed,2001-01-01,2012-07-16,0,0,1,5000000.0,1,3
+c:59009,Company,CatchTheEye,catchtheeye,advertising,closed,2008-02-07,2011-04-03,0,0,2,2600000.0,1,9
+c:59018,Company,Sychron Advanced Technologies,sychron advanced technologies,software,closed,1998-01-01,2012-01-01,0,0,1,5000000.0,0,0
+c:59052,Company,EggCartel,eggcartel,ecommerce,closed,2010-07-01,2013-05-01,0,0,2,1000000.0,1,2
+c:59054,Company,Nettle,nettle,web,closed,2010-10-04,2012-01-01,0,0,1,500000.0,3,3
+c:59210,Company,Shoppingperte,shoppingperte,ecommerce,closed,2010-09-01,2010-01-01,0,0,0,0.0,1,1
+c:59276,Company,frooly,frooly,ecommerce,closed,2009-06-06,2012-02-06,0,0,1,1308754.0,1,1
+c:59286,Company,Lost Property Heaven,lost property heaven,web,closed,2010-01-01,2011-05-01,0,0,1,405529.0,2,4
+c:59298,Company,Diversion,diversion,games_video,closed,2010-05-01,2012-06-01,0,0,2,300000.0,2,5
+c:59353,Company,Cortex Healthcare,cortex healthcare,enterprise,closed,2009-01-01,2000-08-30,0,0,1,60000.0,1,7
+c:59514,Company,Alsayegh Media,alsayegh media,other,closed,2010-01-01,2013-07-01,0,0,0,0.0,0,0
+c:5952,Company,Aptera,aptera,automotive,closed,2003-01-01,2011-12-01,0,0,3,36300000.0,2,3
+c:59555,Company,Intoan Technology,intoan technology,software,closed,2000-01-01,2010-10-20,0,0,1,1220000.0,0,0
+c:59587,Company,EverConnect,everconnect,social,closed,2010-09-21,2012-12-01,0,0,1,200000.0,1,2
+c:59604,Company,BetterWorks (Closed),betterworks closed,enterprise,closed,2010-10-31,2012-05-25,1,1,2,10500000.0,2,8
+c:59655,Company,Covelus,covelus,network_hosting,closed,2003-01-01,2008-05-09,0,0,1,789000.0,0,0
+c:59675,Company,VIDA Software,vida software,mobile,closed,2001-01-01,2009-02-17,0,0,1,592000.0,0,0
+c:59709,Company,CafeBots,cafebots,web,closed,2010-01-01,2010-10-01,0,0,1,5000000.0,2,5
+c:59857,Company,Keldeal,keldeal,web,closed,2010-10-06,2013-01-01,0,0,1,277120.0,1,2
+c:60068,Company,Say-Hey,say hey,public_relations,closed,2009-06-16,2012-04-22,0,0,1,95000.0,1,5
+c:60186,Company,Blue Buzz Network,blue buzz network,news,closed,2006-01-01,2013-06-01,0,0,1,1310000.0,1,1
+c:60229,Company,DormBrain,dormbrain,ecommerce,closed,2010-07-01,2011-01-01,0,0,0,0.0,1,1
+c:60243,Company,Kiha Software,kiha software,software,closed,2008-01-01,2011-08-01,0,0,1,20000000.0,2,1
+c:60275,Company,Labels.io,labels io,search,closed,2010-03-01,2012-06-14,0,0,0,0.0,3,1
+c:60296,Company,99times.cn,99times cn,ecommerce,closed,2005-01-01,2013-05-01,0,0,1,0.0,0,0
+c:6034,Company,Cloudcity,cloudcity,web,closed,2007-02-01,2009-02-02,0,0,1,5906548.0,0,1
+c:60352,Company,World Blender,world blender,games_video,closed,2010-01-01,2011-02-01,0,0,1,12000.0,1,3
+c:60461,Company,VisitorsCafe,visitorscafe,messaging,closed,2010-04-01,2013-01-01,0,0,1,0.0,1,1
+c:6049,Company,TeleFlip,teleflip,mobile,closed,2004-01-01,2008-01-01,0,0,2,4900000.0,3,5
+c:60516,Company,Lazarus Therapeutics,lazarus therapeutics,biotech,closed,2006-01-01,2012-02-01,0,0,1,100000.0,0,1
+c:60616,Company,Flareo,flareo,search,closed,2010-04-01,2011-01-01,0,0,1,700000.0,0,0
+c:60635,Company,Laboratory of Visual and Network Technologies,laboratory of visual and network technologies,games_video,closed,2009-11-16,2010-08-22,0,0,0,0.0,2,3
+c:60677,Company,BeeFirst.in,beefirst in,advertising,closed,2010-10-29,2010-01-01,0,0,1,9523.0,1,2
+c:60704,Company,DotGT,dotgt,hardware,closed,2010-05-01,2012-07-01,0,0,1,250000.0,1,4
+c:60724,Company,Keboko,keboko,consulting,closed,2010-07-04,2011-01-01,0,0,0,0.0,1,1
+c:60756,Company,City Voice,city voice,search,closed,2008-07-01,2013-05-01,0,0,1,1000000.0,0,0
+c:60757,Company,Picostorm Code Labs,picostorm code labs,web,closed,2009-12-09,2013-07-01,0,0,1,401201.0,2,2
+c:60881,Company,Encarnate,encarnate,games_video,closed,2008-01-01,2010-11-23,0,0,1,0.0,2,1
+c:60917,Company,Rifici Services,rifici services,consulting,closed,2010-03-12,2012-12-12,0,0,0,0.0,1,1
+c:610,Company,aka-aki networks,aka aki networks,mobile,closed,2007-01-01,2012-01-01,0,0,1,0.0,2,3
+c:61184,Company,Maxae,maxae,software,closed,2008-10-16,2012-01-01,0,0,0,0.0,3,3
+c:61336,Company,JOYRIDE Auto Community,joyride auto community,social,closed,2009-10-30,2013-07-01,0,0,1,1000000.0,2,2
+c:61338,Company,Frequent Browser,frequent browser,advertising,closed,2010-07-01,2011-07-11,0,0,1,200000.0,1,3
+c:61474,Company,AMOtech,amotech,mobile,closed,2010-06-21,2012-01-01,0,0,2,400000.0,0,2
+c:6150,Company,Inertia Beverage Group,inertia beverage group,software,closed,2004-10-22,2013-01-16,0,0,3,25500100.0,3,6
+c:61592,Company,Flud,flud,enterprise,closed,2010-10-01,2013-08-08,0,0,3,2100000.0,2,12
+c:6171,Company,Gamook,gamook,games_video,closed,2008-01-01,2010-01-01,0,0,1,1500000.0,1,1
+c:6176,Company,LP33.TV,lp33 tv,games_video,closed,2008-01-15,2011-11-22,0,0,1,0.0,2,6
+c:61900,Company,Vivacta,vivacta,medical,closed,1991-01-01,2013-06-01,0,0,1,6405539.0,1,1
+c:62014,Company,Gruburg,gruburg,hospitality,closed,2010-08-01,2012-07-01,0,0,1,3500.0,1,2
+c:6219,Company,DotSpots,dotspots,public_relations,closed,2007-09-01,2012-04-15,0,0,1,300000.0,4,5
+c:62231,Company,Rockford Foresters Baseball Team,rockford foresters baseball team,enterprise,closed,2008-12-15,2012-09-09,0,0,1,0.0,1,1
+c:62235,Company,Chasing Savings,chasing savings,advertising,closed,2009-07-01,2012-04-16,0,0,1,500000.0,1,3
+c:623,Company,RampedMedia,rampedmedia,web,closed,2006-02-01,2013-01-01,0,0,1,0.0,0,2
+c:62356,Company,Danger Room Gaming,danger room gaming,games_video,closed,2009-12-01,2012-06-24,0,0,2,355000.0,1,4
+c:62464,Company,Codemedia,codemedia,mobile,closed,2009-04-17,2011-08-01,0,0,1,60000.0,2,2
+c:62519,Company,Cinetraffic,cinetraffic,search,closed,2009-09-01,2013-05-31,0,0,1,1000000.0,1,1
+c:62703,Company,TouristR,touristr,web,closed,2006-05-01,2011-08-06,0,0,1,736050.0,1,1
+c:63010,Company,LiveGO,livego,games_video,closed,1993-09-15,2012-05-14,0,0,1,0.0,1,3
+c:63013,Company,Decade Worldwide,decade worldwide,games_video,closed,2009-12-21,2012-03-01,0,0,1,70000.0,2,2
+c:63217,Company,Slipstream,slipstream,web,closed,2010-06-01,2013-05-01,0,0,1,20000.0,2,1
+c:6336,Company,Muecs,muecs,software,closed,2008-10-01,2012-08-03,0,0,2,101000.0,1,2
+c:6340,Company,Cozi Group,cozi group,web,closed,2005-03-03,2013-01-31,0,0,7,26390819.0,3,16
+c:63418,Company,incspark,incspark,software,closed,2010-11-19,2013-01-01,0,0,0,0.0,0,4
+c:63467,Company,MyCube,mycube,web,closed,2010-02-01,2012-06-01,0,0,2,15107000.0,0,5
+c:63515,Company,I'm Everyone,im everyone,web,closed,2010-10-01,2011-02-15,0,0,0,0.0,1,1
+c:63621,Company,Lifestander,lifestander,web,closed,2010-09-01,2013-06-01,0,0,1,31000.0,1,1
+c:63649,Company,VouchAR,vouchar,mobile,closed,2010-08-01,2013-06-01,0,0,1,96506.0,2,2
+c:63724,Company,Jubilater Interactive Media,jubilater interactive media,web,closed,2010-12-01,2011-02-01,0,0,1,9940.0,0,1
+c:63731,Company,Weatherista,weatherista,web,closed,2010-08-16,2012-09-01,0,0,1,500000.0,1,2
+c:63805,Company,Spoonzer,spoonzer,web,closed,2009-09-01,2010-01-01,0,0,0,0.0,0,0
+c:6390,Company,MyPronostic,mypronostic,public_relations,closed,2007-08-14,2011-10-15,0,0,1,852115.0,1,3
+c:63940,Company,BOOSST,boosst,web,closed,2010-04-01,2013-01-01,0,0,0,0.0,2,3
+c:64,Company,Stickam,stickam,games_video,closed,2006-02-01,2013-01-31,0,0,0,0.0,5,7
+c:64038,Company,Posterbee,posterbee,enterprise,closed,2010-06-10,2012-09-01,0,0,1,254220.0,2,6
+c:6409,Company,mymission2,mymission2,web,closed,2008-04-01,2010-08-23,0,0,2,292385.0,0,8
+c:6426,Company,MIKESTAR,mikestar,music,closed,2007-02-01,2011-01-01,0,0,2,0.0,1,4
+c:64278,Company,Fitfu,fitfu,software,closed,2009-01-01,2012-09-10,0,0,1,400000.0,1,0
+c:64283,Company,Real Estate 123.eu,real estate 123 eu,search,closed,2010-03-01,2012-01-01,0,0,0,0.0,1,2
+c:6452,Company,Twiddict,twiddict,web,closed,2008-01-01,2012-01-01,0,0,0,0.0,2,4
+c:64530,Company,EINSTASOFT,einstasoft,software,closed,2010-02-28,2011-12-11,0,0,0,0.0,2,2
+c:64594,Company,Friendly Dingo Software,friendly dingo software,web,closed,2010-12-01,2012-01-01,0,0,0,0.0,1,1
+c:64678,Company,GoodClic,goodclic,mobile,closed,2010-05-10,2013-04-01,0,0,1,115000.0,1,3
+c:64693,Company,DealRod,dealrod,ecommerce,closed,2010-09-01,2012-01-01,0,0,0,0.0,1,2
+c:64698,Company,Bikelopse,bikelopse,semiconductor,closed,2010-12-18,2012-01-01,0,0,0,0.0,1,2
+c:64704,Company,Rerecipe,rerecipe,web,closed,2010-03-10,2011-08-01,0,0,1,100000.0,1,1
+c:64756,Company,Pummelvision.com,pummelvision,other,closed,2010-01-01,2012-01-24,0,0,0,0.0,2,1
+c:64909,Company,Reffpedia,reffpedia,search,closed,2010-10-13,2013-07-01,0,0,1,3500000.0,0,0
+c:64922,Company,MediVision,medivision,consulting,closed,2010-10-01,2013-01-01,0,0,1,3000.0,1,2
+c:64929,Company,Ngt4u.inc,ngt4u,web,closed,2009-02-02,2012-03-01,0,0,1,1200000.0,1,1
+c:64971,Company,Broadcast International,broadcast international,software,closed,1984-01-01,2013-03-01,0,0,2,21950000.0,0,4
+c:65050,Company,Cultivate IT Solutions & Management Pvt. Ltd.,cultivate it solutions management pvt,software,closed,2010-01-01,2013-05-01,0,0,1,20000.0,0,1
+c:65080,Company,Dezineforce,dezineforce,software,closed,2008-01-01,2011-02-01,0,0,1,1585419.0,0,0
+c:65088,Company,Simform Solutions,simform solutions,software,closed,2009-06-05,2011-05-11,0,0,0,0.0,1,1
+c:65104,Company,Hoyos Corporation,hoyos,enterprise,closed,2005-01-01,2013-06-01,0,0,1,40000000.0,0,0
+c:65158,Company,Movolo.com,movolo,travel,closed,2007-02-01,2012-06-01,0,0,2,0.0,1,3
+c:65163,Company,Xpert Financial,xpert financial,other,closed,2009-01-01,2012-06-29,0,0,0,0.0,2,8
+c:65176,Company,BustMyBudget.com,bustmybudget,ecommerce,closed,2010-11-05,2013-01-01,0,0,0,0.0,2,1
+c:65229,Company,DirectAdoptions.com,directadoptions,web,closed,2009-01-01,2011-12-28,0,0,1,500000.0,0,1
+c:65296,Company,extraTKT,extratkt,ecommerce,closed,2010-09-01,2011-11-01,0,0,1,50000.0,0,0
+c:6533,Company,eBIZ.mobility,ebiz mobility,ecommerce,closed,2003-01-01,2012-11-19,0,0,1,1100000.0,0,3
+c:65389,Company,Bevvy,bevvy,ecommerce,closed,2011-01-08,2012-01-01,0,0,1,100000.0,3,9
+c:65467,Company,HuJe labs,huje labs,software,closed,2006-01-10,2011-09-03,0,0,1,25000.0,1,2
+c:65534,Company,Storage By The Box,storage by the box,web,closed,2009-07-29,2011-07-21,0,0,1,250000.0,0,2
+c:65600,Company,LUMI Mask,lumi mask,hardware,closed,2011-01-01,2013-06-01,0,0,1,27000.0,1,3
+c:65601,Company,Help Me Rent Magazine,help me rent magazine,real_estate,closed,2010-01-01,2012-05-01,0,0,1,500000.0,0,13
+c:6561,Company,International Liars Poker Association,international liars poker association,other,closed,2007-11-27,2010-11-24,0,0,1,1250000.0,0,3
+c:65673,Company,EmergentDetection,emergentdetection,hardware,closed,2010-04-01,2012-08-01,0,0,2,277900.0,1,2
+c:65754,Company,GasolineCenter,gasolinecenter,web,closed,2005-01-01,2007-01-01,0,0,0,0.0,0,1
+c:65783,Company,Bid Nerd,bid nerd,web,closed,2009-07-01,2011-08-14,0,0,1,250000.0,1,3
+c:65806,Company,Inhale Digital,inhale digital,games_video,closed,2010-08-01,2012-10-01,0,0,2,1300000.0,1,2
+c:65918,Company,hint,hint,web,closed,2010-01-01,2013-07-01,0,0,1,5900000.0,0,2
+c:66135,Company,FlowJob,flowjob,other,closed,2010-01-01,2011-12-01,0,0,1,86548.0,1,3
+c:66145,Company,DealBird,dealbird,software,closed,2010-06-10,2011-09-11,0,0,1,0.0,1,5
+c:66243,Company,handsomexcutive,handsomexcutive,ecommerce,closed,2011-01-01,2013-06-01,0,0,1,120000.0,0,3
+c:6632,Company,Leaders2020,leaders2020,web,closed,2007-09-01,2008-06-09,0,0,1,0.0,0,0
+c:66438,Company,YouHelp,youhelp,social,closed,2010-01-01,2011-11-12,0,0,1,0.0,1,3
+c:6645,Company,eLifestyles,elifestyles,other,closed,2005-03-01,2012-01-23,0,0,1,0.0,0,2
+c:6666,Company,ECO-SAFE,eco safe,web,closed,2007-08-28,2012-10-16,0,0,1,50000.0,0,6
+c:66669,Company,RevoDeals,revodeals,web,closed,2010-03-01,2011-09-01,0,0,1,25000.0,1,1
+c:66690,Company,Sarsys,sarsys,software,closed,2004-01-01,2011-11-01,0,0,1,10000.0,1,3
+c:66706,Company,GreenGoose!,greengoose,hardware,closed,2010-01-01,2013-06-01,0,0,2,1200000.0,3,1
+c:66881,Company,Cruise Compare,cruise compare,travel,closed,2011-01-01,2013-01-01,0,0,2,253195.0,0,0
+c:66955,Company,CityCiao,cityciao,web,closed,2010-11-01,2012-01-01,0,0,0,0.0,1,1
+c:66983,Company,Hopscot.ch,hopscot ch,messaging,closed,2010-12-09,2012-10-01,0,0,1,50000.0,0,0
+c:67018,Company,DreamNinja,dreamninja,ecommerce,closed,2011-01-01,2011-01-01,0,0,0,0.0,0,0
+c:67142,Company,Rusmia,rusmia,software,closed,2010-12-01,2012-03-03,0,0,0,0.0,0,0
+c:6726,Company,Vivaty,vivaty,web,closed,2007-08-01,2010-04-16,0,0,1,9400000.0,3,8
+c:67286,Company,BlooBox,bloobox,software,closed,2009-08-01,2012-02-04,0,0,1,50000.0,0,1
+c:67300,Company,Training Intelligence,training intelligence,ecommerce,closed,2006-03-01,2012-05-04,0,0,1,300000.0,1,3
+c:67427,Company,DateBuzz,datebuzz,other,closed,2010-01-01,2011-01-01,0,0,0,0.0,0,0
+c:67438,Company,Muvvio,muvvio,games_video,closed,2011-01-01,2012-01-01,0,0,0,0.0,2,3
+c:6753,Company,TeamStreamz,teamstreamz,web,closed,2006-12-10,2008-01-01,0,0,1,80000.0,0,3
+c:67627,Company,DocOnYou,doconyou,public_relations,closed,2010-09-15,2011-12-01,0,0,1,550200.0,1,6
+c:67657,Company,Rip it Films,rip it films,games_video,closed,2010-08-01,2013-06-01,0,0,1,159352.0,0,0
+c:67806,Company,Pipewise,pipewise,enterprise,closed,2010-09-01,2012-10-01,0,0,1,3500000.0,2,16
+c:67844,Company,Agentleaf,agentleaf,web,closed,2010-10-01,2011-04-01,0,0,0,0.0,2,2
+c:67905,Company,FOURward Thought,fourward thought,consulting,closed,2010-10-01,2012-06-01,0,0,1,4000.0,1,4
+c:6793,Company,MovieSet,movieset,web,closed,2007-01-01,2011-07-14,0,0,2,6500000.0,0,2
+c:6800,Company,Trusera,trusera,web,closed,2007-01-01,2009-05-27,0,0,1,2000000.0,2,4
+c:68028,Company,AtlanteTrek,atlantetrek,software,closed,2009-12-01,2012-10-01,0,0,1,50000.0,0,2
+c:68113,Company,2nine Ventures,2nine ventures,other,closed,2010-02-12,2012-05-31,0,0,0,0.0,0,0
+c:6812,Company,GET Holding NV,get holding nv,enterprise,closed,2007-03-01,2009-12-23,0,0,1,5666100.0,1,12
+c:68394,Company,Yatown,yatown,social,closed,2010-01-01,2013-05-01,0,0,2,330000.0,1,4
+c:68415,Company,VC VISION,vc vision,consulting,closed,2009-10-24,2013-06-01,0,0,1,3500000.0,0,0
+c:68469,Company,split(able),split able,ecommerce,closed,2011-01-01,2013-09-20,0,0,0,0.0,0,2
+c:6854,Company,Loud3r,loud3r,web,closed,2007-09-01,2012-07-15,0,0,2,3529175.0,3,12
+c:68559,Company,GoTunes,gotunes,music,closed,2010-11-01,2013-06-01,0,0,1,50000.0,0,0
+c:68574,Company,UTILICASE,utilicase,cleantech,closed,1994-01-01,2013-07-01,0,0,1,5000000.0,0,0
+c:686,Company,iJigg.com,ijigg,games_video,closed,2000-03-01,2010-06-22,0,0,1,0.0,0,4
+c:6863,Company,Fashionspace,fashionspace,ecommerce,closed,2007-10-01,2010-01-01,0,0,0,0.0,0,2
+c:68750,Company,Slabble,slabble,web,closed,2011-01-01,2011-08-31,0,0,0,0.0,0,2
+c:6880,Company,Qurium,qurium,web,closed,2003-09-01,2007-08-01,0,0,0,0.0,1,1
+c:68891,Company,Dodex|me,dodex me,web,closed,2010-01-01,2011-01-01,0,0,0,0.0,0,4
+c:69013,Company,GATe Technology,gate technology,software,closed,2007-07-01,2012-08-01,0,0,1,3500000.0,0,0
+c:6905,Company,MyTrainer,mytrainer,games_video,closed,2007-12-01,2012-10-16,0,0,1,0.0,0,2
+c:69053,Company,FOODSCROOGE,foodscrooge,ecommerce,closed,2010-10-01,2013-04-01,0,0,1,200554.0,2,6
+c:6910,Company,IntroNiche,introniche,public_relations,closed,2007-12-14,2012-10-23,0,0,1,0.0,0,1
+c:6919,Company,LinQpay,linqpay,mobile,closed,2007-01-01,2011-10-28,0,0,1,0.0,0,3
+c:69225,Company,Mobile News Now,mobile news now,mobile,closed,2009-07-13,2012-02-01,0,0,0,0.0,0,0
+c:6938,Company,DriftToIt,drifttoit,web,closed,2007-06-09,2009-02-18,0,0,1,300000.0,0,1
+c:69397,Company,Cookzillas,cookzillas,web,closed,2011-02-01,2012-01-01,0,0,0,0.0,0,0
+c:69589,Company,ALPHAThrottle.com,alphathrottle,news,closed,2011-01-01,2012-03-01,0,0,3,250000.0,0,0
+c:6964,Company,Swaptree Inc.,swaptree,web,closed,2010-01-01,2013-05-01,0,0,3,11300000.0,2,5
+c:6967,Company,SaySwap,sayswap,ecommerce,closed,2007-01-01,2012-11-13,0,0,2,550000.0,0,1
+c:69736,Company,Spockly,spockly,other,closed,2010-01-01,2012-08-30,0,0,1,19311.0,0,1
+c:69930,Company,Toygaroo.com,toygaroo,ecommerce,closed,2010-10-01,2013-04-01,0,0,2,250000.0,2,5
+c:69953,Company,Redeemr,redeemr,social,closed,2011-02-01,2013-04-01,0,0,3,250000.0,2,4
+c:69966,Company,fastforward ventures,fastforward ventures,web,closed,2011-02-01,2013-03-15,1,1,0,0.0,1,3
+c:7,Company,Omnidrive,omnidrive,network_hosting,closed,2005-11-01,2008-09-15,0,0,1,800000.0,4,4
+c:70021,Company,Define My Style,define my style,web,closed,2010-02-01,2012-01-01,0,0,1,690000.0,1,4
+c:70053,Company,Funium,funium,games_video,closed,2010-01-01,2013-07-01,0,0,3,3050000.0,2,2
+c:7011,Company,Guruji,guruji,search,closed,2006-10-12,2012-10-22,0,0,2,15000000.0,0,8
+c:70114,Company,MeetMe,meetme,travel,closed,2010-10-01,2013-06-01,0,0,1,150000.0,2,1
+c:70205,Company,Avizent,avizent,consulting,closed,2007-12-07,2012-01-31,0,0,0,0.0,2,2
+c:70229,Company,Accrue Search Concepts dba Boounce,accrue search concepts dba boounce,software,closed,2010-05-20,2013-01-01,0,0,1,200000.0,0,0
+c:70338,Company,Astro Ape,astro ape,games_video,closed,2009-01-01,2013-06-01,0,0,1,0.0,0,3
+c:704,Company,CrowdSpirit,crowdspirit,web,closed,2007-04-01,2010-04-25,0,0,0,0.0,3,2
+c:70424,Company,Klaggle,klaggle,web,closed,2009-01-01,2013-02-23,0,0,0,0.0,2,4
+c:70661,Company,StyleTrek,styletrek,fashion,closed,2010-02-01,2012-01-01,0,0,1,1500000.0,1,2
+c:70745,Company,SocialMatica,socialmatica,other,closed,2010-08-01,2013-06-01,0,0,2,1276000.0,1,3
+c:70753,Company,Hubkick,hubkick,software,closed,2011-01-01,2013-02-01,0,0,1,112500.0,1,4
+c:70861,Company,Churn Labs,churn labs,finance,closed,2011-01-01,2013-04-01,0,0,1,0.0,2,11
+c:70893,Company,Loosecubes,loosecubes,web,closed,2010-01-01,2012-01-01,0,0,2,9030000.0,2,8
+c:70998,Company,TapPress,tappress,mobile,closed,2010-10-10,2011-04-01,0,0,1,2000000.0,0,0
+c:71046,Company,archify,archify,search,closed,2011-01-01,2013-07-01,0,0,2,21189.0,3,3
+c:7106,Company,FuseCal,fusecal,software,closed,2006-01-01,2009-07-08,0,0,0,0.0,0,0
+c:71076,Company,BrieFix,briefix,software,closed,2011-01-01,2012-01-13,0,0,1,21189.0,0,2
+c:71107,Company,AddIn Social,addin social,software,closed,2010-12-01,2012-10-01,0,0,2,54494.0,2,1
+c:71120,Company,Triples Media,triples media,advertising,closed,2010-06-01,2013-07-01,0,0,2,100000.0,0,3
+c:7121,Company,RoboDynamics,robodynamics,hardware,closed,2003-09-22,2012-10-06,0,0,2,600000.0,1,1
+c:71250,Company,Atela,atela,web,closed,2010-08-08,2011-11-10,0,0,0,0.0,2,4
+c:71372,Company,nprogress,nprogress,social,closed,2010-02-01,2012-01-01,0,0,1,1700000.0,2,4
+c:71390,Company,1st Door Software,1st door software,mobile,closed,2008-07-01,2012-07-11,0,0,0,0.0,0,0
+c:71539,Company,Hall of Beta,hall of beta,other,closed,2011-03-01,2012-03-01,0,0,0,0.0,1,1
+c:71547,Company,JamCloud,jamcloud,games_video,closed,2008-07-11,2011-11-01,0,0,0,0.0,1,4
+c:71582,Company,Bizily,bizily,social,closed,2010-01-01,2011-09-06,0,0,1,250000.0,1,4
+c:71625,Company,Skataz,skataz,hardware,closed,2007-05-01,2012-02-26,0,0,1,150000.0,0,0
+c:7163,Company,FlyCast,flycast,mobile,closed,2006-01-01,2013-01-01,0,0,2,2100000.0,1,3
+c:71852,Company,Color Labs Inc.,color labs,other,closed,2010-08-01,2013-06-01,0,0,2,41000000.0,2,11
+c:72039,Company,SceneChat,scenechat,advertising,closed,2009-11-20,2012-11-01,0,0,1,250000.0,1,3
+c:7205,Company,SocialBrowse,socialbrowse,web,closed,2008-01-01,2010-01-01,0,0,1,0.0,1,2
+c:7207,Company,rPath,rpath,enterprise,closed,2005-04-01,2013-05-01,0,0,4,32500000.0,3,8
+c:72113,Company,Plan2biz,plan2biz,software,closed,2010-06-22,2011-01-01,0,0,0,0.0,0,3
+c:72157,Company,Pinevio,pinevio,social,closed,2011-02-04,2013-07-01,0,0,1,22665.0,1,3
+c:72205,Company,Nomadica Brainstorming,nomadica brainstorming,software,closed,1990-03-01,2012-09-01,0,0,1,600000.0,1,2
+c:72239,Company,BuySimple,buysimple,ecommerce,closed,2011-01-01,2011-01-01,0,0,1,700000.0,2,2
+c:72414,Company,OpportunityInbox,opportunityinbox,web,closed,2011-01-01,2011-08-01,0,0,0,0.0,0,2
+c:72460,Company,YellowBrck,yellowbrck,social,closed,2010-05-01,2011-10-01,0,0,1,150000.0,2,1
+c:72632,Company,London Television,london television,games_video,closed,2011-02-28,2011-05-01,0,0,1,0.0,1,0
+c:72639,Company,Zin.gl,zin gl,web,closed,2011-02-01,2012-06-01,0,0,3,1100000.0,3,2
+c:72719,Company,Self Storage HD,self storage hd,web,closed,2011-02-01,2012-01-12,0,0,1,0.0,0,1
+c:72721,Company,Piki,piki,web,closed,2010-11-01,2012-10-01,0,0,1,20000.0,2,3
+c:72733,Company,Stroodle,stroodle,mobile,closed,2010-12-05,2012-11-01,0,0,1,195420.0,1,0
+c:72789,Company,Deal Pinch,deal pinch,web,closed,2010-10-09,2012-01-01,0,0,0,0.0,0,0
+c:72819,Company,Dazzling Beauty Group,dazzling beauty group,ecommerce,closed,2011-02-01,2012-01-01,0,0,1,150000.0,0,0
+c:72848,Company,VendorShop,vendorshop,social,closed,2010-09-15,2013-05-01,0,0,1,70000.0,1,1
+c:72927,Company,Bloom Studio,bloom studio,games_video,closed,2010-07-01,2012-11-01,0,0,1,0.0,2,3
+c:72948,Company,BO.LT,bo lt,web,closed,2009-02-01,2013-04-27,0,0,1,5000000.0,2,4
+c:73047,Company,SMT Research and Development,smt research and development,medical,closed,2004-01-01,2013-06-01,0,0,1,10500000.0,0,2
+c:73060,Company,Jotvine.com,jotvine,social,closed,2011-03-11,2012-01-01,0,0,1,9500.0,1,2
+c:7308,Company,SportsTwit,sportstwit,web,closed,2008-03-01,2009-01-01,0,0,0,0.0,1,1
+c:73131,Company,milog,milog,mobile,closed,2009-04-06,2012-05-01,0,0,2,5000000.0,1,4
+c:73208,Company,Anthem Healthcare Intelligence,anthem healthcare intelligence,medical,closed,2004-01-01,2013-01-01,0,0,1,4800000.0,1,4
+c:73300,Company,BABYBOOM.ru,babyboom ru,ecommerce,closed,2010-04-08,2012-06-01,0,0,1,900000.0,1,3
+c:7334,Company,Wowuwu,wowuwu,network_hosting,closed,2008-06-06,2009-01-01,0,0,0,0.0,0,0
+c:734,Company,Teach The People,teach the people,web,closed,2007-01-01,2013-01-01,0,0,1,300000.0,3,3
+c:7345,Company,Fortisphere,fortisphere,software,closed,2006-01-01,2010-05-01,0,0,1,10000000.0,1,2
+c:7367,Company,Zoopy,zoopy,network_hosting,closed,2007-03-15,2013-01-01,0,0,0,0.0,3,4
+c:73718,Company,That's Solar,thats solar,cleantech,closed,2011-01-01,2013-07-01,0,0,1,4200000.0,0,0
+c:73732,Company,Reviewspotter,reviewspotter,ecommerce,closed,2007-01-03,2012-01-01,0,0,1,100000.0,1,2
+c:73737,Company,Kahub,kahub,web,closed,2011-02-10,2012-03-06,0,0,1,8000.0,1,3
+c:73777,Company,Friendslist,friendslist,other,closed,2011-01-01,2011-08-01,0,0,0,0.0,2,2
+c:7381,Company,Cyloop,cyloop,games_video,closed,2007-01-01,2011-01-01,0,0,0,0.0,1,9
+c:73855,Company,StyleJam,stylejam,design,closed,2010-12-31,2012-02-01,0,0,1,0.0,1,1
+c:740,Company,Nemedia,nemedia,advertising,closed,2002-07-01,2013-01-01,0,0,1,2000000.0,0,1
+c:7409,Company,Recoil,recoil,games_video,closed,2010-08-01,2009-01-04,0,0,0,0.0,0,2
+c:74109,Company,Urban Metrics,urban metrics,web,closed,2010-11-01,2013-06-01,0,0,1,0.0,0,2
+c:74144,Company,Common Ground,common ground,web,closed,2010-11-01,2012-03-14,0,0,1,0.0,1,1
+c:7419,Company,Yuntaa,yuntaa,network_hosting,closed,2006-08-01,2012-07-30,0,0,1,1472100.0,2,5
+c:74243,Company,Venuetastic,venuetastic,web,closed,2010-12-01,2013-07-01,0,0,1,0.0,2,2
+c:74312,Company,Urban Huntr,urban huntr,games_video,closed,2011-01-01,2011-01-01,0,0,0,0.0,0,0
+c:74328,Company,Vigno,vigno,ecommerce,closed,2011-03-03,2013-07-01,0,0,1,0.0,1,3
+c:74511,Company,Get Fresh Kit,get fresh kit,web,closed,2011-04-01,2012-12-01,0,0,0,0.0,0,2
+c:7452,Company,adicate timeads,adicate timeads,other,closed,2005-11-01,2012-01-01,0,0,3,2900000.0,0,2
+c:74548,Company,Slashtag.it,slashtag it,search,closed,2011-04-25,2011-05-09,0,0,0,0.0,1,1
+c:74551,Company,Be Spotted,be spotted,advertising,closed,2008-01-01,2013-05-23,0,0,1,0.0,0,5
+c:7461,Company,MyBoooo,myboooo,mobile,closed,2006-09-20,2009-01-01,0,0,0,0.0,0,0
+c:74771,Company,Efficient Cloud,efficient cloud,network_hosting,closed,2010-10-01,2012-06-01,0,0,1,141410.0,1,4
+c:74814,Company,flaveit,flaveit,social,closed,2011-09-15,2013-01-01,0,0,1,300000.0,1,13
+c:74816,Company,Picuous,picuous,games_video,closed,2010-09-01,2011-12-20,0,0,0,0.0,1,2
+c:7490,Company,PUDGIN,pudgin,web,closed,2007-12-01,2009-01-01,0,0,0,0.0,0,1
+c:7491,Company,AltSearchEngines,altsearchengines,other,closed,2007-06-01,2009-12-01,0,0,0,0.0,0,2
+c:7502,Company,Semanticator,semanticator,advertising,closed,2008-03-01,2012-10-16,0,0,1,0.0,0,3
+c:75021,Company,ScholarPRO,scholarpro,search,closed,2011-01-01,2013-06-01,0,0,2,1015000.0,0,0
+c:751,Company,Trutap,trutap,software,closed,1989-01-20,2009-05-08,0,0,3,14500000.0,2,9
+c:75127,Company,Bababoo,bababoo,messaging,closed,2010-02-01,2013-01-01,0,0,1,1500000.0,2,5
+c:75185,Company,CHOOMOGO,choomogo,hardware,closed,2011-03-05,2013-05-01,0,0,1,15000.0,1,3
+c:75190,Company,A Smarter City,a smarter city,software,closed,2011-03-05,2013-05-01,0,0,1,15000.0,1,3
+c:75197,Company,iwipa,iwipa,software,closed,2010-05-01,2013-12-27,0,0,0,0.0,1,2
+c:75199,Company,stiQRd,stiqrd,mobile,closed,2011-03-05,2013-03-01,0,0,1,15000.0,1,8
+c:75225,Company,Software Pantry,software pantry,software,closed,2009-12-12,2011-07-01,0,0,0,0.0,1,1
+c:75317,Company,CoderHeap,coderheap,other,closed,2011-09-01,2012-05-01,0,0,0,0.0,0,5
+c:75340,Company,Cardinal Media Technologies,cardinal media technologies,mobile,closed,2010-09-13,2012-10-01,0,0,1,63926.0,3,4
+c:75344,Company,DealSpade,dealspade,ecommerce,closed,2011-04-01,2012-05-01,0,0,0,0.0,0,0
+c:7550,Company,Partnerbyte,partnerbyte,software,closed,2006-11-02,2012-02-01,0,0,1,100000.0,0,1
+c:75500,Company,Solmentum,solmentum,cleantech,closed,2009-07-01,2011-11-09,0,0,1,325000.0,1,4
+c:75579,Company,NatSent,natsent,web,closed,2010-01-01,2012-03-24,0,0,1,70000.0,1,1
+c:75597,Company,nuevoStage,nuevostage,web,closed,2010-01-01,2013-06-01,0,0,1,60000.0,0,2
+c:7561,Company,Sonya Labs,sonya labs,web,closed,2008-06-01,2009-03-30,0,0,1,25000.0,1,2
+c:75757,Company,Cubby,cubby,other,closed,2011-02-15,2013-06-01,0,0,1,65000.0,2,3
+c:75788,Company,Novelo,novelo,ecommerce,closed,2011-04-20,2013-07-01,0,0,1,40000.0,1,3
+c:75796,Company,Million Dollar Earth,million dollar earth,advertising,closed,2011-03-01,2012-10-01,0,0,1,30000.0,1,1
+c:75827,Company,PagoPago,pagopago,advertising,closed,2011-01-03,2013-06-01,0,0,1,800000.0,1,1
+c:75835,Company,SproutUps Platform,sproutups platform,network_hosting,closed,2011-04-01,2011-01-01,0,0,0,0.0,1,1
+c:759,Company,GotStatus,gotstatus,web,closed,2007-01-01,2008-01-01,0,0,0,0.0,1,1
+c:75955,Company,Scire,scire,web,closed,2010-08-01,2012-07-01,0,0,0,0.0,0,5
+c:76032,Company,Thucy,thucy,web,closed,2011-03-01,2012-01-01,0,0,1,10000.0,0,1
+c:76033,Company,Newman Infinite,newman infinite,software,closed,2010-07-01,2013-03-01,0,0,0,0.0,2,3
+c:76081,Company,LinkedLeaks,linkedleaks,web,closed,2011-03-05,2011-07-01,0,0,0,0.0,1,3
+c:76237,Company,PodSeven,podseven,games_video,closed,2010-07-15,2011-12-01,0,0,0,0.0,1,3
+c:76274,Company,Sonar.me,sonar me,mobile,closed,2010-01-01,2013-07-17,0,0,1,200000.0,3,8
+c:76306,Company,GFS IT,gfs it,web,closed,2009-01-03,2013-07-01,0,0,1,465744.0,0,1
+c:76456,Company,LocalUncle,localuncle,web,closed,2011-01-01,2013-05-01,0,0,0,0.0,2,3
+c:76463,Company,CatchFree,catchfree,web,closed,2010-09-01,2013-05-01,0,0,1,5500000.0,2,9
+c:76513,Company,MysteryD,mysteryd,games_video,closed,2009-03-01,2011-06-07,0,0,1,350000.0,1,2
+c:76543,Company,Plizy,plizy,photo_video,closed,2010-09-01,2013-06-01,0,0,2,5200000.0,2,5
+c:76613,Company,Team My Mobile,team my mobile,mobile,closed,2010-08-01,2012-05-01,0,0,1,0.0,2,2
+c:7664,Company,Zyked,zyked,mobile,closed,2007-08-01,2010-01-01,0,0,0,0.0,1,1
+c:7665,Company,Woldme,woldme,games_video,closed,2007-01-01,2009-03-31,0,0,1,1500000.0,0,0
+c:7669,Company,PharmaNation,pharmanation,web,closed,2008-05-01,2008-01-01,0,0,1,25000000.0,1,1
+c:76765,Company,Tripl,tripl,social,closed,2011-05-17,2013-07-01,0,0,3,900000.0,3,5
+c:76789,Company,RefferedAgent.com,refferedagent,other,closed,2002-04-01,2011-01-01,0,0,1,275000.0,1,1
+c:76830,Company,Znapshop,znapshop,ecommerce,closed,2011-04-18,2011-10-07,0,0,1,50000.0,0,0
+c:7687,Company,GreenSherpa,greensherpa,web,closed,2007-01-01,2010-01-01,0,0,0,0.0,2,4
+c:76884,Company,New Zealand Free Classifieds,new zealand free classifieds,advertising,closed,2010-01-01,2012-03-01,0,0,1,2100000.0,0,0
+c:77071,Company,Economizze,economizze,web,closed,2010-11-01,2012-01-01,0,0,0,0.0,1,2
+c:772,Company,ITema,itema,software,closed,2007-02-01,2011-12-01,0,0,1,0.0,0,4
+c:77263,Company,Evertale,evertale,photo_video,closed,2011-03-01,2013-05-01,0,0,1,0.0,2,3
+c:77277,Company,U4EA Networks,u4ea networks,ecommerce,closed,2008-02-20,2013-07-01,0,0,1,30000.0,0,0
+c:7738,Company,GlocalReach,glocalreach,mobile,closed,2007-01-01,2009-08-04,0,0,1,200000.0,1,2
+c:77399,Company,Matchpin,matchpin,advertising,closed,2009-01-01,2013-06-01,0,0,1,250000.0,1,2
+c:77402,Company,Favo.rs,favo rs,web,closed,2011-01-14,2012-12-31,0,0,0,0.0,2,3
+c:77477,Company,Blokkd Inc.,blokkd,web,closed,2011-05-13,2013-05-01,0,0,1,12500.0,0,0
+c:7748,Company,Flowgram,flowgram,web,closed,2007-06-01,2008-06-11,0,0,1,1300000.0,3,1
+c:77498,Company,BetaUsersNow.com,betausersnow,web,closed,2011-05-01,2013-05-01,0,0,1,10000.0,1,1
+c:77594,Company,EBOOKAPLACE,ebookaplace,ecommerce,closed,2010-01-01,2013-05-01,0,0,1,1000000.0,0,0
+c:77598,Company,Buy Local Canada,buy local canada,search,closed,2008-01-01,2013-05-01,0,0,1,103703.0,1,1
+c:77614,Company,MyBankComplaint,mybankcomplaint,web,closed,2011-05-22,2013-10-06,0,0,0,0.0,0,1
+c:7764,Company,Imara Corporation,imara,cleantech,closed,2006-01-01,2009-12-08,0,0,0,0.0,0,6
+c:77675,Company,Zigswitch,zigswitch,cleantech,closed,2009-06-18,2012-10-01,0,0,1,50000.0,1,2
+c:77678,Company,Tablo,tablo,education,closed,2010-12-01,2013-06-01,0,0,1,200000.0,2,2
+c:77690,Company,Curbsy,curbsy,hospitality,closed,2011-05-01,2013-06-01,0,0,1,0.0,1,4
+c:777,Company,Orgoo,orgoo,web,closed,2005-11-01,2013-06-24,0,0,1,0.0,2,3
+c:77726,Company,The Wedding Favor,the wedding favor,social,closed,2010-08-01,2013-06-01,0,0,1,100000.0,0,0
+c:78134,Company,Kodesk,kodesk,enterprise,closed,2011-05-18,2012-11-17,0,0,0,0.0,1,2
+c:78144,Company,StudioTweets,studiotweets,music,closed,2011-01-01,2011-09-01,0,0,1,0.0,1,2
+c:78164,Company,PROnewtech S.A.,pronewtech,consulting,closed,2009-04-01,2012-06-22,0,0,1,66230.0,1,3
+c:78258,Company,Deal Phoenix,deal phoenix,web,closed,2010-10-01,2011-01-01,0,0,0,0.0,0,1
+c:78289,Company,Upstart Industries (Vantage),upstart industries vantage,software,closed,2010-01-01,2012-05-01,0,0,1,497608.0,1,2
+c:78478,Company,skillsbite.com,skillsbite,other,closed,2010-08-20,2011-07-19,0,0,1,120000.0,1,2
+c:78504,Company,Poll Me Ltd,poll me,mobile,closed,2011-04-14,2012-09-01,0,0,1,114924.0,1,2
+c:78589,Company,NextDigest,nextdigest,advertising,closed,2009-01-01,2012-07-01,0,0,1,390000.0,0,1
+c:7859,Company,mmCHANNEL,mmchannel,other,closed,2003-05-01,2010-01-01,0,0,2,2977800.0,1,5
+c:7871,Company,KnowNow,knownow,web,closed,2000-01-01,2008-07-07,0,0,1,13000000.0,2,12
+c:78745,Company,Allied Pacific Sports Network,allied pacific sports network,sports,closed,2009-01-01,2012-07-24,0,0,1,7000000.0,1,2
+c:7882,Company,Veedow,veedow,ecommerce,closed,2007-01-10,2009-04-01,0,0,0,0.0,0,2
+c:78853,Company,Birthday Gorilla,birthday gorilla,advertising,closed,2011-05-01,2012-07-19,0,0,1,0.0,1,1
+c:78855,Company,Voila,voila,mobile,closed,2011-06-11,2012-12-01,0,0,0,0.0,1,3
+c:78906,Company,GiftMe,giftme,ecommerce,closed,2011-03-01,2013-04-01,0,0,2,18885.0,0,3
+c:79089,Company,HelpMeRent.com,helpmerent,real_estate,closed,2010-10-01,2013-02-01,0,0,1,154000.0,2,5
+c:79149,Company,Gigi Hill,gigi hill,manufacturing,closed,2009-01-01,2013-07-16,0,0,2,4000000.0,0,9
+c:7934,Company,Refulgence Technostream,refulgence technostream,other,closed,2007-08-01,2011-01-01,0,0,0,0.0,0,2
+c:794,Company,IPartee,ipartee,web,closed,2007-10-01,2009-01-01,0,0,0,0.0,2,2
+c:79456,Company,TrustDegrees,trustdegrees,web,closed,2011-03-01,2012-01-01,0,0,2,11000.0,1,5
+c:79503,Company,Olah-Viq Software Solutions,olah viq software solutions,software,closed,2010-07-02,2012-10-01,0,0,1,0.0,1,2
+c:79535,Company,PriceTag,pricetag,mobile,closed,2011-02-12,2012-02-01,0,0,1,0.0,1,1
+c:79537,Company,Nimbus Enterprise,nimbus enterprise,enterprise,closed,2011-06-01,2012-02-01,0,0,0,0.0,1,2
+c:79619,Company,Acceptly,acceptly,web,closed,2011-04-01,2012-01-01,0,0,0,0.0,0,4
+c:79646,Company,Reelation,reelation,web,closed,2011-02-01,2012-12-23,0,0,1,85000.0,1,4
+c:79721,Company,Village Laundry Service,village laundry service,finance,closed,2008-01-01,2012-10-01,0,0,1,0.0,1,2
+c:79724,Company,Apploors,apploors,mobile,closed,2010-10-01,2012-01-01,0,0,0,0.0,1,1
+c:79736,Company,Coupoplaces,coupoplaces,web,closed,2011-06-01,2012-09-01,0,0,1,15000.0,0,3
+c:79822,Company,BelieversFund,believersfund,mobile,closed,2011-04-01,2012-12-01,0,0,1,50000.0,1,6
+c:79919,Company,TixxMe,tixxme,mobile,closed,2010-10-01,2011-01-01,0,0,0,0.0,0,1
+c:80058,Company,SynergeTech Solutions,synergetech solutions,mobile,closed,2009-06-01,2012-01-01,0,0,0,0.0,1,2
+c:80176,Company,SimpleNFC - CLOSED,simplenfc closed,mobile,closed,2010-04-14,2013-01-10,0,0,0,0.0,1,4
+c:80218,Company,Medico.com,medico,medical,closed,2010-10-01,2012-01-01,0,0,1,0.0,1,2
+c:80228,Company,Oakland Single Parents' Network,oakland single parents network,enterprise,closed,2010-03-15,2013-07-16,0,0,1,5000.0,0,2
+c:80259,Company,Eyeona,eyeona,web,closed,2011-01-01,2012-11-01,0,0,1,2000000.0,2,3
+c:8037,Company,SulfurCell,sulfurcell,cleantech,closed,2002-01-01,2011-10-01,0,0,2,158700000.0,4,1
+c:80400,Company,Matatena Games,matatena games,games_video,closed,2011-12-01,2012-05-01,0,0,1,120000.0,0,4
+c:80669,Company,DidYouFIndADeal,didyoufindadeal,web,closed,2010-12-01,2012-06-01,0,0,0,0.0,0,2
+c:8073,Company,Kickplay,kickplay,games_video,closed,2007-07-01,2010-01-01,0,0,1,0.0,0,1
+c:80760,Company,Fanarchy Limited,fanarchy limited,web,closed,2011-06-19,2013-01-01,0,0,1,18885.0,1,2
+c:80955,Company,Unbooked Ltd,unbooked,web,closed,2010-01-01,2013-07-01,0,0,2,850000.0,0,2
+c:8096,Company,AtBizz,atbizz,ecommerce,closed,2007-03-01,2011-01-01,0,0,1,300000.0,0,0
+c:80960,Company,3ClickEMR Corporation,3clickemr,software,closed,2010-06-23,2011-08-01,0,0,2,500000.0,1,1
+c:810,Company,RatePoint,ratepoint,software,closed,2006-09-01,2012-02-02,0,0,4,24500000.0,4,13
+c:81134,Company,Gigalocal,gigalocal,mobile,closed,2011-03-15,2013-03-15,0,0,1,1000000.0,1,5
+c:81264,Company,KoalaDeal,koaladeal,ecommerce,closed,2011-04-01,2012-01-01,0,0,1,410000.0,1,1
+c:81296,Company,Job Change Notifier,job change notifier,web,closed,2011-01-01,2013-07-12,0,0,0,0.0,1,1
+c:81315,Company,Infactio.us,infactio us,web,closed,2010-01-01,2013-01-01,0,0,0,0.0,1,2
+c:814,Company,Iggli,iggli,web,closed,2007-01-01,2010-04-24,0,0,1,0.0,0,5
+c:8140,Company,Kappa Prime,kappa prime,web,closed,2008-02-01,2012-03-19,0,0,1,0.0,0,2
+c:81474,Company,Caterva,caterva,social,closed,2008-01-01,2013-06-01,0,0,2,2408500.0,1,1
+c:81475,Company,Moprise,moprise,enterprise,closed,2010-01-01,2013-07-01,0,0,2,2238055.0,1,6
+c:8157,Company,Polka,polka,mobile,closed,2007-04-20,2011-01-01,0,0,0,0.0,1,1
+c:81628,Company,RouterShare,routershare,mobile,closed,2011-01-01,2012-02-01,0,0,2,120000.0,0,2
+c:81636,Company,All Together Now,all together now,enterprise,closed,2011-06-01,2012-03-04,0,0,1,0.0,1,3
+c:81809,Company,PerSer Corp,perser,social,closed,2011-07-06,2013-02-01,0,0,1,4000.0,0,10
+c:81886,Company,skyrockit,skyrockit,mobile,closed,2001-01-01,2012-04-01,0,0,1,2600000.0,0,0
+c:82109,Company,yoone,yoone,games_video,closed,2010-11-03,2012-06-01,0,0,1,197597.0,1,2
+c:82145,Company,AlphaNation,alphanation,finance,closed,2010-01-01,2013-07-01,0,0,3,650000.0,0,0
+c:82169,Company,Deal Umpire,deal umpire,other,closed,2011-01-01,2012-08-01,0,0,0,0.0,0,1
+c:8230,Company,Blue Lava Technologies,blue lava technologies,software,closed,2006-01-01,2012-09-23,0,0,3,6005192.0,1,5
+c:82405,Company,Dayzu,dayzu,web,closed,2011-05-01,2012-05-01,0,0,0,0.0,0,2
+c:82415,Company,Electzu,electzu,web,closed,2011-05-01,2012-05-01,0,0,0,0.0,0,1
+c:8251,Company,neoSaej,neosaej,web,closed,2006-01-01,2013-06-01,0,0,5,13130000.0,1,1
+c:82518,Company,Team Media,team media,network_hosting,closed,2000-08-01,2013-08-06,0,0,0,0.0,1,1
+c:82685,Company,InboxFever,inboxfever,messaging,closed,2011-07-01,2012-06-21,0,0,1,0.0,0,2
+c:82688,Company,MoMelan Technologies,momelan technologies,medical,closed,2009-01-01,2013-06-01,0,0,1,5000000.0,0,0
+c:8271,Company,ByteShield,byteshield,software,closed,2004-09-01,2012-09-13,0,0,1,0.0,0,0
+c:82895,Company,Vibrow,vibrow,web,closed,2010-01-10,2012-01-01,0,0,1,300000.0,1,1
+c:82896,Company,gulu.com,gulu,web,closed,2011-05-17,2013-06-01,0,0,1,300000.0,1,5
+c:82909,Company,Bubble & Balm,bubble balm,manufacturing,closed,2009-06-24,2013-07-31,0,0,1,120993.0,0,0
+c:83,Company,AllPeers,allpeers,web,closed,2004-08-01,2008-03-03,0,0,1,0.0,3,5
+c:830,Company,MuseStorm,musestorm,web,closed,2005-01-01,2010-01-17,0,0,2,1429763.0,2,1
+c:83072,Company,Problemcity.com,problemcity,web,closed,2011-01-01,2013-05-01,0,0,1,10000.0,0,0
+c:83173,Company,MyDoorman,mydoorman,software,closed,2009-05-01,2012-04-01,0,0,1,100000.0,2,3
+c:83176,Company,ItsGoinOn,itsgoinon,games_video,closed,2010-05-01,2011-11-01,0,0,1,100000.0,2,3
+c:83205,Company,RoomiePics,roomiepics,games_video,closed,2010-01-01,2012-07-01,0,0,1,150000.0,0,0
+c:83236,Company,Athigo,athigo,software,closed,2011-01-01,2012-04-01,0,0,1,200000.0,0,1
+c:83243,Company,Ground Zero Group Corporation,ground zero group,consulting,closed,2009-05-25,2011-07-01,0,0,1,5000.0,1,2
+c:833,Company,Eons,eons,network_hosting,closed,2005-01-01,2012-05-17,1,1,2,32000000.0,4,14
+c:83450,Company,PrePay,prepay,finance,closed,2011-01-01,2013-04-01,0,0,1,0.0,2,1
+c:8346,Company,Medpedia,medpedia,web,closed,2007-03-01,2013-01-01,0,0,0,0.0,2,2
+c:8351,Company,Myrio,myrio,software,closed,1999-12-01,2012-01-01,0,0,1,20500000.0,0,5
+c:8355,Company,ArtistForce,artistforce,software,closed,2006-08-01,2013-01-01,0,0,2,0.0,0,3
+c:83562,Company,Bilneur,bilneur,ecommerce,closed,2011-06-27,2012-04-01,0,0,1,0.0,1,2
+c:83708,Company,Banksnob,banksnob,search,closed,2011-07-29,2012-09-01,0,0,1,0.0,0,0
+c:83756,Company,Miew,miew,software,closed,2011-03-08,2012-06-01,0,0,1,60000.0,0,1
+c:8377,Company,PhoneFromHere,phonefromhere,public_relations,closed,2007-03-01,2012-02-25,0,0,0,0.0,0,5
+c:83900,Company,XenoOne,xenoone,web,closed,2006-12-15,2012-07-17,0,0,1,3000000.0,2,7
+c:84003,Company,yorAPI,yorapi,software,closed,2012-01-04,2013-07-01,0,0,0,0.0,0,2
+c:84008,Company,CrowdSling,crowdsling,web,closed,2011-03-16,2011-12-01,0,0,1,40000.0,0,3
+c:84030,Company,Urbster,urbster,web,closed,2010-08-01,2012-01-01,0,0,1,0.0,1,2
+c:84032,Company,Lion,lion,web,closed,2011-07-01,2012-05-01,0,0,0,0.0,1,2
+c:84149,Company,Poke'n Call,poken call,social,closed,2011-07-01,2012-07-01,0,0,1,50000.0,0,1
+c:84375,Company,GetCrave.com,getcrave,software,closed,2011-04-16,2011-01-01,0,0,0,0.0,0,0
+c:84412,Company,TripFab,tripfab,travel,closed,2011-06-01,2012-12-01,0,0,1,500000.0,0,2
+c:84454,Company,Teez.mobi,teez mobi,advertising,closed,2011-06-16,2012-01-01,0,0,1,28176.0,1,3
+c:8459,Company,Cascada Mobile,cascada mobile,mobile,closed,2004-01-01,2012-01-01,0,0,1,0.0,0,0
+c:8460,Company,Jamglue,jamglue,games_video,closed,2006-05-01,2010-06-01,0,0,1,0.0,3,4
+c:84743,Company,Soapbox Mobile,soapbox mobile,mobile,closed,2004-01-10,2012-04-28,0,0,3,10125000.0,2,5
+c:84807,Company,StackBlaze,stackblaze,network_hosting,closed,2011-02-01,2012-10-01,0,0,1,54994.0,1,3
+c:84867,Company,Link_A_Media Devices,link a media devices,semiconductor,closed,2004-01-01,2013-01-01,0,0,3,47218498.0,0,4
+c:84886,Company,QRcao,qrcao,software,closed,2011-08-01,2012-01-01,0,0,1,7208.0,1,3
+c:84913,Company,DealChucker,dealchucker,web,closed,2011-08-01,2012-01-01,0,0,0,0.0,0,0
+c:8494,Company,Lexy,lexy,games_video,closed,2006-01-01,2011-06-01,0,0,2,1708000.0,3,4
+c:84962,Company,GameUp,gameup,web,closed,2011-03-01,2012-01-01,0,0,0,0.0,1,4
+c:8505,Company,Code71,code71,software,closed,2006-05-01,2013-05-01,0,0,1,1000000.0,0,2
+c:85140,Company,Roamz,roamz,software,closed,2011-01-25,2013-07-04,0,0,1,3500000.0,2,8
+c:85299,Company,Betista,betista,games_video,closed,2011-07-30,2011-09-28,0,0,0,0.0,1,3
+c:85394,Company,Bizy LLC,bizy,ecommerce,closed,2011-03-01,2011-01-01,0,0,0,0.0,1,0
+c:85493,Company,Techoz,techoz,consulting,closed,2009-09-09,2009-08-18,0,0,1,50000.0,1,1
+c:85503,Company,code-laboration,code laboration,web,closed,2011-05-05,2013-05-01,0,0,3,110000.0,2,13
+c:856,Company,Cuil,cuil,search,closed,2005-01-01,2010-09-01,0,0,2,33000000.0,4,13
+c:85839,Company,I Am Smart Technology,i am smart technology,hardware,closed,2008-01-14,2012-01-03,0,0,2,752000.0,1,2
+c:8596,Company,Carbonetworks,carbonetworks,cleantech,closed,2005-01-01,2011-07-28,0,0,1,5000000.0,1,6
+c:86038,Company,Ziliko,ziliko,ecommerce,closed,2009-01-01,2013-06-01,0,0,4,907101.0,1,6
+c:86120,Company,Netgamix Inc,netgamix,games_video,closed,2010-09-24,2012-04-03,0,0,3,132885.0,2,6
+c:86187,Company,RANK PRODUCTIONS,rank productions,music,closed,2009-10-13,2012-08-01,0,0,2,650000.0,1,4
+c:8621,Company,Instagarage,instagarage,public_relations,closed,2007-05-07,2011-02-01,0,0,1,25000.0,0,2
+c:86448,Company,Pearescope,pearescope,social,closed,2009-09-09,2013-06-01,0,0,2,325000.0,1,5
+c:8699,Company,We're Rolling,were rolling,other,closed,2007-02-19,2010-05-25,0,0,0,0.0,0,2
+c:87650,Company,Gurnard Perch Sophisticated  Technologies,gurnard perch sophisticated technologies,web,closed,2011-01-01,2013-06-01,1,1,1,1350000.0,1,3
+c:8786,Company,IRL Connect,irl connect,web,closed,2008-04-09,2012-11-12,0,0,1,157260.0,1,3
+c:880,Company,mEgo,mego,web,closed,2005-10-01,2012-05-13,0,0,4,6515116.0,0,3
+c:8817,Company,TagosGreen Business Community,tagosgreen business community,public_relations,closed,2008-07-14,2010-02-25,0,0,1,0.0,0,1
+c:8839,Company,Mapori,mapori,public_relations,closed,2007-07-01,2009-08-14,0,0,1,10000.0,0,0
+c:8845,Company,Enikos,enikos,advertising,closed,2006-01-01,2013-05-27,0,0,2,1100000.0,1,7
+c:88495,Company,Path.To,path to,web,closed,2011-03-11,2013-07-16,0,0,1,1500000.0,2,3
+c:8903,Company,RODECO ICT Services,rodeco ict services,web,closed,2004-08-26,2009-06-15,0,0,1,720480.0,0,4
+c:891,Company,StoryBlender,storyblender,network_hosting,closed,2005-01-01,2012-07-11,0,0,1,1500000.0,1,3
+c:894,Company,BroadClip,broadclip,software,closed,2006-04-01,2012-04-01,0,0,1,2885000.0,0,3
+c:8941,Company,Event Innovation,event innovation,enterprise,closed,2007-08-01,2008-01-02,0,0,1,0.0,2,6
+c:8947,Company,Cucku,cucku,enterprise,closed,2007-05-25,2011-08-01,0,0,0,0.0,0,3
+c:8957,Company,Anthillz,anthillz,web,closed,2008-03-29,2008-01-01,0,0,1,0.0,1,0
+c:8989,Company,Mobnotes,mobnotes,mobile,closed,2007-06-01,2011-01-01,0,0,0,0.0,0,5
+c:9031,Company,Zorap,zorap,web,closed,2008-04-21,2011-01-01,0,0,2,2251000.0,2,1
+c:9038,Company,Six Degrees Games,six degrees games,games_video,closed,2006-01-01,2012-06-15,0,0,3,17999998.0,0,5
+c:904,Company,BrightQube,brightqube,ecommerce,closed,2006-10-01,2009-10-01,0,0,2,850000.0,0,3
+c:90490,Company,Spontaneously,spontaneously,web,closed,2011-03-01,2013-02-01,0,0,1,0.0,1,4
+c:905,Company,BuzzDash,buzzdash,web,closed,2006-09-01,2009-04-10,0,0,1,1200000.0,0,2
+c:90505,Company,Everpix,everpix,photo_video,closed,2011-08-26,2013-11-01,0,0,3,2425000.0,3,4
+c:9085,Company,Local Marketers,local marketers,web,closed,2005-01-01,2011-02-03,0,0,1,4100000.0,3,3
+c:9098,Company,Edenbee.com,edenbee,network_hosting,closed,2007-01-01,2011-02-08,0,0,1,329250.0,0,2
+c:9106,Company,LeisureLogix,leisurelogix,software,closed,2006-08-01,2012-09-04,0,0,3,5900000.0,0,5
+c:911,Company,Goojet,goojet,mobile,closed,2006-12-01,2012-05-10,0,0,2,11852030.0,3,5
+c:9128,Company,Agdersoft,agdersoft,web,closed,2007-02-09,2008-01-18,0,0,0,0.0,0,6
+c:915,Company,Mix & Meet,mix meet,web,closed,2006-02-01,2011-12-23,0,0,1,400000.0,0,2
+c:9226,Company,Logia Group,logia group,mobile,closed,2004-01-01,2013-07-07,1,1,1,2500000.0,3,3
+c:930,Company,Notemarks,notemarks,web,closed,2003-10-01,2009-08-01,0,0,0,0.0,0,4
+c:933,Company,Sim Ops Studios,sim ops studios,web,closed,2006-01-01,2011-01-01,0,0,1,698866.0,0,2
+c:9336,Company,Heekya,heekya,web,closed,2008-05-08,2012-05-02,0,0,1,0.0,3,1
+c:9357,Company,ididwork,ididwork,web,closed,2008-08-05,2012-11-14,0,0,1,0.0,0,0
+c:937,Company,mPortico,mportico,mobile,closed,2006-10-01,2012-10-22,0,0,4,3750000.0,0,6
+c:9372,Company,Enigmatec,enigmatec,enterprise,closed,2002-04-01,2011-01-28,0,0,3,32500000.0,1,1
+c:9403,Company,MyFrontSteps,myfrontsteps,web,closed,2008-01-15,2013-06-14,0,0,1,3000000.0,0,0
+c:9421,Company,GoYoDeo,goyodeo,games_video,closed,2007-08-07,2010-04-13,0,0,1,150000.0,0,1
+c:9432,Company,CUPR,cupr,advertising,closed,2008-10-31,2011-05-15,0,0,1,300000.0,0,7
+c:95847,Company,Brightfish,brightfish,web,closed,2011-08-01,2013-05-20,0,0,1,120000.0,0,0
+c:9588,Company,Phrazit,phrazit,web,closed,2008-07-01,2009-01-01,0,0,1,0.0,2,3
+c:9606,Company,Frogmetrics,frogmetrics,web,closed,2008-01-01,2012-11-01,0,0,1,0.0,3,4
+c:9607,Company,Snipd,snipd,games_video,closed,2008-06-01,2011-01-01,0,0,1,15000.0,1,1
+c:962,Company,MatchMine,matchmine,web,closed,2007-01-01,2008-10-27,0,0,1,10000000.0,3,14
+c:9623,Company,1Cast,1cast,games_video,closed,2006-06-01,2012-09-17,0,0,1,0.0,2,4
+c:9632,Company,Statzen,statzen,web,closed,2008-08-01,2010-02-16,0,0,0,0.0,0,2
+c:964,Company,Trusted Opinion,trusted opinion,social,closed,2006-03-01,2011-12-09,0,0,3,4715000.0,3,3
+c:96595,Company,Horrance,horrance,social,closed,2011-07-01,2013-06-01,0,0,1,30000.0,1,0
+c:9667,Company,Nevis Networks,nevis networks,security,closed,2002-01-01,2009-05-29,0,0,0,0.0,0,2
+c:9668,Company,Sequoia Communications,sequoia communications,semiconductor,closed,2000-01-01,2011-01-01,0,0,7,74000000.0,0,3
+c:9693,Company,Unity 4 Humanity,unity 4 humanity,advertising,closed,2006-04-03,2012-01-03,0,0,1,250000.0,2,3
+c:97,Company,EQO,eqo,mobile,closed,2006-02-01,2012-10-25,0,0,4,23500000.0,4,9
+c:9730,Company,OfferLounge,offerlounge,public_relations,closed,2008-01-01,2010-05-01,0,0,1,120000.0,0,3
+c:9747,Company,Storrz,storrz,ecommerce,closed,2007-01-01,2013-03-02,0,0,1,100000.0,0,2
+c:979,Company,PlanHQ,planhq,software,closed,2007-01-01,2013-08-19,0,0,1,250000.0,1,10
+c:98,Company,AllofMP3,allofmp3,games_video,closed,2000-06-01,2007-06-02,0,0,0,0.0,2,0
+c:9829,Company,Prosperity Financial Services Pte Ltd,prosperity financial services pte,web,closed,2006-04-05,2009-01-01,0,0,2,370000.0,0,5
+c:9899,Company,Ultimate Football Network,ultimate football network,network_hosting,closed,2008-01-16,2011-07-26,0,0,1,120000.0,1,1
+c:9920,Company,Phokki,phokki,web,closed,2008-06-01,2013-07-04,0,0,1,45000.0,2,2
+c:9937,Company,Browsercast.com,browsercast,web,closed,2002-06-09,2011-11-23,0,0,1,400000.0,0,1
+c:9977,Company,Carticipate,carticipate,mobile,closed,2008-05-22,2012-08-15,0,0,1,130000.0,2,3
+c:9989,Company,Shattered Reality Interactive,shattered reality interactive,games_video,closed,2006-06-01,2012-07-03,0,0,2,1100000.0,2,4
